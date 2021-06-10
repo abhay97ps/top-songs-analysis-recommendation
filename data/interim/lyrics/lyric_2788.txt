@@ -1,0 +1,869 @@
+Scene 11:  Assembly of Nihilo
+Scene 12:  Kabukicho Prison
+Scene 13:  Ikebukuro Tunnel
+Scene 14:  Asakusa
+Scene 15:  The Obelisk
+===============================================================================
+11.  Assembly of Nihilo
+SOUL:
+The Mantra attacked the Assembly of Nihilo. Is this the end of Nihilo?
+[You enter the Assembly of Nihilo. You see a strange pillar in the center of
+the room that is dripping with Magatsuhi. You speak to an Oni demon.]
+DEMON:
+Hahaha! World of stillness, my ass! Creation? Yeah, right! The Assembly of
+Nihilo is in shambles! Hahahahahaha!
+[You can hear sounds coming from inside the room.
+HIJIRI:
+*sigh* Thank god it's just you. I thought I was ambushed. Don't scare me
+like that! ...Well, you look like you're alright. I'm sorry about what
+happened last time. Yeah, I screwed up...But, it worked out for the best. I
+had no idea they had a base this big...If I had used that thing correctly,
+you would have been here all by yourself! ...I have some idea what's going
+on. The Mantra launched their assault at just the right time. Thanks to
+them, my arrival went unnoticed.
+.....
+Hey, this might sound crazy, but... Did you join the Mantra?
+	       CHOICES
+	  1)   Yeah, I did.
+	       ...I see.
+	       Well, it's your decision, so I won't say anything.
+2)   Why would I do that?
+	       Oh, so it's just a rumor. You seem so much stronger, I
+	       thought it might be true...Oh well.
+HIJIRI:
+This entire room is a facility for collecting Magatsuhi. We're at the center
+of that big hole you see from outside. It was destroyed during the assault,
+and now it's completely shut down. But, this place was filled with tons of
+Magatsuhi just a moment ago. Those Mantra guys beat the hell outta this
+place. I don't blame them... Anybody would assume that this is the core of
+Nihilo. They just left here, acting like they ruled the world...
+...not realizing that Hikawa fooled them. I wouldn't have known either, if I
+didn't use the Amala Network to get here...The flow of Magatsuhi seems a
+little strange. It's cleverly disguised, but this is just bait. The real
+core must be located somewhere else inside the base...And that's where
+Hikawa will be.
+HIJIRI:
+Damn it, I better not stick around much longer...The commotion caused by the
+Mantra has pretty much died down. It'll be even more dangerous now. I wanted
+to meet Hikawa in person, but... I'm not gonna fool myself. I know I won't
+survive that long. On your way here, did you see a corridor that you
+couldn't enter, one that was spinning? I deactivated it, so you should be
+able to go through it now. That's about all the help I can offer...It's up
+to you to decide how to deal with Hikawa. You've come this far...If you turn
+back now, you'll regret it, right? Alright then... See ya.
+[You enter and see two demons talking in front of another strange, spinning
+pillar.]
+KOPPA:
+Those idiot Mantra demons fell for it hook, line and sinker. They're
+probably getting cocky, thinking that they destroyed the core unit.
+Power-shmower. Power's nothing without brains!
+KOPPA:
+.....Hm? Who're you?
+INCUBUS:
+Hmmm...I don't know who you're with, but it looks like you have some brains.
+You just wanna make a name for yourself by taking Commander Hikawa's head,
+huh? Just our luck... We were getting bored of the Mantra's stupidity. We
+need to welcome our guests and show them off to their afterlife comfortably.
+BOTH:
+Diiiiiieeeeeeee!!
+.]
+SOUL:
+...Oh, a wise guy, eh??? Did you come here after Commander Hikawa?
+	 CHOICES
+1)   Yes.
+	       Commander Hikawa is on Floor B15 of the core. But,
+	       you need the , stakes that control the
+	       Magatsuhi in this structure, to get to him. You saw
+	       those four pedestals on the way here, right? Use the
+	       Kilas there...Occasionally, there are visitors like
+	       you, but they all disappear up ahead. They all fall
+	       prey to the traps made by the great Commander Hikawa.
+	       So, why tell you all this? I figure you have the
+	       right to know before you die...
+2)   No.
+	       If you're just here to get in some rubbernecking, I
+	       suggest you turn back. I can't guarantee your safety
+anywhere past here.
+SOUL:
+..........
+This is the storehouse for Magatsuhi. It's separated into three floors, and
+each leads to a storeroom where a Kila is kept. You see that switch? It's
+set up so that it changes the flow of Magatsuhi. *chuckle*  In other words,
+if you don't use the switches properly, you'll never make it to the
+storerooms.
+SOUL:
+In each of the storerooms is a demon guarding the Kila. Even if someone
+were to make it that far, they'd be killed anyway. So, that's why we don't
+have to panic.
+ELIGOR:
+I am Eligor, one of the fallen angels. I guard this Kila under the order of
+our commander. Now... You seem to have some brains, unlike those Mantra
+fools. I like those with intelligence. To show you my respect, I will kill
+you painlessly. I won't let you have the Kila... Die!!
+.
+You complete the next puzzle room and enter another room where an Eligor
+appears.]
+DEMON GUARD:
+Alright, that's enough...
+. When you attempt
+to leave the room, you see a Berith demon.]
+BERITH:
+Halt...
+I am Berith, the great duke of hell.
+Insolent scoundrel, put down the Kila and begone!
+	       CHOICES
+1)   Yes.
+	       Then, hurry and begone! No, wait... I can see your
+	       future...I can see your face and body bloodied by my
+	       hands...If that is the future, then so shall it be!
+	       Die!!
+	  2)   No.
+	       I see...Then, prepare yourself...
+	       ...for my spear shall pierce through your insolent
+	       skull!
+[You finish another puzzle, and move on the the next. During the final
+puzzle, a Kaiwan will occasionally appear to switch things up and say the
+following.]
+MYSTERIOUS DEMON:
+Oh, no you don't! I won't let you get past here. How's this?
+[You will eventually come to the Green Treasure Room. You open the cache cube,
+but it is empty. You leave the room and are stopped.]
+VOICE:
+Hahahaha... What took you so long? Had a hard time figuring out those
+switches at the storehouse?
+KAIWAN:
+I'm Kaiwan... Sorry, but I can't let you have the Kila. So, take a hike.
+Hahahaha!!
+[You chase after him, and in the room with many doors you enter the third
+door on the left.]
+KAIWAN:
+That's right... I'm the real one. It's been fun! It's truly regrettable,
+but I have to kill you now...Playtime's over.
+.]
+[You go back to the main room and use the Kilas on the light pillars. A
+stairway is revealed. You go down the stairs and take the elevator to floor
+B15. You head to the True Core.]
+[You enter and see one of those strange blue pillars. Magatsuhi flows from
+it into the floor. Hikawa is standing in front of the pillar.]
+HIKAWA:
+Interesting...So, you found your way here. I guess the members of Mantra
+aren't as thick as I thought...
+HIKAWA:
+Now, this is a big surprise. You're that boy from the hospital, correct?
+I'm amazed that you're still alive. And judging by your appearance...you've
+gained considerable strength. Why have you come here?
+...Are you here to see me?
+CHOICES
+:
+	  1)   Yes.
+	       ...I see. Even though I nearly killed you, you've
+	       tracked me down to obtain the answers you seek.
+	  2)   No.
+	       Then, are you here to steal the Magatsuhi, like the
+	       Mantra? No... That's not it. But, I have an idea why
+	       you're really here.
+HIKAWA:
+...Very well. I commend you for reaching this place on your own.
+If it is truth that you seek, then I will reveal everything...
+...all there is to know of this world. Take a look at this device...
+Its function is to collect the Magatsuhi.
+You must have seen one like it on the upper level.
+Do you know why Magatsuhi exists?
+	  CHOICES
+	  1)   Yes.                                                                                                                   :
+	       No, not simply for demons to consume. That's a
+	       ridiculous oversimplification...
+	  2)   No.
+	       Remember this... In this world, you might as well be
+	       dead if you don't fully understand Magatsuhi.
+HIKAWA:
+Magatsuhi... It's used as an offering. It is the power needed to call
+forth the god of creation. It is essential to this world's existence. One
+who possesses a strong will can change everything in this world. When
+'Reason'--one's ideology--has been spread, and Magatsuhi has been gathered,
+god will descend from above and reshape the very foundation of the world.
+Yes, for the sole purpose of creation, this world of chaos was brought into
+existence...by me. Soon, my dream will be realized. A complete circle of
+stillness, in harmony with the workings of time... The world of Shijima will
+be born. Mantra believes they've destroyed this base, but as you can see,
+the core is fully functional... Nothing more needs to be done. The targeted
+amount of Magatsuhi will be reached shortly. However, they deserve to be
+punished. We'll use them as an example...of what happens to those who oppose
+the Assembly of Nihilo. This is a good opportunity. Witness what is about to
+take place. Using the Magatsuhi stored here, I will call on my new strength.
+The time has come... Activate the Nightmare System!
+[The True Core shakes, and the Magatsuhi stops flowing. The True Core goes
+dark, and the opening on the top of the Assembly bursts forth with Magatsuhi.
+You see above the tower at  Ikebukuro - Magatsuhi starts to rise slowly from
+it.]
+HIKAWA:
+Do you understand what is happening? It's a system which gives me total
+control over the flow of Magatsuhi on a worldwide scale... This tiny facility
+pales in comparison. As my first target, I have selected Ikebukuro, the home
+of Mantra's headquarters. The Magatsuhi in that area will be depleted, and
+the Mantra will die out in no time.
+HIKAWA:
+...Oh, I forgot to mention. Yuko Takao plays a key role in this system.
+She's been a great help to me. Her abilities as the Maiden have been
+invaluable...Are you worried about Yuko?
+CHOICES
+	  1)   Yes.
+	       I am sorry to say, but she is not here. I doubt that
+	       you will ever see her again. She is the Maiden of
+	       creation...not the teacher you once knew.
+	  2)   No.
+	       You risked your life and came all this way, and you
+say it was not for her? ...Well, it doesn't matter.
+	       She is not here anyways.
+HIKAWA:
+You were not meant to survive the Conception in the first place. Your
+attachment to the previous world will only serve to deepen your despair...
+I should not have been so merciful back then. Your pain, your suffering...
+I shall end it here. I don't know what hopes and dreams you brought with
+you here, but...there is not a single things that you can accomplish in
+this world.
+HIKAWA:
+Now, go and join the others that you have lost...
+.]
+OSE:
+...So you defeated me. But, you will never be able to find our commander, or
+the Maiden. The Nightmare System has been activated. This base will soon be
+closed down, and the way to the Maiden will be lost forever... Begone, demon!
+It is we, the Assembly of Nihilo, who will create the new world!
+SOUL:
+What's going on? Didn't the Mantra win??? I heard that a bunch of Magatsuhi
+was sucked up from Ikebukuro!!
+[You go back to Ginza, and transport to Ikebukuro. You enter Mantra
+Headquarters, where you see Chiaki leaning against a pillar.]
+CHIAIKI:
+...Hi, Hero. I heard about the trial by combat, and I thought it might be
+you who was the winner. Getting here was tough, to say the least...but I'm
+glad I made it.
+CHIAKI:
+Hero...There's something I want to tell you. I decided to play by the rules
+of this world. You know what the purpose of this new world is, right?
+CHIAKI:
+I...I want to try my hand at the creation.
+...You probably think I'm crazy. But, I remembered that voice...
+...that voice I heard when the world changed...
+You must've heard it too, Hero, since you survived.
+[She walks further toward you. White light surround her. You suddenly see her
+in a room of red silhouettes of people sitting at desks in a classroom.]
+CHIAKI:
+...After we went our separate ways, I started thinking. Not just about what
+I have to do in this world, but why the world ended up like this. And then,
+I realized...that there were too many unnecessary things occupying the
+previous world. There were lots of things, and lots of people...But,
+nothing new was being made. Time passed, and nothing changed. What the world
+really needed...it was not getting.
+CHIAKI:
+...it's true that I lost everything. It was the saddest thing imaginable.
+But, I survived the Conception. I was chosen...That's what I'm going to
+believe, and now,  I have to look forward. I still feel a great sadness in
+my heart... but if I can swallow it down... endless possibilities await...
+The power of creation...will be mine.
+[Chiaki sits on the teacher's desk as the student desks and chalkboard melt
+away, leaving only Chiaki, the front desk, and whiteness.]
+CHIAKI:
+'Choose,' the voice said to me.  The world doesn't need any more worthless
+things... That's why I want to create my ideal society, a paradise ruled by
+the strong, the chosen...The world of Yosuga. Hero, you've fought your way
+this far. You know what I'm saying, don't you?
+CHOICES
+	  1)   Yeah, I get it.
+	       ...I'm happy to hear that. I knew you'd understand,
+	       Hero. I might ask you to help me out, then.
+	  2)   I don't see your point.
+	       .....
+	       ...That's too bad. I was hoping you'd understand.
+	       But, no matter what you say, I won't change my mind.
+	  3)  I don't know what to say.
+	       ...I see. But I believe in you, Hero.
+	       I believe that one day you'll come to accept it.
+CHIAKI:
+I'm going to start collecting Magatsuhi. Honestly, I don't know where to
+begin... But, since Yosuga is the Reason of the strong, I'll see what I can
+do on my own first...I'm glad we had the chance to talk today.  We both
+survived the Conception...I'm sure we'll cross paths again. See you later,
+Hero.
+[You enter fully and head for the top floor. Magatsuhi rises all throughout
+the Headquarters. You enter Gozu-Tennoh's Chamber.]
+GOZU-TENNOH:
+You have returned, mighty demon... Have you not seen it with your own
+eyes...? The stronghold of Nihilo was laid to waste by my army...
+Then, why...?
+GOZU-TENNOH:
+Behold... Magatsuhi escapes from my body, against my will... And I am not
+the only one! All the members of Mantra are being drained of their
+Magatsuhi...!
+MANIKIN:
+Curse you, Nihilo! ...What sort of devious trick did they use!? Oh, the
+humiliation! I can see...the Maiden...where the Magatsuhi is drawn to...But
+alas, we are utterly powerless... We have no choice but to wait for our
+doom... Woe to our leader! Gozu-Tennoh!!
+GOZU-TENNOH:
+...No! I will not die! My body may perish, but my spirit will live on! In
+time, the one worthy of my power will come. It is there that I shall return!!
+I will not let them create a world of stillness!! What good is a world
+without strength!? I will not forget this rage, this fire that burns my
+flesh and soul! My kingdom shall rise again...!!
+...Gu...oh.....
+[Gozu-Tennoh crumbles, bursts, his head falls to the ground. Hero ducks out
+of the way. The light from Gozu's yellow eyes goes out. You are now outside
+the chamber.]
+VOICE:
+I knew you would be here...
+THOR:
+Gozu-Tennoh has... No...The Mantra has been utterly destroyed by Nihilo's
+attack...The Assembly of Nihilo had a higher goal than just ruling over
+Tokyo. We, on the other hand, did nothing more than enforce a reign of
+terror....That is the reason we lost. And all those that we called comrades
+have deserted us...You had a friend who was being held prisoner here, did
+you not? Both of you are free to do whatever you want... I have no business
+here anymore. There is no point in guarding an abandoned city...Farewell.
+I will go on a quest to realize my dream of a world where the strong thrive.
+If you are truly strong, then we shall meet again...
+[Thor leaves. You head for the basement of the Mantra Headquarters, and see
+Isamu behind a door.]
+ISAMU:
+...Yo, Hero. It's been a while... I heard about you...even from this cell.
+You participated in the attack on Nihilo, huh? ...Did you know that Ms.
+Takao is the Maiden? That's what I wanted to tell you when I got caught,
+but... Either way, it doesn't look like you brought her back... Damn, even
+you couldn't pull through...I was counting on that demonic power of yours...
+The Mantra's finished, Nihilo's gaining ground...and we still have no idea
+where our teacher is...
+ISAMU:
+What the hell are we doing, wandering around in this godforsaken world...?
+ISAMU:
+...I guess I have to place my bets on that guy. I heard a rumor about this
+incredible Manikin. They say he can see the future...He actually predicted
+the fall of the Mantra. Maybe he can tell us about Ms. Takao...and what we
+should do from here. The last thing I heard was that he was taken to prison,
+so he's probably still there. I'm gonna head off to Kabukicho and look for
+him. There's no place where I can be safe...So, I'll take my chances. Lates.
+[A door in the east part of the Headquarters that was previously guarded is
+now clear. You go through it, and head toward Kabukicho prison.]
+===============================================================================
+12. Kabukicho Prison
+SOUL:
+This is Kabukicho Prison...Huh? This is just a run-down building? You got
+that wrong. This is a prison!!  Even though the Mantra fell, there's still
+loads of Manikins being held here.
+[You check out various rooms, and they are empty. In a few, though, you hear
+voices.]
+VOICE:
+Save us... We're trapped in the mirage...
+VOICE:
+Mizuchi is holding us captive in his mirage... Someone save us!
+EX-GUARD:
+Heheheh... Gozu-Tennoh is gone. This prison now belongs to ...
+I feel like torturing those ! I think I'll go do
+that right now. Heheheh...
+EX-GUARD:
+C'mon, c'mon, c'mon! You better keep it up, or you'll be dead! You want me
+to stop? You REALLY want me to stop? ...Well, too bad!
+Hyahahahahahahahahahaha!!
+VOICE:
+Gaaaaaaaaaaaaaaaaaaahhh!! Ow ow ow ow ow ow ow ow ow ow!!
+EX-GUARD:
+Hyahahahahahahahahahaha!! Phew!! I think I'll let you off with that for
+today. I have , so I can come and go into the mirage as I please...
+I'll be back!
+EX-GUARD:
+Who the hell are you!? Wait, you couldn't be...!?
+	 CHOICES
+	  1)   You better believe it.
+	       ...I-I don't care! This is paradise for us ex-Mantra!
+	       Whatever you did during that attacks on Nihilo doesn't
+	       mean shit here!!
+	  2)   It's just a coincidence.
+	       Whaddya think you're doing here then, punk!? This is
+	       paradise for us ex-Mantra! I'll give you a taste of my
+	       torturing techniques!!
+.]
+[Everything turns upside down - you are walking on the ceiling. All of the
+colors change to black and white. You can now see the Manikins entrapped
+there...they appear right side up because they were hung upside down in their
+cells. You come across a Manikin who is not chained by his feet.]
+DIGGING MANIKIN:
+.....Shit! A Mantra demon!?
+..........? Nooooooooooooo! My spoon broke! Look what you did! I was almost
+done digging, too...It's your fault! I needed that spoon... Take
+responsibility! ...I know. How about you getting me another spoon? The
+ should be around here somewhere. He has just about
+anything. Find him and grab a . You got that? You're responsible!
+COLLECTOR MANIKIN:
+*cough*
+.........?
+...I know you!
+You're the demon I met in the Great Underpass...
+...Huh? A spoon?
+.........
+...I see.
+...Alright, then.
+You did help me... with the Bill...
+*cough* I'll give you my spoon...
+.]
+COLLECTOR MANIKIN:
+...While you're at it, could you rescue me...?
+DIGGING MANIKIN:
+Did you bring me the spoon?
+CHOICES
+	  1)   Yes.
+	       Whoa! This is one powerful spoon!
+	       The Manikin began digging.
+	        The hole was dug instantly.
+	       ...This is incredible. I dug the hole in a flash.
+	       Alright, I'm outta here. See ya!
+	        The Manikin jumped into the hole.
+	  2)   No.
+	       What the heck!? I was counting on you!! Hurry up and
+	       get that spoon from the Collector Manikin!
+[You use the Umugi stone and head back to this room to jump in the hole that
+was dug by the Manikin. You walk walk for a bit, and hear his voice.]
+DIGGING MANIKIN'S VOICE:
+...Dammit!!  I was able to escape from my cell...
+But I need to defeat Mizuchi to escape from the mirage...
+SCREAM:
+Argh! Stop it! Ahhhhhhhhhhhhhhhhhhhhh!!
+MANIKIN PRISONER:
+You there, listen to what I have to say! You see those doors over there?
+Mizuchi, the boss of this prison, is in there! Defeat him and save Futomimi,
+please!!
+MIZUCHI:
+DAMN YOU PESTS! YOU THINK YOU CAN BEAT ME? NOT A CHANCE! I'LL TEAR YOU
+APART!
+.]
+[You open the door that was behind Mizuchi, and a Manikin enters from other
+room.]
+MALE MANIKIN:
+............!
+.....You're.....
+...a human...? No, a demon...? ...I see. You are the 'Demi-fiend' I
+prophesied about. Very interesting. Thank you for defeating Mizuchi. Now,
+we can finally escape from this prison. My name is . You may know
+it already, but I can see into the near future. I've been waiting for you
+to come and save us, you who are both human and demon... You may be
+interested to know that there is a  trapped in the other room. It
+seems he came to see me, but he was also caught. Hm...?
+FUTOMIMI:
+...I see, he is your friend. You should see him, then. I sense a strange
+energy in him. I am worried about the other Manikins, so I must be going.
+Thank you again for saving us...Now, if you'll excuse me.
+[You go to the other room, and see Isamu standing in front of a blue pillar.
+He turns around.]
+ISAMU:
+Well, look who we have here...Hero.  Don't tell me you came to save me.
+You're way too late.
+	       CHOICES
+	  1)   Talk back.
+	       What are you pissed off for?
+	       It's not like you went out of your way to help me.
+	  2)   Apologize.
+	       I don't want your apology. It won't change anything.
+	  3)   Leave the room.
+	       You're leaving? Sure, go ahead. I didn't expect
+	       anything from you anyway.
+ISAMU:
+It's obvious I can't count on you or Ms. Takao anymore. No one's gonna help
+me in this world...I'll have to survive on my own.
+ISAMU:
+When this world was created... I heard a voice that told me to search for
+the truth. At the time, I didn't know what that meant... But, when I was
+locked up in this room, I came to realize. Truth isn't something other
+people can give you: you have to find it within yourself.
+ISAMU:
+And I opened the way without anybody's help. The Amala Network... What I'm
+looking for is in there. The great power that'll lead me to the truth...
+It's calling me...
+-
+FUTOMIMI:
+I have come again to thank you once more...We Manikins plan to leave the
+area. Together, we will find a way to live without suffering...Let me
+prophesy your future as a token of my gratitude.
+FUTOMIMI:
+...A man... at Ginza...
+...It seems that there is a man waiting for you at Ginza. Go and see him...
+We must get going now. Again, thank you so much...Now, if you'll excuse us.
+HIJIRI:
+...Hey, Hero! Looks like you're doing alright. How did you know I was here?
+I heard what Hikawa did. I didn't think he would wipe out the Mantra
+completely. Man, that Nightmare System... It's more powerful than I ever
+imagined. But, I haven't given up just yet. If he makes a move, it may give
+us some clues. Maybe we can figure out where the Nightmare System is located,
+or more about the Maiden...It's too bad this terminal is under Nihilo's
+control. I can't do much digging without raising a red flag. We need to find
+a terminal that Nihilo doesn't know about... Remember those Manikins that
+were enslaved by the Mantra? I heard they're rebuilding the town of
+. Maybe there's a terminal over there that Nihilo's unaware of.
+With the Mantra out of the way, you should be able to get to Asakusa. It's
+way too dangerous for me to come along, though. I'll see what I can do with
+this terminal...Wait a minute. I completely forgot about you. Hey, do you
+feel like going to Asakusa? If you can get there and contact me through the
+Amala Network, it'll make my job much easier. I'm sure you're strong enough
+to make it to Asakusa. So... will you do it for me?
+	    CHOICES
+	  1)   Okay.
+	       Thanks, I appreciate it. I'll tell you everything I
+	       find out there, so let's stay in touch, alright?
+	  2)   I'd rather not.
+	       Oh, come on. You're not gonna let Nihilo have things
+	       their way, are you? I'll tell you everything I find out
+	       there...about Nihilo and the Maiden. Most importantly,
+	       we have to stop Hikawa. So, you're going. Case closed.
+HIJIRI:
+I'll be waiting, then. You should check out the tunnel in .
+If the rumor is true, it'll take you to Asakusa. I'll be working on this
+terminal, but you'll probably have more luck than me. I'm counting on ya.
+===============================================================================
+13. Ikebukuro Tunnel
+[You must fight four Oni in the Tunnel. Once you beat the first three (in
+no particular order), you must fight the fourth.]
+KIN-KI:
+...........
+...WHAT DO YOU WANT? I AM KIN-KI. YOU FILTHY DOG...
+> Kin-ki is not listening. What will you do?
+CHOICES
+	  1)   Introduce yourself.
+	        Kin-ki's breathing is getting heavier.                	                                                               :
+	       ...WHAT, YOU'RE THAT...!? DAMN DEMON-HUMAN FREAK!!
+	       SURVIVAL OF THE FITTEST!! I WILL HUNT YOU DOWN!!
+	  2)   Forget about it.
+	       ..........
+FUU-KI:
+Yee-haw! I'm Fuu-ki. You must have some time on your hands, making it all
+the way down here. Give me some cash, then I can hook you up with some hot
+babes.
+CHOICES
+	  1)   Sounds good to me.
+	       Alright, 100 Macca.
+	              A) Sure.
+	                  Alright! You know how to make things fun!
+	                  Now, let's try the next level!
+	                  100 Macca more!
+	                      i) Sure.
+	                          So close! Sooo close, man! Just 100
+	                          Macca more, really! Then, it's a
+	                          done deal!
+	                               a) Sure.
+	                                  1...2..3... Alright.
+	                                  Now, get outta here!!
+	                                 --He sends you away.--
+	                               b) I'll kick your ass instead.
+	                                  --Same as bottom response.--
+	                       ii) I'll kick your ass instead.
+	                           --Same as bottom response.--
+	               B) I'll kick your ass instead.
+	                  --Same as bottom response.--
+	  2)   I'll give you an ass-kicking.
+	       I'm sorry! Please! Don't hurt me! C'mon, I beg of you!
+	       Ha... Yeah, right! Take this, loser!
+SUI-KI:
+...I've never seen you before. I'm Sui-ki. I'm a cold demon.
+I won't do anything to ya, so come over here...
+	  CHOICES
+	  1)   Okay.
+	       Heh... You got some guts.
+	       --He sends you away.--
+	       --Speak to him again, and he will say the following.--
+	       You really want to have some fun with me, huh?
+	       So come here, will ya?
+	               A)  Okay.
+	                   Ew... Not with a guy, man.
+	                   --He sends you away.--
+	               B)  N-No way.
+	                   Hahaha! You coward. Then, die!
+	                   --He attacks.--
+	  2)   N-No way.
+	       Hahaha! You coward. Then, die!
+	       --He attacks.--
+[Once you have fought those three, you head to the main room to fight the
+last one.]
+ONGYO-KI:
+My name is Ongyo-ki... Are you the one who slew my partners and awakened me!?
+	        CHOICES
+	  1)   I sliced and diced them.
+	       Insolent fool!!!!
+	       Learn your weakness through my illusions!
+	  2)   Must be some other guy.
+	       You cannot fool me!!
+	       Learn your weakness through my illusions!
+.
+You leave the Tunnel and come out in Kuramae Station. You head from there to
+Asakusa.]
+===============================================================================
+14. Asakusa
+MALE MANIKIN:
+Welcome to Asakusa, the city of the Manikins...Ah, it has such a sweet ring
+to it.
+HIJIRI:
+Hey Hero, you made it. Sorry if I pressured you too much, but I managed to
+get here after all. It took a while, but I was finally able to pinpoint the
+route to this terminal. Not bad for an ordinary human, eh?  Oh yeah, I found
+out something interesting about Asakusa. This is where the Manikins are
+created. They're made from the black mud that's scooped up from a river
+around here. No wonder they want to rebuild this town...Anyways, like I
+suspected, the terminal here isn't under Nihilo's surveillance. It's perfect
+for monitoring their activities and finding out about the Nightmare System.
+I just started investigating, so I need some time. It shouldn't take too
+long, though. Why don't you go look around for a while?
+[You look around Asakusa. You approach the door to Mifunashiro, and
+Futomimi appears.]
+FUTOMIMI:
+...Hello, and welcome. Just as I foresaw, you have come to Asakusa. We are
+fated to meet again...Although, that is all I can say at this point. Have
+you looked around Asakusa? Everyone is doing their best to restore the city.
+This is the first city we Manikins have ever considered as our own, after
+all. However...Though you may 'see' our land, you may not 'enter' it any
+further. This is the holy land of the Manikins, . Beyond here
+is our motherland, where we were born... Even if we owe you our lives, I
+cannot allow you past here. I'm truly sorry... Now, I must return to my
+meditations. I have to foresee our new future. I need to find out what I
+need to do to create a world where Manikins can live in peace.
+..........
+...Oh, yes. Beware of a Manikin named . He's a traitor to our
+cause, having committed various atrocities. He's probably hiding out
+somewhere in Asakusa... He might cause you some trouble, but please
+understand that he is not one of us.
+..........
+Now, I must be going...
+MALE? MANIKIN:
+Those days when I used to be tortured by the Mantra...
+Oh, it felt sooooo good!
+SOUL:
+I heard there was a human girl hanging around the Mantra's headquarters
+when they fell. She must have some guts.
+FEMALE MANIKIN:
+We're working hard to restore the city, but there's a bad Manikin that's
+ruining our peace. He's ruthless, tearing off the skins of other Manikins.
+He might be around here, so be careful!
+[You further investigate, and after going through west gate, you enter a
+place that has blood all over floor.]
+MALE MANIKIN: 
+Uh... Ugh.....
+It's Sa......
+Th-That traitor, Sakahagi is going wild... up ahead...
+[You enter and see a Manikin covered in what appears to be a sweater made
+from the skin of human faces, crouched over the body of another Manikin.
+There is a knife in his hand.]
+STRANGE MANIKIN:
+You should've just handed over your Magatsuhi... But instead, you decided to
+oppose me...That was too funny. Well, I'm not complaining. Now, I have this
+new skin to add to my collection...
+...!!
+STRANGE MANIKIN:
+Who's there!? Damn, you had me scared for a second... I thought those
+Manikins were back. They're pretty weak, all of them except this one guy
+that escaped from the Mantra... He's been giving me a headache recently.
+It would've made my life a lot easier if he'd been killed in Ikebukuro. I
+should thank him, though, for bringing his followers here. It's like free
+Magatsuhi. I've been collecting Magatsuhi... Eventually, I'll have enough
+power to dominate all demons. You're a demon: you know how it is.
+You're thirsty for some Magatsuhi yourself, aren't ya?
+	    CHOICES
+	  1)   Yeah, I am.
+	       That's what I thought.
+	       Hey, I think you and I will get along just fine.
+	  2)   Not really.
+	       You don't want Magatsuhi?  ...You're one weird demon.
+STRANGE MANIKIN:
+...Well, it's time for me to go. Maybe we'll meet again, maybe not. We'll
+see. Just remember... I'm Sakahagi, the future ruler of the demons...
+HIJIRI:
+Hey, good timing. How was Asakusa? About the Nightmare System...I've got
+good news. They say a picture is worth a thousand words...so here, take a
+look.
+[The pillar spins. You see a tall tower absorbing a large amount of
+Magatsuhi.]
+HIJIRI:
+You see it? That's the  in Chiyoda. The Nightmare System's inside
+it, along with all the Magatsuhi that's been collected. In other words,
+we've found Nihilo's current headquarters...The system is probably being
+operated by that woman they call the Maiden. I have no idea how it works,
+but we know it's dangerous.
+HIJIRI:
+If I could, I'd go in there myself, but I'm just not strong enough. However,
+if no one does anything, Hikawa will take over the world for sure. I'm
+afraid I have to ask for your help again, Hero. You must stop the Nightmare
+System inside the Obelisk, and return the flow of Magatsuhi in the Vortex
+World back to normal. Use [the secondary entrance to Nihilo's old
+headquarters] to reach the Obelisk. That entrance is locked right now, but
+I can take care of it. With this terminal, it'll be a piece of cake. The
+Obelisk looks pretty tall, and who knows that kind of demons are gonna be
+there. We don't know what kind of power this so-called Maiden has, either.
+It's not gonna be easy, that's for sure... But, I know you can do it.
+[You transfer to Ginza, then head for the secondary entrance of the Assembly
+of Nihilo. You arrive at the Obelisk.]
+===============================================================================
+15. The Obelisk
+SOUL:
+This is the Obelisk.
+This is the closest you'll ever get to Kagutsuchi, in all of Tokyo.
+SOUL:
+The Maiden is at the top floor. She is collecting Magatsuhi with her
+powers...
+[Three women appear.
+COLD-SOUNDING WOMAN:
+Hahahahaha... Just as Lord Hikawa predicted...
+It seems a rat has wandered in!
+ARROGANT-SOUNDING WOMAN:
+Ohohoho... I assume you are here for that woman, but we three sisters are
+guarding the Obelisk... We are not like that useless Ose.
+CRUEL-SOUNDING WOMAN:
+Ahaha... If you want her back, you must defeat us. Well, if you can get to
+us in the first place.
+COLD-SOUNDING WOMAN:
+Kagutsuchi repeats the process of birth and death. It will not wait for you.
+Now... Come!
+WOMEN:
+Ahaha...
+Hahahahahaha...
+Ohohoho...
+[You make your way through the Obelisk, and will eventually complete a
+puzzle during which you must fight three boss battles in a row.]
+COLD-LOOKING WOMAN:
+Hahahahaha... So, have you figured out how the puzzle works? I am Clotho,
+the youngest of the Moirae Sisters. I shall wind the thread of your life!
+ARROGANT-LOOKING WOMAN:
+Ohohoho.. I will not allow you past here. I am Lachesis, the second of the
+Moirae Sisters. I measure the length of life.
+Your thread is reaching its end!
+CRUEL-LOOKING WOMAN:
+Ahaha... Were you able to keep up with Kagutsuchi? I am Atropos, the eldest
+of the Moirae Sisters. How unlucky of you to meet me. I cut the threads of
+fate... In other words... Your fate is already sealed!
+[You travel a bit further, and eventually you must fight all of them once
+more.]
+CLOTHO:
+Hahahahaha...! We aren't letting you pass that easily!
+LACHESIS:
+Do not underestimate us!
+ATROPOS:
+We three Moirae Sisters will...
+CLOTHO:
+Spin!
+LACHESIS:
+Measure!
+ATROPOS:
+And snip your fate!!
+.]
+[You choose to ascend, and in the center of room you see Ms. Takao hovering
+upside-down, Magatsuhi flowing through her body into a black pyramid. You
+reach out your hand and it all stops. The screen cuts to Ms. Takao on the
+floor, with you crouched in front of her.]
+YUKO:
+...Thank you, Hero. I don't know why, but I had a feeling that you'd come
+and save me. It's funny... I told you that I'd be your strength, and you
+ended up helping me instead. I have no power whatsoever. How can I control
+the world, when I can't even take control of my own life...? As the Maiden,
+I just do Hikawa's bidding. 'I would like you to become the pillar of the
+new world.' That's what he told me. In the end, I was nothing but a tool for
+collecting Magatsuhi... It's true that the Conception did take place, and I
+assisted in making it happen. The world is about to be reborn, but as it
+stands now, the new world is going to be a far cry from what I had hoped for.
+I dreamed of an ideal world where people were grateful to be alive...
+...I didn't like how the world was before. People said they wanted peace,
+but they continued to act selfishly, accepting no personal responsibility
+for the world's problems. Nobody realized it, but they were not really happy.
+They were simply lazy. No one had the desire to compete or become strong.
+And there was no need to, either. That's why I thought...that we'd eventually
+lose our power and fade away. No wonder I was used by Hikawa...But, it's
+not over yet.
+YUKO:
+The world is still being recreated... Its shape is not yet fixed. It was
+here that I discovered my god, a god that even Hikawa is unaware of...
+She was drawn here by the power of Magatsuhi. She will surely teach me the
+Reason for creation...
+[Yuko closes her eyes. When she next turns around to face you, her face is
+covered with a splatter of purple. She sways to and fro, occasionally
+convulsing. She is obviously possessed.]
+UNKNOWN GOD:
+Fool who bears the name Freedom... Under the light of liberty, your wrongs
+shall be forgiven. I am . I have come from the far reaches of Amala.
+ARADIA:
+It is my duty to bestow freedom. Ask, and you shall be set free. If you deem
+yourself right, light will return to the world, but so will darkness. Pursue
+the way of creation! You yourself are a world too.
+Do not obey others: do
+what you believe is right.
+ARADIA:
+This woman will soon recover her lost power. She will set forth on the path
+of creation, and I will guide her. Go, and see the world with your own eyes.
+From there will your creation begin...
+[Her body begins to levitate, and disappears in a black cloud. Suddently, the
+old woman and blond child appear.]
+OLD WOMAN:
+Oh dear, Aradia has entered this world. This can only mean trouble,
+my little master.
+OLD WOMAN:
+Be very thankful. My little master has given me permission to enlighten you.
+Listen closely to what I am about to tell you. The time of creation for this
+Vortex World is near. War will erupt amongst those who spread their Reason
+in hopes of shaping the new world. As a demon, you are forbidden to conceive
+your own Reason... Which Reason will you side with? Which will you oppose?
+Will the Reason you choose persevere, or fail? Your suffering is my little
+master's delight. Struggle as hard as you can; You are free to follow
+whichever Reason you like. My only wish is that you do not disappoint my
+little master with a dull ending...
+HIJIRI:
+Hero! You did it! I could tell from here that the flow of Magatsuhi had
+returned to normal. Well, with this blow to Nihilo, Hikawa won't be able to
+make his move for a while. I think we can take a little breather. But, how
+did you stop the Nightmare System? Wasn't that Maiden operating it?
+	   CHOICES
+	  1)   I saved her.
+	       So, Hikawa was using her, huh? Who knows what she'll
+	       do now, but at least the Nightmare System is dead.
+	  2)   I took care of her.
+	       I see... She might have been one of the few surviving
+	       humans, but I guess you had no choice...
+	  3)   I don't want to talk about it.
+	       Oh, you're not gonna tell me? ...Does it bother you
+	       that much? If so, then I'll stop asking. I'm satisfied
+	       knowing that the Nightmare System is out of commission.
+HIJIRI:
+Oh yeah, it might seem like I'm making you do all the work, but...
+...I'm doing what I can. Let me share with you what I've found out so far,
+okay?
+	 CHOICES
+	  1)   Sure.
+	       Alright, listen up.
+	  2)   No thanks.
+	       Come on, man. Journalism is pointless without an
+	       audience. I don't care if you're interested or not,
+	       just listen.
+HIJIRI:
+To create a new world, you must have a strong idea of what kind of world you
+want to create. This idea is commonly referred to as a Reason. Now, to
+acquire a Reason, you must receive divine protection from a god, and this
+is where the Magatsuhi comes into play. You need a large quantity of
+Magatsuhi in order to summon a god. That's why Hikawa, a human, was
+collecting Magatsuhi. Oh, I almost forgot. I met a human inside the Amala
+Network just a minute ago. It was a guy who was held captive by the Mantra.
+His name's Isamu. Do you know him?
+	    CHOICES
+	  1)   Yes, I know him.
+	       Yeah, that's what I thought.
+	  2)   No, I don't.
+Really? There was a rumor that you were trying to help
+	       him, but... Oh well.
+HIJIRI:
+Anyways, about Isamu... He actually seemed to be doing okay in Amala. If
+you're unlucky, you can get swept away somewhere, or even worse, you can
+end up being absorbed by the Network. Well, in a world like this... one life
+doesn't amount to much, and you're better off not getting involved. But if
+you want, I can send you to where I met Isamu.
+HIJIRI:
+Do you want me to transfer you to where Isamu is?
+	   CHOICES
+	  1)   Yeah, can you?
+	       Here we go. By the way, tell Isamu not to spend too
+	       much time in there.
+	       --He transfers you to Amala Network.--
+	  2)   Not right now.
+	       Just let me know when you're ready.
+	  3)   Tell me again how creation works.
+	       It was a little confusing, wasn't it? No big deal.
+	       --He repeats the explanation from above.--
+	       ...Well, there you go.

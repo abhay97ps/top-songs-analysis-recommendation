@@ -1,0 +1,600 @@
+sentiment_comp,sentiment_pos,sentiment_neu,sentiment_neg,f_k_grade,flesch_index,fog_index,difficult_words,num_syllables,num_words,num_lines,num_dup,artist,song,lyricId
+0.8537,0.077,0.923,0.0,0.8,99.63,2.48,6,196,169,30,18,Nancy Sinatra & Lee Hazlewood,Some Velvet Morning,4897
+0.9967,0.097,0.831,0.072,13.5,50.3,14.42,529,4325,2946,101,0,Arthur Prysock,A Working Man's Prayer,4898
+0.9938,0.352,0.566,0.083,-0.9,109.11,2.44,5,146,133,29,4,Joe Simon,No Sad Songs,4899
+0.9657,0.209,0.791,0.0,2.5,89.75,3.68,6,114,91,13,18,"Dave Dee, Dozy, Beaky, Mick And Tich",Zabadak,4900
+0.9186,0.102,0.879,0.019,-0.3,107.48,2.76,5,159,143,23,0,The Lovin' Spoonful,Money,4901
+0.891,0.037,0.963,0.0,2.3,90.16,2.78,2,361,285,43,22,Spanky And Our Gang,Sunday Mornin',4902
+0.9793,0.244,0.7,0.056,0.7,99.73,2.2,3,178,153,28,0,James Carr,A Man Needs A Woman,4903
+0.9201,0.079,0.908,0.013,1.6,92.08,2.45,7,268,211,45,15,Neil Diamond,New Orleans,4904
+0.9986,0.107,0.818,0.075,6.9,72.76,8.62,471,4669,3240,210,0,The Hesitations,Born Free,4905
+-0.0734,0.165,0.677,0.158,1.7,97.2,3.57,11,264,215,27,0,The Temptations,I Wish It Would Rain,4906
+0.9959,0.278,0.702,0.02,-0.3,107.58,2.44,2,197,176,29,14,Cream,Sunshine Of Your Love,4907
+0.972,0.156,0.82,0.024,0.9,99.23,2.94,6,173,149,25,1,The Cowsills,We Can Fly,4908
+-0.8766,0.051,0.822,0.127,0.2,106.57,2.84,1,200,184,26,9,Herman's Hermits,I Can Take Or Leave Your Loving,4909
+0.9962,0.373,0.593,0.033,-0.2,107.28,2.73,10,265,231,36,8,Marvin Gaye,You,4910
+0.9999,0.081,0.861,0.058,6.9,72.97,8.69,2850,18612,13658,901,2,James & Bobby Purify,Do Unto Me,4911
+1.0,0.12,0.812,0.069,11.5,55.37,12.2,1849,18038,12322,510,0,"Oscar Toney, Jr.",Without Love (There Is Nothing),4912
+-0.9081,0.134,0.668,0.198,0.0,106.97,2.88,6,218,200,30,8,Long John Baldry,Let The Heartaches Begin,4913
+0.3773,0.137,0.738,0.125,0.8,99.53,2.6,8,144,125,22,2,Buffalo Springfield,Expecting To Fly,4914
+0.9998,0.113,0.801,0.086,5.7,65.28,3.78,1402,16420,10567,1726,5,Calvin Arnold,Funky Way,4915
+0.6705,0.098,0.853,0.049,0.1,106.67,3.05,3,173,160,23,5,Dionne Warwick,(Theme From) Valley Of The Dolls,4916
+0.9423,0.118,0.854,0.027,-0.2,107.18,3.09,2,181,163,25,8,Bee Gees,Words,4917
+0.9771,0.15,0.839,0.012,0.4,106.06,3.23,7,230,206,27,0,James Brown And The Famous Flames,There Was A Time,4918
+0.9954,0.375,0.606,0.018,3.7,86.5,4.08,7,161,122,12,6,The Dells,There Is,4919
+0.8544,0.194,0.694,0.113,0.8,104.94,3.48,0,86,78,9,0,Glen Campbell,Hey Little One,4920
+0.765,0.049,0.934,0.017,0.9,99.23,2.4,6,270,233,39,15,Clarence Carter,Looking For A Fox,4921
+1.0,0.122,0.782,0.097,4.4,79.36,5.39,2975,31476,23012,2594,16,Ruby Andrews,Hey Boy Take A Chance On Love,4922
+1.0,0.189,0.761,0.05,2.7,89.24,3.91,307,5852,4407,589,14,Linda Jones,Give My Love A Try,4923
+0.5241,0.108,0.795,0.098,0.4,106.06,3.04,1,140,130,17,0,Frankie Laine,To Each His Own,4924
+0.9944,0.08,0.848,0.072,6.5,57.64,4.0,743,5533,3325,627,2,Robert Knight,Blessed Are The Lonely,4925
+0.7606,0.068,0.915,0.017,0.3,106.26,3.18,9,209,184,25,4,Otis Redding,(Sittin' On) The Dock Of The Bay,4926
+0.9908,0.223,0.683,0.094,1.5,97.8,2.96,8,327,280,38,13,Sam & Dave,I Thank You,4927
+0.9778,0.128,0.842,0.03,0.5,100.24,2.3,4,320,263,53,26,1910 Fruitgum Co.,Simon Says,4928
+-0.9835,0.0,0.805,0.195,2.2,95.98,3.95,7,176,147,16,0,Tommy James And The Shondells,Get Out Now,4929
+-0.9693,0.106,0.697,0.197,0.0,106.87,2.88,6,276,243,36,12,Howard Tate,Stop,4930
+0.4522,0.065,0.889,0.046,1.5,97.8,3.28,24,451,375,51,0,Elvis Presley,Guitar Man,4931
+0.9798,0.253,0.697,0.049,1.9,91.17,2.89,6,162,124,22,6,Johnny Cash,Rosanna's Going Wild,4932
+0.9513,0.162,0.789,0.049,0.3,106.26,2.96,4,178,155,21,5,The Mills Brothers,Cab Driver,4933
+0.9986,0.118,0.819,0.063,9.7,60.24,11.79,318,2426,1629,84,0,The Five Americans,7:30 Guided Tour,4934
+-0.1962,0.135,0.739,0.126,2.0,96.48,4.24,66,897,741,85,6,Every Mothers' Son,No One Knows,4935
+0.9118,0.076,0.896,0.029,0.4,105.96,3.08,4,250,232,30,12,Al Hirt,Keep The Ball Rollin',4936
+0.9997,0.617,0.383,0.0,1.1,98.72,2.97,8,257,216,33,19,The Association,Everything That Touches You,4937
+-0.9791,0.023,0.786,0.192,-0.3,107.38,2.52,1,177,163,26,10,Four Tops,Walk Away Renee,4938
+0.6597,0.073,0.927,0.0,-0.4,107.79,2.36,8,153,136,23,0,Albert King,Cold Feet,4939
+1.0,0.147,0.739,0.114,14.8,46.95,15.02,2572,39411,26523,817,0,The Soulful Strings,Burning Spear,4940
+0.967,0.138,0.844,0.018,1.5,97.7,3.24,6,193,166,22,5,Ohio Express,Try It,4941
+0.9873,0.163,0.801,0.036,-0.3,107.38,2.52,2,255,238,38,13,The Delfonics,La - La - Means I Love You,4942
+-0.9975,0.079,0.778,0.143,2.5,89.65,4.73,122,1259,973,138,4,Jim & Jean,People World,4943
+0.8831,0.097,0.863,0.039,0.1,106.67,2.8,4,222,197,28,12,The 5th Dimension,Carpet Man,4944
+-0.9818,0.011,0.817,0.172,0.2,106.37,3.14,5,201,182,25,12,The Will-O-Bees,It's Not Easy,4945
+-0.9466,0.014,0.884,0.102,2.8,94.25,4.59,9,209,175,16,2,The First Edition,Just Dropped In (To See What Condition My Condition Was In),4946
+0.9773,0.175,0.795,0.03,-1.7,116.55,2.24,2,181,174,31,11,The Sunshine Company,"Look, Here Comes The Sun",4947
+-0.8798,0.067,0.821,0.112,0.3,106.16,3.0,8,301,271,36,2,Gladys Knight And The Pips,The End Of Our Road,4948
+0.889,0.095,0.905,0.0,0.8,99.63,2.24,6,170,141,25,8,Sly & The Family Stone,Dance To The Music,4949
+0.9545,0.107,0.874,0.018,3.2,82.61,5.71,37,272,198,35,12,Al Martino,Love Is Blue,4950
+0.2846,0.026,0.974,0.0,2.7,94.66,4.2,2,99,84,8,0,Eddy Arnold,"Here Comes The Rain, Baby",4951
+0.9987,0.33,0.661,0.008,1.6,102.91,4.68,10,335,299,28,11,The Scaffold,Thank U Very Much,4952
+0.9973,0.303,0.68,0.017,0.3,106.26,3.33,3,243,214,29,3,Madeline Bell,I'm Gonna Make You Love Me,4953
+1.0,0.147,0.776,0.076,5.2,82.65,6.63,1376,20862,16581,1181,8,Bobby Vee And The Strangers,Maybe Just Today,4954
+0.9484,0.04,0.956,0.004,2.5,95.06,4.78,33,734,598,59,53,The Vanilla Fudge,Where Is My Mind,4955
+0.9778,0.182,0.742,0.076,0.7,99.83,3.12,5,200,166,31,9,The Four Sonics,You Don't Have To Say You Love Me,4956
+0.971,0.129,0.838,0.033,1.1,104.13,3.8,6,270,248,26,9,Otis & Carla,Lovey Dovey,4957
+0.9627,0.063,0.918,0.019,1.7,97.2,3.42,16,623,538,67,6,Joe Tex,Men Are Gettin' Scarce,4958
+0.9831,0.207,0.643,0.15,1.6,97.4,3.92,49,583,498,64,0,The Fantastic Johnny C,Got What You Need,4959
+0.9389,0.086,0.874,0.041,1.5,97.6,3.32,16,334,288,38,2,Patti Page,Gentle On My Mind,4960
+0.9998,0.113,0.801,0.086,5.7,65.28,3.78,1402,16420,10567,1726,5,Billy Vera & Judy Clay,Country Girl - City Man,4961
+-0.5848,0.136,0.721,0.143,3.2,82.41,3.72,25,284,206,35,0,Georgie Fame,The Ballad Of Bonnie And Clyde,4962
+1.0,0.102,0.82,0.077,3.7,86.5,5.2,1634,29171,21801,2134,936,Jackie Wilson & Count Basie,For Your Precious Love,4963
+-0.9079,0.051,0.886,0.064,8.4,63.49,10.56,201,1337,892,55,0,The Mirettes,In The Midnight Hour,4964
+0.9761,0.302,0.565,0.133,-0.6,108.29,2.16,5,172,150,28,4,Barbara Lynn,This Is The Thanks I Get,4965
+0.9883,0.306,0.529,0.165,3.2,87.82,3.81,5,205,161,18,7,Wilson Pickett,Jealous Love,4966
+-0.4265,0.023,0.935,0.042,2.8,89.04,3.66,22,268,208,27,2,Shorty Long,Night Fo' Last,4967
+0.9947,0.074,0.884,0.042,5.7,65.08,3.89,224,2225,1372,219,16,The Royal Guardsmen,I Say Love,4968
+-0.9077,0.124,0.713,0.164,0.8,104.94,3.66,4,250,226,26,5,Herbie Mann,Unchain My Heart,4969
+0.9486,0.212,0.724,0.065,-0.4,107.69,2.4,4,102,90,15,0,Petula Clark,Kiss Me Goodbye,4970
+0.9562,0.181,0.717,0.102,0.4,105.86,3.12,2,216,195,25,1,Gene And Debbe,Playboy,4971
+-0.9483,0.052,0.7,0.248,-0.8,108.9,2.27,3,126,114,24,5,Jack Jones,If You Ever Leave Me,4972
+0.9999,0.093,0.838,0.069,3.0,88.43,4.61,1404,16038,12562,1517,1,Troy Keyes,Love Explosion,4973
+1.0,0.138,0.788,0.074,14.6,52.87,15.16,5154,112328,82535,2355,0,Anthony & The Imperials,I'm Hypnotized,4974
+-0.9992,0.066,0.747,0.186,2.5,94.96,4.58,46,1018,884,87,32,The Happenings,Music Music Music,4975
+0.9873,0.143,0.82,0.036,2.6,94.76,4.73,9,333,282,27,10,The Tremeloes,Suddenly You Love Me,4976
+-0.4817,0.129,0.708,0.163,1.9,96.69,4.39,11,252,203,24,8,The Balloon Farm,A Question Of Temperature,4977
+1.0,0.122,0.782,0.097,4.4,79.36,5.39,2975,31476,23012,2594,16,Peaches & Herb,The Ten Commandments Of Love,4978
+0.9868,0.141,0.849,0.01,0.5,100.24,2.0,7,336,290,58,23,Aretha Franklin,Soulville,4979
+0.987,0.231,0.688,0.081,0.6,105.35,3.8,5,276,249,30,8,Smokey Robinson & The Miracles,If You Can Want,4980
+-0.999,0.096,0.684,0.22,2.8,94.35,4.68,41,918,768,71,21,Ray Charles,That's A Lie,4981
+1.0,0.12,0.798,0.082,2.8,88.84,4.13,832,17634,13629,1723,51,John Fred And The Playboys,Hey Hey Bunny,4982
+0.1994,0.041,0.927,0.032,1.6,97.4,3.55,9,219,187,24,12,The American Breed,Green Light,4983
+0.9999,0.103,0.842,0.055,18.1,43.74,20.9,1496,10389,7301,166,0,Claudine Longet,Love Is Blue (L'Amour Est Bleu),4984
+0.9831,0.164,0.796,0.04,1.0,104.44,3.68,4,231,203,22,9,The Troggs,Love Is All Around,4985
+0.7892,0.114,0.823,0.063,0.6,99.94,2.33,4,223,189,36,5,Aretha Franklin,(Sweet Sweet Baby) Since You've Been Gone,4986
+0.8697,0.253,0.527,0.22,0.1,106.77,2.76,3,235,208,30,15,The Box Tops,Cry Like A Baby,4987
+0.9549,0.153,0.757,0.09,1.4,98.01,3.8,21,271,217,30,8,Simon & Garfunkel,Scarborough Fair (/Canticle),4988
+0.8627,0.1,0.847,0.053,1.8,96.89,3.92,16,326,266,32,3,Roger Miller,Little Green Apples,4989
+0.9448,0.117,0.863,0.02,3.1,88.02,4.25,12,267,209,24,11,Manfred Mann,Mighty Quinn (Quinn The Eskimo),4990
+0.9935,0.207,0.776,0.018,0.9,99.23,3.17,9,251,209,35,9,Marvin Gaye & Tammi Terrell,If This World Were Mine,4991
+0.9984,0.497,0.464,0.039,1.9,91.37,2.36,3,253,201,37,4,Etta James,Security,4992
+0.891,0.047,0.947,0.006,8.7,57.47,8.13,88,436,276,20,0,Michele Lee,L. David Sloane,4993
+0.9919,0.185,0.778,0.037,-0.4,107.69,2.4,3,256,238,40,21,The Union Gap Featuring Gary Puckett,Young Girl,4994
+0.9971,0.393,0.578,0.029,2.6,89.34,3.7,7,215,163,22,1,The Sweet Inspirations,Sweet Inspiration,4995
+0.9028,0.132,0.825,0.043,1.4,98.01,3.45,9,257,209,29,10,Blue Cheer,Summertime Blues,4996
+0.9992,0.588,0.412,0.0,-0.4,107.69,2.4,6,206,191,32,19,The Turtles,Sound Asleep,4997
+0.9747,0.156,0.818,0.026,0.3,106.16,3.0,7,222,194,26,8,Grapefruit,Dear Delilah,4998
+0.9994,0.076,0.866,0.058,5.3,82.34,7.28,1368,9974,7807,545,0,Trini Lopez,Sally Was A Good Old Girl,4999
+0.9992,0.407,0.593,0.0,0.5,100.24,2.0,4,302,252,50,31,The Montanas,You've Got To Be Loved,5000
+0.9838,0.317,0.683,0.0,1.2,98.41,2.72,1,98,82,12,5,The Monkees,Valleri,5001
+0.9527,0.142,0.809,0.048,0.6,100.04,2.29,17,236,194,37,16,The Monkees,Tapioca Tundra,5002
+1.0,0.1,0.837,0.063,13.3,56.22,15.28,2803,19856,14639,462,0,Willie Mitchell,Soul Serenade,5003
+0.9963,0.344,0.656,0.0,0.1,106.77,3.0,6,186,166,24,11,The Lemon Pipers,Rice Is Nice,5004
+0.9987,0.331,0.661,0.007,1.4,98.01,3.2,8,299,252,35,13,Jimmy Ruffin,I'll Say Forever My Love,5005
+0.9872,0.205,0.774,0.021,1.9,91.17,2.24,12,213,163,29,7,Donovan,Jennifer Juniper,5006
+0.9922,0.169,0.797,0.035,0.1,106.67,2.94,5,313,292,42,25,The Foundations,Back On My Feet Again,5007
+-0.9993,0.061,0.607,0.332,-0.3,107.58,2.67,11,392,342,56,16,The Human Beinz,Turn On Your Love Light,5008
+0.742,0.085,0.848,0.067,-0.2,107.28,2.86,5,299,270,42,9,Chuck Jackson,(You Can't Let The Boy Overpower) The Man In You,5009
+0.9558,0.176,0.74,0.084,-0.6,108.19,2.2,4,230,202,37,0,Bobby Bland,Driftin' Blues,5010
+0.993,0.262,0.713,0.025,1.3,103.52,4.04,6,179,162,16,1,David Houston,Have A Little Faith,5011
+0.9939,0.244,0.732,0.024,0.9,104.74,3.77,11,211,187,21,4,Brenton Wood,Lovey Dovey Kinda Lovin',5012
+0.2547,0.113,0.801,0.085,1.7,91.68,2.04,3,213,168,33,9,James Brown And The Famous Flames,I Got The Feelin',5013
+0.995,0.217,0.757,0.026,1.8,91.58,2.72,14,315,251,48,16,Diana Ross & The Supremes,Forever Came Today,5014
+0.9794,0.13,0.857,0.013,-0.1,107.08,2.64,4,290,259,39,6,Percy Sledge,Take Time To Know Her,5015
+0.5803,0.048,0.897,0.055,3.0,82.91,4.54,16,218,151,28,16,Strawberry Alarm Clock,Sit With The Guru,5016
+0.9958,0.241,0.732,0.028,-0.7,108.6,2.22,5,253,226,44,26,The Hollies,Jennifer Eccles,5017
+0.1045,0.065,0.818,0.117,1.5,97.7,3.17,14,278,241,32,5,Arthur Conley,Funky Street,5018
+0.9872,0.211,0.768,0.021,0.3,106.16,3.71,8,257,226,30,5,Small Faces,Tin Soldier,5019
+0.9748,0.167,0.786,0.047,-0.3,107.48,2.67,4,228,210,34,6,The Cowsills,In Need Of A Friend,5020
+-0.546,0.17,0.616,0.214,2.6,89.34,3.98,8,148,118,16,2,The Formations,At The Top Of The Stairs,5021
+0.9797,0.107,0.845,0.047,1.6,97.5,3.49,26,697,585,76,9,The Hesitations,The Impossible Dream,5022
+-0.8994,0.056,0.812,0.132,0.0,106.87,3.0,2,161,143,21,7,Perry Como,The Father Of Girls,5023
+0.9409,0.12,0.857,0.023,1.2,98.41,3.2,10,288,250,37,5,The Jimi Hendrix Experience,Up From The Skies,5024
+0.9998,0.113,0.801,0.086,5.7,65.28,3.78,1402,16420,10567,1726,5,Jon & Robin And The In Crowd,Dr. Jon (The Medicine Man),5025
+0.9694,0.187,0.731,0.082,0.5,105.66,3.42,5,203,183,23,9,Tom Jones,Delilah,5026
+-0.9997,0.109,0.754,0.137,2.5,95.06,4.61,369,6571,5609,556,6,Ronnie Dove,In Some Time,5027
+0.4871,0.063,0.899,0.038,3.4,81.9,2.56,14,167,121,19,4,The Beatles,Lady Madonna,5028
+0.8662,0.132,0.752,0.117,-0.3,107.48,3.06,13,395,347,56,7,Bobby Goldsboro,Honey,5029
+0.7961,0.075,0.887,0.039,1.8,96.79,3.59,22,418,343,41,7,The Irish Rovers,The Unicorn,5030
+0.9641,0.157,0.79,0.052,2.0,90.97,2.75,6,230,184,32,5,The Intruders,Cowboys To Girls,5031
+-0.4019,0.099,0.774,0.127,0.3,106.26,2.96,1,139,125,17,3,Dean Martin,You've Still Got A Place In My Heart,5032
+0.9899,0.243,0.695,0.061,2.6,89.45,3.17,5,209,160,22,8,Lulu,"Me, The Peaceful Heart",5033
+0.9848,0.243,0.698,0.059,0.6,105.45,3.28,1,150,139,17,2,Nancy Sinatra,100 Years,5034
+0.9901,0.248,0.716,0.036,1.4,97.91,2.92,8,182,153,21,6,The Lettermen,Sherry Don't Go,5035
+0.9698,0.136,0.798,0.066,-1.0,109.21,1.98,2,236,219,49,16,Vikki Carr,She'll Be There,5036
+-0.9636,0.046,0.785,0.169,1.7,91.68,2.35,6,163,127,25,6,The Doors,The Unknown Soldier,5037
+0.9657,0.185,0.798,0.017,1.7,97.3,3.5,8,146,119,15,5,The Who,Call Me Lightning,5038
+0.9867,0.112,0.883,0.005,0.6,100.14,2.04,9,375,320,63,15,Archie Bell & The Drells,Tighten Up,5039
+0.9967,0.312,0.654,0.034,1.2,98.51,2.68,4,228,195,29,6,Bobby Vinton,Take Good Care Of My Baby,5040
+0.9962,0.252,0.744,0.004,1.7,91.78,2.34,9,299,234,47,18,Detroit Emeralds,Show Time,5041
+0.9997,0.1,0.804,0.096,7.5,71.34,7.67,1856,35598,25062,1495,720,Vikki Carr,Your Heart Is Free Just Like The Wind,5042
+0.7574,0.121,0.75,0.129,1.4,103.22,4.31,5,300,270,26,7,Four Jacks And A Jill,Master Jack,5043
+-0.9991,0.08,0.805,0.115,13.2,61.74,15.85,416,4742,3564,103,0,The New Colony Six,I Will Always Think About You,5044
+0.765,0.072,0.928,0.0,1.8,91.58,2.53,4,117,89,17,3,The Beatles,The Inner Light,5045
+-0.0516,0.048,0.881,0.07,3.3,87.62,3.92,11,182,145,16,1,Jerry Lee Lewis,Another Place Another Time,5046
+0.9903,0.216,0.732,0.052,2.8,94.25,4.36,10,264,217,20,5,Stevie Wonder,Shoo-Be-Doo-Be-Doo-Da-Day,5047
+0.4215,0.116,0.81,0.074,1.0,98.92,3.16,8,149,125,20,4,Johnny Rivers,Look To Your Soul,5048
+0.9958,0.29,0.69,0.02,-1.2,115.23,2.76,4,222,213,31,5,Aretha Franklin,Ain't No Way,5049
+0.9749,0.21,0.744,0.047,2.0,91.07,2.94,11,237,182,32,8,Ollie & The Nightingales,I Got A Sure Thing,5050
+0.9833,0.182,0.804,0.014,0.5,105.55,3.24,6,203,186,23,0,The Cryan' Shames,Up On The Roof,5051
+0.967,0.195,0.805,0.0,3.0,99.26,5.72,5,130,114,8,0,Glen Campbell,I Wanna Live,5052
+0.994,0.33,0.611,0.059,1.8,96.89,3.8,9,194,166,20,4,Bee Gees,Jumbo,5053
+0.9994,0.553,0.428,0.018,3.9,85.99,4.44,6,310,247,23,10,Tommy James And The Shondells,Mony Mony,5054
+0.9974,0.313,0.666,0.021,2.0,101.8,4.72,0,217,201,17,8,People,I Love You,5055
+0.9998,0.121,0.822,0.057,2.6,89.34,3.89,337,4616,3646,493,0,Jimmy Smith,Chain Of Fools (Part 1),5056
+0.9794,0.191,0.783,0.026,1.3,98.11,3.07,8,212,177,25,0,The Rascals,A Beautiful Morning,5057
+0.9955,0.288,0.689,0.023,1.8,96.99,3.28,6,236,204,25,0,Wilson Pickett,She's Lookin' Good,5058
+-0.9083,0.015,0.845,0.141,-0.9,109.11,2.16,2,134,125,27,11,Neil Diamond,Red Red Wine,5059
+0.9812,0.173,0.781,0.046,3.1,88.13,4.3,11,297,232,27,5,Marvin Gaye & Tammi Terrell,Ain't Nothing Like The Real Thing,5060
+0.9994,0.475,0.521,0.005,0.8,99.53,2.28,5,269,228,40,17,The Dells,Wear It On Our Face,5061
+0.9624,0.117,0.843,0.04,0.1,106.67,2.8,4,280,259,37,11,Dionne Warwick,Do You Know The Way To San José,5062
+0.982,0.258,0.711,0.03,2.5,94.96,4.08,3,143,122,12,1,Frank Sinatra,I Can't Believe I'm Losing You,5063
+0.9695,0.236,0.706,0.057,1.7,102.51,4.8,8,127,111,10,1,Joe Simon,(You Keep Me) Hangin' On,5064
+1.0,0.097,0.809,0.093,4.8,89.08,6.63,3075,178907,148516,9300,59,Dyke And The Blazers,Funky Walk Part I (East),5065
+0.8934,0.107,0.875,0.018,2.2,90.36,2.95,7,132,102,16,8,Guy Marks,Loving You Has Made Me Bananas,5066
+-0.9989,0.119,0.711,0.17,2.6,94.86,4.94,124,2014,1649,160,10,Robert John,If You Don't Want My Love,5067
+0.7003,0.148,0.757,0.095,2.4,90.05,3.03,2,143,114,17,0,Eric Burdon & The Animals,Anything,5068
+0.9858,0.105,0.878,0.016,0.0,106.87,2.9,15,478,433,64,32,The Fireballs,Goin' Away,5069
+0.9875,0.173,0.787,0.041,1.1,98.82,2.56,9,296,243,38,15,Jay And The Techniques,Baby Make Your Own Sweet Music,5070
+0.9931,0.252,0.715,0.033,0.2,106.47,2.88,2,228,210,29,9,Spanky And Our Gang,Like To Get To Know You,5071
+1.0,0.127,0.78,0.094,1.8,96.99,4.31,1252,16854,13646,1672,5,Soul Survivors,Impossible Mission (Mission Impossible),5072
+0.7342,0.088,0.843,0.069,-0.2,107.18,2.6,7,233,207,32,3,B.B. King,Paying The Cost To Be The Boss,5073
+1.0,0.101,0.83,0.069,12.7,41.7,9.97,3405,83724,49523,2360,69,The Impressions,We're Rolling On (Part I),5074
+0.9982,0.1,0.821,0.079,3.3,87.72,4.56,389,5788,4603,509,20,Bobby Vee,My Girl/Hey Girl,5075
+0.993,0.249,0.653,0.098,2.1,96.08,3.81,7,274,236,26,8,Martha Reeves & The Vandellas,I Promise To Wait My Love,5076
+0.9812,0.205,0.795,0.0,1.1,98.72,3.16,6,176,144,22,2,1910 Fruitgum Co.,May I Take A Giant Step (Into Your Heart),5077
+0.9999,0.162,0.789,0.049,15.9,49.42,18.13,532,5356,3840,100,0,The Vibrations,Love In Them There Hills,5078
+0.999,0.093,0.851,0.056,6.5,57.84,3.81,702,5128,3054,600,1,"Oscar Toney, Jr.",Never Get Enough Of Your Love,5079
+0.9586,0.194,0.748,0.059,1.0,104.34,3.72,2,131,121,13,3,The Beach Boys,Friends,5080
+0.9847,0.152,0.826,0.022,-0.4,107.79,2.53,5,272,237,40,14,Bobby Taylor & The Vancouvers,Does Your Mama Know About Me,5081
+0.9336,0.099,0.868,0.033,0.8,99.43,2.52,11,234,197,34,3,Jefferson Airplane,Greasy Heart,5082
+0.9836,0.153,0.784,0.064,1.1,98.62,2.77,11,353,303,46,20,Ray Stevens,Unwind,5083
+0.5423,0.025,0.961,0.014,1.9,96.59,3.56,17,403,325,38,4,Bobbie Gentry,Louisiana Man,5084
+0.9958,0.226,0.736,0.039,-0.1,107.08,2.92,11,332,290,44,17,Simon & Garfunkel,Mrs. Robinson,5085
+-1.0,0.097,0.75,0.154,12.7,52.43,13.14,1178,13088,8969,331,2,Jackie Wilson & Count Basie,Chain Gang,5086
+0.9981,0.328,0.661,0.012,1.1,98.62,2.81,8,268,231,35,3,Otis Redding,The Happy Song (Dum-Dum),5087
+0.9878,0.232,0.711,0.058,0.0,106.87,2.72,0,177,163,24,6,The Delfonics,I'm Sorry,5088
+-0.872,0.051,0.841,0.109,0.6,100.04,2.57,6,190,162,31,12,James & Bobby Purify,I Can Remember,5089
+0.9528,0.151,0.8,0.049,1.2,98.41,3.23,7,190,156,23,2,Four Tops,If I Were A Carpenter,5090
+0.5989,0.073,0.873,0.053,0.8,99.63,2.46,10,214,184,33,1,William Bell,A Tribute To A King,5091
+0.9062,0.155,0.715,0.129,2.6,89.55,2.88,5,410,308,43,17,The Temptations,I Could Never Love Another (After Loving You),5092
+0.9996,0.587,0.413,0.0,0.7,99.73,2.4,5,242,204,37,17,Ohio Express,Yummy Yummy Yummy,5093
+0.6808,0.087,0.875,0.038,1.1,104.03,4.14,7,153,134,14,1,Classics IV,Soul Train,5094
+-0.9205,0.099,0.774,0.128,1.6,97.5,3.24,9,288,246,32,4,Jerry Butler,Never Give You Up,5095
+0.9996,0.177,0.738,0.085,8.8,67.99,10.49,209,2287,1652,82,1,"Rev. Martin Luther King, Jr.",I Have A Dream,5096
+0.8167,0.193,0.71,0.097,-0.7,108.5,2.08,2,104,93,18,2,The Delfonics,He Don't Really Love You,5097
+0.9981,0.276,0.705,0.019,-0.1,107.08,2.64,3,363,328,50,0,Solomon Burke,I Wish I Knew (How It Would Feel To Be Free),5098
+-0.8762,0.01,0.9,0.089,1.5,97.8,2.96,5,237,199,27,7,Merrilee Rush & The Turnabouts,Angel Of The Morning,5099
+0.9951,0.214,0.692,0.094,1.3,98.31,3.9,39,513,422,61,5,Hamilton Camp,Here's To You,5100
+0.9162,0.067,0.933,0.0,1.2,98.51,2.89,3,218,188,28,12,Andy Kim,How'd We Ever Get This Way,5101
+0.984,0.197,0.803,0.0,-0.3,107.48,2.48,3,155,143,23,5,Sergio Mendes & Brasil '66,The Look Of Love,5102
+0.9925,0.145,0.841,0.014,0.2,106.37,3.04,15,387,341,47,16,Richard Harris,MacArthur Park,5103
+0.7625,0.077,0.885,0.038,-1.0,109.31,2.42,7,204,183,42,17,The Byrds,You Ain't Going Nowhere,5104
+0.9476,0.075,0.894,0.03,0.3,106.16,3.12,2,388,347,46,25,Herman's Hermits,Sleepy Joe,5105
+0.9664,0.118,0.866,0.017,0.2,106.57,3.36,7,262,233,33,5,Nancy Wilson,"Face It Girl, It's Over",5106
+-0.9136,0.088,0.765,0.147,0.6,99.94,3.01,13,210,179,34,6,Ed Ames,Apologize,5107
+0.6634,0.047,0.929,0.024,0.8,99.53,2.28,19,273,233,41,4,Neil Diamond,Brooklyn Roads,5108
+-0.6114,0.068,0.835,0.097,1.7,91.78,3.0,22,208,160,32,6,Cream,Anyone For Tennis,5109
+-0.9974,0.066,0.566,0.368,4.6,78.75,4.64,9,267,190,20,10,Gene Pitney,She's A Heartbreaker,5110
+0.9949,0.229,0.748,0.023,2.3,90.16,2.79,7,342,271,41,8,Aretha Franklin,Think,5111
+0.9716,0.155,0.838,0.007,5.6,65.49,3.14,9,252,153,26,7,Lemon Pipers,Jelly Jungle (Of Orange Marmalade),5112
+0.9968,0.343,0.641,0.017,-1.8,116.75,2.16,1,168,163,30,10,Herb Alpert,This Guy's In Love With You,5113
+0.8287,0.064,0.905,0.031,-0.7,108.5,2.78,7,257,228,44,17,The Association,Time For Livin',5114
+0.9678,0.212,0.66,0.128,-0.2,107.18,2.6,2,218,194,30,2,Joe Tex,I'll Never Do You Wrong,5115
+0.8611,0.097,0.903,0.0,1.1,98.72,2.6,2,125,104,16,5,Tiny Tim,Tip-Toe Thru' The Tulips With Me,5116
+0.9645,0.087,0.83,0.083,5.4,66.1,3.78,358,2983,1885,358,2,The Mills Brothers,My Shy Violet,5117
+-0.8367,0.098,0.784,0.118,-0.6,113.71,3.36,4,246,236,28,3,Etta James,I Got You Babe,5118
+0.9914,0.221,0.747,0.033,1.6,97.4,3.71,5,253,204,26,4,Peaches & Herb,United,5119
+0.9999,0.242,0.737,0.021,8.5,74.12,9.59,96,1623,1209,54,46,Eddy Arnold,It's Over,5120
+0.9951,0.2,0.745,0.055,3.3,82.31,2.4,1,467,338,56,39,Friend And Lover,Reach Out Of The Darkness,5121
+0.7433,0.148,0.749,0.103,0.1,106.67,2.8,2,190,176,25,2,Bill Medley,I Can't Make It Alone,5122
+0.9996,0.126,0.8,0.074,6.4,79.5,8.27,298,4155,3216,188,2,The Status Quo,Pictures Of Matchstick Men,5123
+0.2792,0.078,0.839,0.083,-0.4,107.69,2.86,9,195,175,29,3,Mary Wells,The Doctor,5124
+0.9999,0.167,0.798,0.035,13.0,56.93,15.18,378,3516,2514,81,0,Cliff Nobles & Co.,The Horse,5125
+-0.507,0.043,0.919,0.038,0.8,99.63,2.24,9,341,275,49,15,James Brown And The Famous Flames,Licking Stick - Licking Stick (Part 1),5126
+0.9943,0.172,0.813,0.014,0.4,106.06,3.04,4,377,342,45,8,Sam & Dave,You Don't Know What You Mean To Me,5127
+0.9599,0.113,0.818,0.07,1.6,97.4,3.61,13,472,408,52,2,James Brown And The Famous Flames,America Is My Home - Pt. 1,5128
+0.8499,0.09,0.848,0.062,-0.6,108.29,2.59,9,422,371,69,23,The Hesitations,Climb Every Mountain,5129
+0.9891,0.222,0.737,0.041,2.9,83.32,4.68,29,248,179,36,5,Radiants,Hold On,5130
+0.9603,0.204,0.711,0.084,0.4,100.65,1.84,5,135,110,24,3,Sammy Davis Jr.,Lonely Is The Name,5131
+-0.9556,0.079,0.746,0.174,1.2,103.83,4.15,10,202,176,18,0,Johnny Cash,Folsom Prison Blues,5132
+0.978,0.123,0.871,0.006,0.6,105.45,3.28,1,288,262,32,22,Los Bravos,Bring A Little Lovin',5133
+0.9858,0.245,0.717,0.038,0.9,99.23,3.01,8,157,131,22,1,The American Breed,"Ready, Willing and Able",5134
+0.34,0.058,0.906,0.036,-0.4,107.89,2.57,6,185,163,28,15,The Box Tops,Choo Choo Train,5135
+0.9971,0.273,0.704,0.023,2.2,95.77,3.94,7,265,226,24,1,Smokey Robinson & The Miracles,Yester Love,5136
+0.7906,0.068,0.932,0.0,1.5,97.6,4.03,6,140,121,16,0,The Cowsills,Indian Lake,5137
+0.8413,0.072,0.876,0.052,-0.6,108.29,2.29,6,354,316,59,20,Shorty Long,Here Comes The Judge,5138
+0.0015,0.114,0.762,0.124,1.6,97.5,3.56,12,400,332,43,14,Eric Burdon & The Animals,Sky Pilot (Part One),5139
+0.9376,0.162,0.838,0.0,1.8,96.89,4.13,5,114,99,12,1,Fever Tree,San Francisco Girls (Return of the Native),5140
+0.9998,0.113,0.801,0.086,5.7,65.28,3.78,1402,16420,10567,1726,5,The Buena Vistas,Here Come Da Judge,5141
+0.8418,0.044,0.956,0.0,2.3,90.16,2.64,4,270,204,31,10,The 5th Dimension,Stoned Soul Picnic,5142
+-0.7845,0.061,0.738,0.201,0.3,100.85,1.96,10,233,202,46,4,Clarence Carter,Funky Fever,5143
+0.9946,0.26,0.723,0.016,3.4,82.0,2.93,8,268,195,31,16,The Show Stoppers,Ain't Nothin' But A House Party,5144
+0.9974,0.089,0.847,0.064,19.2,46.31,21.59,277,3956,3039,61,0,The Magistrates,Here Come The Judge,5145
+-0.2462,0.077,0.864,0.059,-0.9,114.52,3.25,5,198,191,25,11,The Rolling Stones,Jumpin' Jack Flash,5146
+0.9703,0.126,0.846,0.028,1.4,97.91,3.24,10,298,249,34,8,Diana Ross & The Supremes,Some Things You Never Get Used To,5147
+0.8105,0.168,0.726,0.106,1.1,98.82,3.08,4,191,153,24,15,Gary Puckett And The Union Gap,Lady Willpower,5148
+0.9667,0.093,0.897,0.01,1.4,98.01,3.19,12,305,260,36,8,Gladys Knight And The Pips,It Should Have Been Me,5149
+0.9943,0.308,0.68,0.012,0.9,104.74,3.56,3,160,143,16,4,The Buckinghams,Back In Love Again,5150
+0.7869,0.072,0.889,0.039,0.8,99.43,2.32,5,231,193,33,7,The Mamas & The Papas,Safe In My Garden,5151
+0.9965,0.261,0.66,0.079,0.4,100.65,1.84,10,305,258,56,18,Ronnie Dove,Mountain Of Love,5152
+0.9672,0.147,0.792,0.061,2.8,88.94,4.07,15,266,210,27,5,The Marvelettes,Here I Am Baby,5153
+-0.9877,0.044,0.777,0.179,1.2,98.51,2.68,7,322,260,39,7,Ray Charles,Eleanor Rigby,5154
+0.9403,0.178,0.695,0.127,0.2,106.37,3.1,5,244,218,30,3,Dionne Warwick,Let Me Be Lonely,5155
+0.9686,0.236,0.717,0.047,6.9,62.14,4.87,11,159,101,11,4,Andy Williams,Sweet Memories,5156
+0.997,0.342,0.631,0.027,4.1,80.28,4.28,7,262,185,23,11,Cliff Richard,Congratulations,5157
+0.9978,0.378,0.603,0.018,0.6,99.94,2.53,6,234,195,37,9,Aretha Franklin,You Send Me,5158
+0.9469,0.092,0.85,0.058,1.5,97.7,3.69,22,477,405,54,4,Pigmeat Markham,Here Comes The Judge,5159
+0.9834,0.191,0.809,0.0,-0.6,108.4,2.12,1,166,158,30,14,The Monkees,It's Nice To Be With You,5160
+0.9085,0.116,0.813,0.071,2.1,96.08,4.3,13,372,301,33,0,Ray Charles,Understanding,5161
+0.9992,0.122,0.779,0.099,4.3,79.67,4.34,303,7600,5529,640,2,The New Colony Six,Can't You See Me Cry,5162
+0.9632,0.166,0.834,0.0,0.9,99.33,2.76,5,124,100,17,6,The Vogues,"Turn Around, Look At Me",5163
+0.0,0.0,0.0,0.0,-2.7,119.19,1.2,0,3,3,1,0,Eddie Harris,Listen Here,5164
+0.9216,0.144,0.755,0.101,0.9,99.33,2.89,10,269,226,38,10,Martha Reeves & The Vandellas,Forget Me Not,5165
+0.996,0.233,0.751,0.016,-0.4,107.79,2.5,4,337,295,50,12,Arthur Conley,People Sure Act Funny,5166
+0.9906,0.201,0.79,0.009,1.3,98.21,2.8,8,271,232,33,7,The Turtles,The Story Of Rock And Roll,5167
+0.9921,0.143,0.847,0.01,5.0,77.84,5.12,13,423,292,28,13,Donovan,Hurdy Gurdy Man,5168
+0.9881,0.303,0.477,0.22,1.4,97.91,3.14,2,222,182,25,5,The Tams,"Be Young, Be Foolish, Be Happy",5169
+-0.9999,0.11,0.707,0.183,2.4,95.37,4.3,247,4150,3493,357,28,Bill Black's Combo,Turn On Your Love Light,5170
+0.9284,0.14,0.793,0.067,0.7,105.15,3.4,4,185,162,19,4,Tammy Wynette,D-I-V-O-R-C-E,5171
+1.0,0.114,0.806,0.08,8.1,75.03,10.51,2837,27996,21000,977,4,The Irish Rovers,(The Puppet Song) Whiskey On A Sunday,5172
+1.0,0.114,0.806,0.08,8.1,75.03,10.51,2837,27996,21000,977,4,Barbara Greene,Young Boy,5173
+0.9787,0.23,0.686,0.083,2.4,89.85,3.02,8,196,151,22,0,Wilson Pickett,I'm A Midnight Mover,5174
+0.9402,0.09,0.883,0.027,0.0,106.97,3.2,4,256,233,35,12,B.J. Thomas,The Eyes Of A New York Woman,5175
+0.9881,0.273,0.654,0.073,1.1,98.72,2.88,5,173,144,22,8,Gary Lewis And The Playboys,Sealed With A Kiss,5176
+-0.5175,0.083,0.836,0.082,3.0,88.43,4.26,1125,22190,16629,1997,7,The Cryan' Shames,Young Birds Fly,5177
+-0.8557,0.108,0.789,0.104,12.0,65.09,14.0,188,1786,1376,44,0,The Fantastic Johnny C,Hitch It To The Horse,5178
+0.999,0.131,0.781,0.087,6.7,78.89,8.87,235,3257,2420,137,0,Billy Vera,With Pen In Hand,5179
+0.9986,0.522,0.447,0.03,-0.7,108.5,2.08,2,157,141,27,7,The Dells,Stay In My Corner,5180
+0.9667,0.112,0.872,0.016,1.3,103.52,4.24,8,224,201,20,0,Bobby Goldsboro,Autumn Of My Life,5181
+0.9627,0.159,0.826,0.015,2.0,91.07,2.82,8,190,149,26,15,The O'Jays,Look Over Your Shoulder,5182
+-0.9999,0.105,0.743,0.152,2.4,95.37,4.52,296,5810,4993,512,1,Little Carl Carlton,Competition Ain't Nothin',5183
+0.9818,0.169,0.824,0.007,1.1,98.72,3.31,6,195,168,26,6,The Amboy Dukes,Journey To The Center Of The Mind,5184
+-0.9958,0.11,0.713,0.177,0.7,105.05,3.78,28,794,714,83,22,Gene And Debbe,Lovin' Season,5185
+0.93,0.09,0.888,0.022,1.7,91.88,2.87,16,287,219,45,12,Glen Campbell,Dreams Of The Everyday Housewife,5186
+0.9922,0.234,0.727,0.039,0.8,99.43,2.32,6,214,185,32,13,The Doors,"Hello, I Love You",5187
+0.9524,0.105,0.895,0.0,0.9,99.33,2.36,3,214,182,31,8,Otis Redding,Amen,5188
+0.9357,0.149,0.741,0.11,1.3,98.31,3.22,21,327,263,38,11,The Sweet Inspirations,To Love Somebody,5189
+0.743,0.123,0.777,0.1,0.7,99.73,2.5,4,163,133,24,9,Jerry Lee Lewis,What's Made Milwaukee Famous (Has Made A Loser Out Of Me),5190
+0.8812,0.114,0.833,0.053,0.2,106.47,3.25,5,249,217,30,4,Blue Cheer,Just A Little Bit,5191
+0.8625,0.075,0.893,0.032,1.8,96.99,4.05,12,313,261,32,5,Patti Page,Little Green Apples,5192
+0.9968,0.302,0.546,0.151,-0.4,107.89,2.46,1,311,284,49,19,The Intruders,(Love Is Like A) Baseball Game,5193
+1.0,0.185,0.692,0.123,2.4,95.47,4.63,1188,24533,20180,2079,33,Freddie Hughes,Send My Baby Back,5194
+0.9908,0.241,0.725,0.034,0.6,100.14,2.26,11,228,185,36,19,Steppenwolf,Born To Be Wild,5195
+0.9923,0.389,0.539,0.072,-0.1,107.08,2.64,3,112,99,15,5,Roger Williams,The Impossible Dream,5196
+1.0,0.134,0.784,0.082,4.7,84.07,6.79,1598,15410,11608,922,3,Willie Mitchell,Prayer Meetin',5197
+0.9986,0.295,0.69,0.014,2.7,94.66,4.49,9,317,273,26,9,Otis Redding,Hard To Handle,5198
+0.9948,0.173,0.804,0.023,3.1,93.54,5.38,26,379,325,28,6,The Royal Guardsmen,Snoopy For President,5199
+0.758,0.113,0.887,0.0,0.8,99.53,2.28,2,78,63,11,3,Eternity's Children,Mrs. Bluebird,5200
+0.9907,0.235,0.748,0.016,0.9,104.74,3.56,4,187,170,19,0,Clarence Carter,Slip Away,5201
+0.9871,0.304,0.677,0.02,0.5,100.24,2.38,5,129,105,21,0,Barbara Acklin,Love Makes A Woman,5202
+-0.9753,0.014,0.854,0.133,-0.5,108.09,2.24,5,283,250,45,11,Neil Diamond,Two-Bit Manchild,5203
+0.9967,0.24,0.737,0.023,1.9,96.69,3.85,10,318,264,31,1,The Rascals,People Got To Be Free,5204
+0.9829,0.233,0.728,0.039,0.3,106.26,3.26,3,147,133,18,0,Bobby Vinton,Halfway To Paradise,5205
+0.9946,0.22,0.742,0.037,1.7,97.09,3.53,12,325,276,34,10,Stevie Wonder,You Met Your Match,5206
+0.9821,0.26,0.696,0.044,-0.3,107.48,2.94,6,192,174,28,15,Archie Bell & The Drells,I Can't Stop Dancing,5207
+1.0,0.16,0.766,0.074,15.4,56.26,17.16,1757,30410,23536,588,1,The Ballads,God Bless Our Love,5208
+0.9972,0.228,0.765,0.007,0.6,105.35,3.32,1,278,256,31,16,Petula Clark,Don't Give Up,5209
+0.9935,0.343,0.638,0.019,0.8,99.63,2.24,7,164,139,25,3,Jackie Wilson,I Get The Sweetest Feeling,5210
+0.9996,0.117,0.818,0.065,1.6,97.4,4.08,239,4145,3326,426,1,The Cherry People,And Suddenly,5211
+0.988,0.207,0.74,0.053,1.7,97.09,3.69,7,223,179,22,1,Four Tops,Yesterday's Dreams,5212
+0.9933,0.369,0.466,0.166,-0.3,107.58,2.44,6,160,147,24,7,The Impressions,I Loved And I Lost,5213
+0.9512,0.132,0.845,0.023,3.3,87.62,3.93,7,179,137,15,5,The Moody Blues,Tuesday Afternoon (Forever Afternoon),5214
+-0.9992,0.098,0.775,0.127,17.7,50.27,20.3,352,4087,3077,67,0,Wilmer And The Dukes,Give Me One More Chance,5215
+-0.9842,0.115,0.646,0.239,0.1,106.67,3.11,6,288,260,37,5,Jose Feliciano,Light My Fire,5216
+-0.9984,0.074,0.526,0.4,-0.7,108.5,2.59,6,265,236,45,12,James Brown And The Famous Flames,"I Guess I'll Have To Cry, Cry, Cry",5217
+0.9683,0.254,0.67,0.076,0.7,99.83,2.98,4,113,98,18,0,Nancy Sinatra,Happy,5218
+0.9894,0.198,0.773,0.028,0.7,105.25,4.09,9,245,218,26,0,Marvin Gaye & Tammi Terrell,You're All I Need To Get By,5219
+0.2604,0.132,0.701,0.167,2.2,101.19,4.96,1,210,198,16,13,1910 Fruitgum Co.,"1, 2, 3, Red Light",5220
+0.7195,0.089,0.814,0.097,1.5,97.8,3.95,15,447,363,49,14,The Happenings,Breaking Up Is Hard To Do,5221
+0.9334,0.16,0.802,0.038,0.7,99.73,3.3,6,132,109,20,0,The Beach Boys,Do It Again,5222
+0.9958,0.296,0.679,0.025,0.8,104.84,3.52,2,198,175,20,8,Tommy James And The Shondells,Somebody Cares,5223
+-0.7103,0.228,0.516,0.256,1.3,103.52,4.04,1,185,162,16,4,Eddie Floyd,I've Never Found A Girl (To Love Me Like You Do),5224
+0.3532,0.131,0.749,0.12,0.1,106.67,2.8,5,194,176,25,10,Sly & The Family Stone,Life,5225
+-0.3413,0.06,0.868,0.073,0.1,106.77,2.76,5,276,249,36,8,B.B. King,I'm Gonna Do What They Do To Me,5226
+0.6767,0.074,0.856,0.069,0.7,99.73,2.34,7,342,289,53,23,Jerry Jeff Walker,Mr. Bojangles,5227
+0.8074,0.095,0.865,0.04,2.4,89.95,2.97,8,204,162,24,6,The Lovin' Spoonful,Never Going Back,5228
+0.9978,0.117,0.852,0.031,0.9,99.23,3.2,137,1122,902,150,0,The Soul Clan,Soul Meeting,5229
+0.9726,0.214,0.702,0.084,-1.0,109.31,2.04,6,161,142,32,12,Bill Medley,Brown Eyed Woman,5230
+0.99,0.287,0.572,0.142,1.1,98.72,2.6,3,230,196,30,11,The Temptations,Please Return Your Love To Me,5231
+0.7375,0.046,0.903,0.051,3.0,93.74,4.56,2,358,296,26,9,Sam & Dave,Can't You Find Another Way (Of Doing It),5232
+1.0,0.122,0.782,0.097,4.4,79.36,5.39,2975,31476,23012,2594,16,Bobby Cole,Mister Bo Jangles,5233
+0.7003,0.098,0.805,0.097,15.6,50.13,17.86,637,5046,3585,95,0,Ohio Express,Down At Lulu's,5234
+0.9873,0.199,0.707,0.095,2.2,90.56,4.94,45,395,293,47,4,Ray Stevens,Mr. Businessman,5235
+-0.9722,0.085,0.733,0.182,0.8,104.94,3.64,6,279,253,29,7,Betty Wright,Girls Can't Do What The Guys Do,5236
+-0.99,0.081,0.837,0.082,3.1,88.23,4.27,439,7628,6055,713,20,The American Breed,Anyway That You Want Me,5237
+-0.9652,0.042,0.832,0.126,1.2,98.41,2.89,14,279,237,35,8,Spanky And Our Gang,Give A Damn,5238
+0.9846,0.215,0.75,0.035,0.8,99.63,2.75,9,187,157,28,6,Patti Drew,Workin' On A Groovy Thing,5239
+-0.9133,0.104,0.725,0.171,1.0,98.92,3.05,9,174,150,24,1,Percy Sledge,Sudden Stop,5240
+0.9991,0.107,0.823,0.071,2.9,88.63,3.94,235,4916,3850,475,11,The Love Generation,Montage From How Sweet It Is (I Know That You Know),5241
+-0.9977,0.117,0.652,0.231,1.8,96.79,4.03,68,663,538,64,1,Flavor,Sally Had A Party,5242
+-0.4215,0.085,0.804,0.112,0.9,99.23,2.72,7,147,126,21,2,Sergio Mendes & Brasil '66,The Fool On The Hill,5243
+-0.9429,0.145,0.67,0.185,1.8,96.89,3.32,3,213,174,21,9,Lulu,Morning Dew,5244
+-0.9849,0.052,0.758,0.19,0.9,99.23,2.4,9,313,263,44,9,Joe Tex,Keep The One You Got,5245
+-0.8748,0.029,0.842,0.129,2.6,89.45,3.15,5,231,175,24,2,The Who,Magic Bus,5246
+-0.5236,0.02,0.948,0.032,0.5,100.34,2.56,11,242,199,41,0,Jr. Walker & The All Stars,Hip City - Pt. 2,5247
+0.98,0.117,0.855,0.028,2.5,95.06,4.3,8,361,303,30,11,Martha Reeves & The Vandellas,I Can't Dance To That Music You're Playin',5248
+0.9971,0.308,0.655,0.037,1.3,98.31,3.13,14,256,215,31,5,Bobby Taylor & The Vancouvers,I Am Your Man,5249
+0.5679,0.091,0.817,0.092,0.9,99.33,2.55,7,266,213,36,30,The Chambers Brothers,Time Has Come Today,5250
+-0.9998,0.07,0.84,0.09,7.3,50.19,5.14,2212,20268,11546,2677,0,"Dino, Desi & Billy",Tell Someone You Love Them,5251
+0.9844,0.325,0.675,0.0,1.9,91.27,2.2,5,112,83,15,0,Sly & The Family Stone,M'Lady,5252
+0.9415,0.114,0.771,0.116,5.4,65.89,3.18,951,14491,9100,1661,1,Four Jacks And A Jill,Mister Nico,5253
+0.9884,0.23,0.701,0.07,0.9,104.74,3.56,5,237,214,24,10,Canned Heat,On The Road Again,5254
+0.9896,0.156,0.821,0.023,-0.3,107.38,2.52,4,330,296,47,8,Aretha Franklin,The House That Jack Built,5255
+0.9971,0.308,0.668,0.024,5.6,65.39,2.83,5,299,186,31,18,Aretha Franklin,I Say A Little Prayer,5256
+0.9934,0.174,0.79,0.036,-0.3,107.38,2.52,3,322,300,48,29,Deep Purple,Hush,5257
+0.9972,0.391,0.603,0.006,1.9,91.37,2.39,7,231,177,33,5,Smokey Robinson & The Miracles,Special Occasion,5258
+0.8281,0.077,0.923,0.0,0.2,101.05,1.68,8,184,158,38,18,The O'Kaysions,Girl Watcher,5259
+0.836,0.093,0.845,0.062,3.6,92.22,5.16,13,363,296,23,8,Al Wilson,The Snake,5260
+0.8484,0.103,0.839,0.058,0.9,99.23,3.13,16,338,275,46,9,O.C. Smith,Little Green Apples,5261
+-0.353,0.074,0.834,0.092,0.4,106.06,3.04,4,249,229,30,14,Bee Gees,I've Gotta Get A Message To You,5262
+0.989,0.293,0.707,0.0,-0.3,107.38,2.52,5,119,107,17,0,Bobby Womack,Fly Me To The Moon,5263
+0.9228,0.08,0.893,0.027,2.8,89.04,3.59,22,397,316,41,1,Jeannie C. Riley,Harper Valley P.T.A.,5264
+0.1756,0.12,0.775,0.105,-0.4,107.79,2.5,6,309,277,47,5,Gladys Knight And The Pips,I Wish It Would Rain,5265
+0.9451,0.189,0.786,0.025,0.8,99.43,3.31,11,147,121,21,3,The Association,Six Man Band,5266
+0.9858,0.185,0.815,0.0,2.2,90.56,2.48,5,197,154,25,19,Iron Butterfly,In-A-Gadda-Da-Vida,5267
+-0.4338,0.089,0.827,0.085,5.3,71.61,5.96,365,2283,1490,181,15,B.B. King,The Woman I Love,5268
+0.9752,0.211,0.647,0.142,-0.3,107.38,2.76,3,178,164,26,4,Dionne Warwick,Who Is Gonna Love Me?,5269
+0.985,0.267,0.638,0.095,-0.8,108.7,2.28,2,160,145,29,9,Bull & The Matadors,The Funky Judge,5270
+0.9943,0.264,0.736,0.0,0.9,99.33,2.55,5,251,213,36,9,Otis Clay,She's About A Mover,5271
+0.9438,0.116,0.823,0.061,-0.4,107.89,2.47,11,304,271,47,13,Jackie DeShannon,The Weight,5272
+0.9912,0.102,0.807,0.09,8.9,67.69,10.48,320,3171,2344,115,0,Herb Alpert,To Wait For Love,5273
+0.9975,0.283,0.7,0.017,1.4,98.01,3.36,7,290,252,35,8,Tom Jones,Help Yourself,5274
+0.9855,0.162,0.817,0.021,0.9,99.33,2.75,8,253,206,35,13,The Grass Roots,Midnight Confessions,5275
+0.802,0.08,0.884,0.036,1.5,92.19,2.15,13,170,129,28,6,Strawberry Alarm Clock,Barefoot In Baltimore,5276
+0.9873,0.189,0.802,0.009,0.3,106.26,2.96,1,200,177,24,5,Big Brother And The Holding Company,Down On Me,5277
+0.9996,0.123,0.769,0.107,3.0,88.33,4.35,951,10678,8443,1006,0,The Sweet Inspirations,Unchained Melody,5278
+0.7845,0.085,0.878,0.037,2.9,99.57,5.6,4,154,140,10,0,Frank Sinatra,My Way Of Life,5279
+0.9685,0.169,0.77,0.061,-0.9,109.0,1.88,7,229,204,43,12,Lou Rawls,Down Here On The Ground,5280
+0.9954,0.187,0.793,0.02,2.6,94.76,4.27,3,425,354,34,4,Big Brother And The Holding Company,Piece Of My Heart,5281
+0.9805,0.25,0.698,0.052,1.6,92.08,1.88,10,217,163,35,10,Judy Clay & William Bell,Private Number,5282
+0.296,0.047,0.918,0.035,1.0,98.92,2.52,5,333,284,45,11,Jerry Butler,"Hey, Western Union Man",5283
+0.9636,0.11,0.835,0.056,0.3,106.16,3.12,14,387,345,46,16,The Band,The Weight,5284
+0.9493,0.11,0.825,0.066,1.1,98.72,2.76,4,302,253,39,14,Dionne Warwick,(There's) Always Something There To Remind Me,5285
+0.9845,0.244,0.676,0.08,0.2,106.57,2.84,3,157,142,20,8,The Delfonics,Break Your Promise,5286
+0.3091,0.039,0.932,0.029,1.9,96.59,3.92,14,402,336,39,2,Bobby Vee,Do What You Gotta Do,5287
+-0.4885,0.03,0.935,0.035,2.0,96.48,3.84,23,660,549,63,24,The James Boys,The Mule,5288
+0.8055,0.177,0.667,0.156,-0.1,107.08,2.74,5,436,384,58,10,Friend And Lover,If Love Is In Your Heart,5289
+-0.9268,0.102,0.799,0.1,2.1,96.08,4.4,1019,19947,16098,1767,19,Ramsey Lewis,Since You've Been Gone,5290
+0.8442,0.12,0.805,0.075,2.9,88.53,3.95,7,228,180,22,10,The Avant-Garde,Naturally Stoned,5291
+-0.9718,0.062,0.804,0.134,0.9,99.12,2.44,8,294,252,41,13,James Brown,Say It Loud - I'm Black And I'm Proud (Part 1),5292
+0.9794,0.239,0.747,0.015,0.4,100.44,2.28,4,138,111,23,4,The Vogues,My Special Angel,5293
+0.9664,0.194,0.755,0.051,0.9,99.23,2.4,5,173,144,24,15,The Equals,"Baby, Come Back",5294
+-0.9868,0.035,0.746,0.219,-0.5,108.09,2.24,2,206,185,33,10,The Crazy World Of Arthur Brown,Fire,5295
+-0.9843,0.059,0.707,0.234,4.3,90.39,6.87,10,188,162,11,5,The Rolling Stones,Street Fighting Man,5296
+0.9738,0.172,0.82,0.008,0.4,105.86,3.12,3,158,141,18,6,Eddy Arnold,Then You Can Tell Me Goodbye,5297
+-0.9979,0.069,0.612,0.318,1.3,98.31,2.92,4,291,249,36,11,Andy Kim,"Shoot'em Up, Baby",5298
+-0.0654,0.106,0.792,0.102,2.3,95.67,4.3,8,190,161,17,5,Max Frost And The Troopers,Shape Of Things To Come,5299
+-0.9961,0.024,0.655,0.321,0.7,99.73,2.82,8,225,193,35,10,The Impressions,Fool For You,5300
+0.4215,0.058,0.905,0.037,3.4,82.0,2.52,12,170,125,20,4,Fats Domino,Lady Madonna,5301
+0.9913,0.124,0.851,0.025,1.2,103.93,3.88,7,498,454,47,17,The Beatles,Hey Jude,5302
+0.9912,0.299,0.667,0.033,2.4,89.85,4.48,12,235,186,27,18,The Beatles,Revolution,5303
+0.9942,0.233,0.689,0.077,1.3,98.21,3.13,7,284,245,35,1,Marvin Gaye,Chained,5304
+0.9921,0.23,0.77,0.0,2.1,96.08,3.87,3,209,173,19,3,The Box Tops,I Met Her In Church,5305
+0.9257,0.218,0.627,0.155,1.4,97.91,3.1,4,263,219,30,19,The Cowsills,Poor Baby,5306
+0.9996,0.485,0.485,0.029,0.5,105.76,3.16,1,285,261,33,11,The Mamas & The Papas,For The Love Of Ivy,5307
+0.9839,0.235,0.659,0.107,-0.6,108.29,2.61,6,197,179,33,9,The Hollies,Do The Best You Can,5308
+0.9389,0.103,0.853,0.044,2.2,90.56,2.93,17,346,267,43,16,The Irish Rovers,"The Biplane, Ever More",5309
+0.9725,0.263,0.589,0.148,0.7,99.73,2.48,7,170,144,26,3,Barbara Mason,(I Can Feel Your Love) Slipping Away,5310
+-0.732,0.072,0.808,0.12,2.4,90.05,2.93,6,210,161,24,33,Johnny Nash,Hold Me Tight,5311
+1.0,0.135,0.789,0.076,18.9,41.6,19.41,7411,197553,145725,3161,0,Cliff Nobles & Co.,Horse Fever,5312
+-0.8895,0.022,0.879,0.098,2.6,89.45,4.49,16,195,153,21,4,Gary Puckett And The Union Gap,Over You,5313
+-0.5418,0.066,0.846,0.088,0.9,99.12,3.54,12,178,146,24,5,The Jimi Hendrix Experience,All Along The Watchtower,5314
+0.9915,0.268,0.705,0.027,-0.9,109.11,2.09,5,171,161,35,5,Wilson Pickett,I Found A True Love,5315
+0.9879,0.175,0.815,0.01,0.5,100.24,2.0,9,254,218,44,6,Gene Chandler,There Was A Time,5316
+-0.9782,0.037,0.873,0.09,2.4,95.37,4.33,14,477,392,40,15,Harpers Bizarre,Battle Of New Orleans,5317
+-0.9571,0.151,0.65,0.199,2.1,96.18,5.14,37,511,415,46,9,The O'Jays,The Choice,5318
+0.9876,0.225,0.726,0.05,-0.2,107.18,2.84,2,189,168,26,6,The Turtles,Elenore,5319
+0.9989,0.361,0.57,0.07,2.4,89.95,2.72,7,352,278,41,1,Fantastic Four,I Love You Madly,5320
+1.0,0.159,0.787,0.054,15.5,39.81,15.14,892,12062,7551,242,0,The Unifics,Court Of Love,5321
+0.9954,0.35,0.6,0.05,1.3,98.21,3.26,3,213,174,25,7,Otis Redding,I've Got Dreams To Remember,5322
+0.9766,0.14,0.811,0.05,0.1,106.67,3.19,10,346,306,44,20,Mary Hopkin,Those Were The Days,5323
+0.9689,0.129,0.853,0.018,-0.2,107.18,2.79,6,226,207,32,12,The Archies,Bang-Shang-A-Lang,5324
+0.8088,0.119,0.818,0.063,0.7,105.05,3.67,3,192,172,20,10,The Status Quo,Ice In The Sun,5325
+-0.9999,0.083,0.815,0.102,2.9,88.74,3.86,846,22816,18021,2241,87,Los Pop Tops,"Oh Lord, Why Lord",5326
+1.0,0.122,0.782,0.097,4.4,79.36,5.39,2975,31476,23012,2594,16,Joe Simon,Message From Maria,5327
+0.9887,0.172,0.807,0.021,-0.9,109.0,2.02,7,322,284,60,15,Archie Bell & The Drells,Do The Choo Choo,5328
+0.9013,0.269,0.538,0.193,0.5,100.24,2.0,5,173,149,30,17,Ray Charles,Sweet Young Thing Like You,5329
+-0.9868,0.051,0.689,0.26,-0.1,107.08,2.64,2,174,152,23,9,The Masqueraders,I Ain't Got To Love Nobody Else,5330
+0.9977,0.297,0.703,0.0,0.3,100.75,1.8,9,311,254,57,27,The 5th Dimension,Sweet Blindness,5331
+0.998,0.085,0.866,0.049,7.3,71.75,8.54,313,3313,2339,143,0,B.B. King,The B.B. Jones,5332
+0.9765,0.244,0.655,0.101,-1.3,110.02,1.84,3,117,111,30,11,Nancy Wilson,Peace Of Mind,5333
+-0.6705,0.077,0.804,0.119,3.2,87.82,4.06,15,205,161,18,0,Cream,White Room,5334
+0.7862,0.125,0.822,0.053,0.8,99.43,2.32,3,135,115,20,12,Donovan,Lalena,5335
+0.8869,0.158,0.736,0.106,0.9,99.12,2.96,10,290,233,38,20,The Marvelettes,Destination: Anywhere,5336
+0.977,0.248,0.617,0.134,0.7,99.83,2.16,4,173,150,28,3,Vanilla Fudge,Take Me For A Little While,5337
+0.979,0.147,0.838,0.015,-0.3,107.38,2.87,4,260,227,36,11,Steppenwolf,Magic Carpet Ride,5338
+-0.9832,0.099,0.794,0.107,6.0,64.47,6.48,556,3196,2052,297,1,Professor Morrison's Lollipop,You Got The Love,5339
+0.0258,0.05,0.9,0.05,0.1,106.77,2.96,11,220,199,29,2,Kasenetz-Katz Singing Orchestral Circus,Quick Joey Small (Run Joey Run),5340
+0.989,0.253,0.699,0.048,0.0,106.87,2.96,4,193,170,25,1,B.B. King,You Put It On Me,5341
+1.0,0.13,0.777,0.093,1.1,98.82,3.17,1210,21382,18102,2846,22,Ricardo Ray,Nitty Gritty,5342
+0.9979,0.242,0.725,0.032,0.7,99.73,2.64,9,431,360,66,13,Four Tops,I'm In A Different World,5343
+-0.4404,0.0,0.97,0.03,1.3,98.21,3.21,7,120,98,14,4,Southwest F.O.B.,Smell Of Incense,5344
+0.9552,0.129,0.846,0.025,-0.8,108.8,1.96,7,212,188,38,6,Neil Diamond,Sunday Sun,5345
+0.9986,0.279,0.66,0.061,2.2,101.29,5.4,12,373,333,27,12,Marvin Gaye & Tammi Terrell,Keep On Lovin' Me Honey,5346
+0.9453,0.143,0.837,0.02,3.2,82.51,2.98,5,175,121,21,6,The Dells,Always Together,5347
+0.9367,0.164,0.787,0.049,2.0,101.7,4.76,2,126,119,10,0,Buffalo Springfield,On The Way Home,5348
+0.1265,0.074,0.847,0.079,2.2,90.36,2.56,10,141,108,17,3,The Monkees,Porpoise Song,5349
+0.8953,0.139,0.786,0.075,-0.4,107.69,2.4,8,186,167,28,0,Frank Sinatra,Cycles,5350
+0.9761,0.125,0.816,0.06,2.0,91.07,2.28,8,351,278,49,18,Leapy Lee,Little Arrows,5351
+0.9869,0.28,0.641,0.079,2.5,94.96,4.08,3,165,143,14,5,Tommy James And The Shondells,Do Something To Me,5352
+-0.6767,0.128,0.76,0.112,0.5,105.76,3.16,16,328,292,37,0,Joe Tex,"You Need Me, Baby",5353
+0.8835,0.105,0.834,0.061,-0.7,108.6,2.04,2,217,202,40,10,The Moody Blues,Ride My See-Saw,5354
+-0.9855,0.156,0.578,0.266,2.2,90.46,3.56,17,351,269,43,10,Diana Ross & The Supremes,Love Child,5355
+-0.5859,0.093,0.806,0.102,1.2,98.51,3.16,12,206,168,25,8,Jose Feliciano,Hi-Heel Sneakers,5356
+0.9946,0.386,0.584,0.03,0.2,106.37,3.29,4,123,109,15,0,Ohio Express,Chewy Chewy,5357
+0.9885,0.232,0.735,0.033,-0.3,107.48,2.48,2,171,155,25,9,Eddie Floyd,Bring It On Home To Me,5358
+-0.6322,0.048,0.887,0.066,-1.0,109.41,1.72,2,205,183,43,12,Carla Thomas,Where Do I Go,5359
+-0.8643,0.125,0.66,0.215,0.4,100.54,1.88,6,133,112,24,2,Ray Charles,"Listen, They're Playing My Song",5360
+0.9207,0.09,0.859,0.051,0.5,105.76,3.16,6,224,197,25,11,The Mauds,Soul Drippin',5361
+0.9325,0.156,0.789,0.055,0.4,100.44,2.51,6,167,135,28,9,Engelbert Humperdinck,Les Bicyclettes De Belsize,5362
+0.9993,0.089,0.832,0.079,3.5,87.21,4.49,1322,30558,23562,2471,949,Robert Knight,Isn't It Lonely Together,5363
+-0.9951,0.089,0.793,0.119,3.8,91.71,5.94,118,2105,1725,129,0,The Sandpebbles,Never My Love,5364
+0.9723,0.181,0.71,0.108,0.7,105.05,3.44,6,250,232,27,4,Nina Simone,Do What You Gotta Do,5365
+0.9931,0.173,0.811,0.015,1.1,98.82,2.71,7,309,261,41,12,Johnnie Taylor,Who's Making Love,5366
+0.9725,0.214,0.688,0.098,0.7,105.25,3.36,3,182,168,20,6,Dion,"Abraham, Martin And John",5367
+0.497,0.045,0.955,0.0,-1.0,109.21,2.08,2,161,141,31,3,Derek,Cinnamon,5368
+-0.9843,0.026,0.802,0.172,1.1,98.72,3.17,27,254,209,32,3,Shadows Of Knight,Shake,5369
+0.9906,0.175,0.811,0.013,2.6,89.34,3.87,26,348,265,36,12,Bobby Goldsboro,The Straight Life,5370
+0.9994,0.261,0.729,0.011,3.7,92.02,5.49,15,561,483,37,13,Bobby Russell,1432 Franklin Pike Circle Hero,5371
+0.9738,0.241,0.723,0.037,0.8,99.53,2.67,4,121,103,18,6,Classics IV Featuring Dennis Yost,Stormy,5372
+-0.9986,0.058,0.479,0.464,0.2,106.47,2.88,3,208,186,26,29,Magic Lanterns,"Shame, Shame",5373
+0.9686,0.127,0.829,0.044,2.0,96.28,4.28,33,584,501,56,4,Eddie Harris,It's Crazy,5374
+0.91,0.128,0.83,0.043,0.7,99.73,2.2,10,149,127,23,5,1910 Fruitgum Co.,Goody Goody Gumdrops,5375
+0.9649,0.262,0.646,0.092,-1.3,110.02,1.48,2,98,89,24,11,Marty Robbins,I Walk Alone,5376
+0.9764,0.71,0.29,0.0,-0.2,101.86,1.36,2,21,17,5,1,Bill Medley,Peace Brother Peace,5377
+0.9941,0.2,0.788,0.013,0.6,100.14,2.04,12,260,214,42,9,Arthur Conley,Aunt Dora's Love Soul Shack,5378
+0.9956,0.344,0.627,0.029,-0.3,107.38,2.52,5,155,138,22,1,Bobbie Gentry & Glen Campbell,Mornin' Glory,5379
+0.9138,0.131,0.794,0.075,1.0,98.92,2.52,3,213,175,28,15,Rejoice!,Golden Gate Park,5380
+1.0,0.156,0.76,0.084,10.6,63.22,12.79,949,8874,6390,258,1,Brook Benton,Do Your Own Thing,5381
+0.9845,0.04,0.936,0.024,8.7,62.68,8.94,699,3139,2089,123,17,The McCoys,Jesse Brady,5382
+0.9986,0.525,0.455,0.02,-0.7,108.5,2.7,3,148,130,25,7,Bobby Vinton,I Love How You Love Me,5383
+0.9977,0.434,0.482,0.083,1.7,97.09,3.24,3,209,178,22,6,Dionne Warwick,"Promises, Promises",5384
+-0.4582,0.057,0.869,0.074,-0.3,107.48,3.16,4,134,117,19,6,Glen Campbell,Wichita Lineman,5385
+0.994,0.233,0.767,0.0,0.4,105.96,3.08,4,244,223,29,9,Stevie Wonder,For Once In My Life,5386
+0.9882,0.191,0.809,0.0,-0.2,107.18,2.6,3,212,195,30,7,Jackie Wilson,For Once In My Life,5387
+1.0,0.242,0.723,0.036,3.4,92.83,5.54,141,3678,2991,244,0,Sam & Dave,Everybody Got To Believe In Somebody,5388
+0.9976,0.306,0.622,0.072,5.0,77.74,4.61,11,412,294,28,10,Martha Reeves & The Vandellas,Sweet Darlin',5389
+-0.0127,0.147,0.702,0.15,-0.4,107.69,2.4,9,305,283,47,26,Five By Five,Fire,5390
+0.9681,0.221,0.779,0.0,0.8,99.53,2.78,11,93,80,14,0,Jose Feliciano,The Star-Spangled Banner,5391
+0.9744,0.23,0.751,0.019,2.0,90.97,3.94,10,125,99,17,1,Jefferson Airplane,Crown Of Creation,5392
+0.879,0.117,0.855,0.027,0.8,99.43,2.98,6,140,121,21,3,Gene Pitney,Billy You're My Friend,5393
+0.0516,0.096,0.801,0.103,1.6,102.71,4.84,7,286,250,23,6,Dean Martin,Not Enough Indians,5394
+-0.91,0.0,0.904,0.096,0.9,104.74,4.16,7,151,133,15,7,Mama Cass,California Earthquake,5395
+0.9999,0.124,0.813,0.063,3.2,87.92,4.18,311,6338,4967,565,17,Gloria Walker,Talking About My Baby,5396
+-0.7149,0.048,0.887,0.065,2.2,90.56,3.64,25,233,173,28,8,Richard Harris,The Yard Went On Forever,5397
+-0.9929,0.041,0.749,0.21,1.9,91.27,4.6,39,304,233,42,0,The Fireballs,"Come On, React!",5398
+-0.9537,0.164,0.573,0.263,1.0,98.92,2.94,6,224,190,30,5,Clarence Carter,Too Weak To Fight,5399
+0.9485,0.129,0.801,0.07,1.1,98.82,2.73,9,272,231,36,0,Judy Collins,Both Sides Now,5400
+0.9976,0.219,0.671,0.111,1.4,98.01,2.88,9,563,484,67,15,James Brown,Goodbye My Love,5401
+0.9959,0.262,0.657,0.081,-0.7,108.6,2.04,4,334,310,61,33,The Intruders,Slow Drag,5402
+0.992,0.249,0.707,0.044,1.0,99.02,2.48,3,214,186,30,18,Deep Purple,Kentucky Woman,5403
+0.9124,0.153,0.808,0.039,-0.8,108.7,2.0,2,127,115,23,15,Creedence Clearwater Revival,I Put A Spell On You,5404
+0.906,0.148,0.72,0.133,1.9,96.69,4.26,41,740,606,71,19,Peaches & Herb,Let's Make A Promise,5405
+0.9904,0.285,0.661,0.054,-0.4,107.89,2.32,0,141,128,22,6,Tammy Wynette,Stand By Your Man,5406
+-0.9994,0.101,0.77,0.13,7.9,75.64,10.03,446,5593,4263,204,0,The Hesitations,A Whiter Shade Of Pale,5407
+0.9839,0.156,0.79,0.054,2.0,90.97,2.96,16,399,314,54,8,The Temptations,Cloud Nine,5408
+0.9881,0.266,0.734,0.0,2.5,89.65,3.19,3,147,114,16,13,Sergio Mendes & Brasil '66,Scarborough Fair,5409
+-0.9997,0.092,0.767,0.141,2.3,95.67,5.12,423,4590,3698,389,0,Bobby Bland,Rockin' In The Same Old Boat,5410
+0.818,0.141,0.752,0.106,3.3,93.14,4.8,6,275,239,20,0,Wilson Pickett,A Man And A Half,5411
+0.6235,0.111,0.808,0.081,-0.4,107.69,2.4,3,142,127,21,5,The Lettermen,Put Your Head On My Shoulder,5412
+0.994,0.241,0.716,0.043,2.8,83.52,2.3,6,284,208,43,15,The Tymes,People,5413
+0.9973,0.269,0.716,0.015,1.5,97.6,3.04,6,323,280,37,0,Joe Cocker,With A Little Help From My Friends,5414
+1.0,0.14,0.786,0.074,1.6,97.4,3.98,572,12538,10084,1296,239,The Fantastic Johnny C,(She's) Some Kind Of Wonderful,5415
+-0.9979,0.038,0.525,0.437,-0.2,107.28,2.56,5,184,172,27,15,Barbara Acklin,Just Ain't No Love,5416
+0.9909,0.327,0.633,0.04,1.1,98.82,2.56,5,139,115,18,5,The Royal Guardsmen,Baby Let's Wait,5417
+0.9945,0.156,0.796,0.048,1.9,91.27,3.38,37,597,474,86,0,Autry Inman,Ballad Of Two Brothers,5418
+0.9988,0.304,0.683,0.013,-0.4,107.79,2.63,8,342,301,51,19,Patti Drew,Hard To Handle,5419
+0.9987,0.243,0.667,0.09,2.4,95.27,4.29,33,713,612,62,9,Young Hearts,I've Got Love For My Baby,5420
+0.9867,0.222,0.737,0.041,-0.4,107.79,3.11,7,180,160,27,10,B.J. Thomas,Hooked On A Feeling,5421
+0.9848,0.134,0.756,0.11,6.0,80.62,7.81,141,1497,1136,71,0,Joe Simon,I Worry About You,5422
+0.9615,0.125,0.829,0.047,1.1,98.72,2.76,5,290,252,39,6,Marvin Gaye,I Heard It Through The Grapevine,5423
+0.9976,0.359,0.59,0.051,-0.3,107.48,2.48,5,237,216,35,14,Aretha Franklin,See Saw,5424
+0.979,0.225,0.775,0.0,-0.4,107.69,3.14,5,120,108,18,5,The Vogues,Till,5425
+-0.9998,0.125,0.646,0.228,2.1,96.08,4.16,132,2197,1829,200,12,The Chambers Brothers,I Can't Turn You Loose,5426
+1.0,0.091,0.852,0.057,8.5,68.6,10.68,3118,20539,14854,762,0,Johnny Rivers,Right Relations,5427
+0.9971,0.324,0.676,0.0,0.9,99.12,2.86,9,225,189,31,9,Petula Clark,American Boys,5428
+-0.9999,0.017,0.88,0.103,1.9,96.69,4.19,348,3936,3201,378,9,The O'Kaysions,Love Machine,5429
+1.0,0.135,0.789,0.076,18.9,41.6,19.41,7411,197553,145725,3161,0,The Mills Brothers,The Ol' Race Track,5430
+0.9313,0.159,0.812,0.029,1.1,98.62,2.98,4,143,119,18,1,Big Brother And The Holding Company,Coo Coo,5431
+0.9872,0.206,0.794,0.0,2.8,88.84,3.16,3,190,150,19,9,The Mamas & The Papas,Do You Wanna Dance,5432
+0.8775,0.139,0.829,0.032,0.4,100.65,1.84,9,159,129,28,4,Alvin Cash,Keep On Dancing,5433
+0.9903,0.147,0.838,0.015,-0.6,108.4,2.77,9,345,309,58,19,The Steve Miller Band,Living In The U.s.a.,5434
+0.9998,0.121,0.822,0.057,2.6,89.34,3.89,337,4616,3646,493,0,Sonny James,Born To Be With You,5435
+0.9933,0.269,0.659,0.072,0.9,99.12,3.34,16,272,221,36,0,Eric Burdon & The Animals,White Houses,5436
+0.9712,0.252,0.578,0.17,1.6,97.5,3.46,11,243,209,27,7,The Impressions,Don't Cry My Love,5437
+0.9876,0.204,0.796,0.0,1.6,97.5,3.83,16,196,161,21,8,Rene & Rene,Lo Mucho Que Te Quiero (The More I Love You),5438
+0.0834,0.064,0.888,0.048,-0.9,109.11,1.84,11,385,337,73,26,Otis Redding,Papa's Got A Brand New Bag,5439
+0.981,0.128,0.86,0.012,1.1,98.72,2.6,7,352,301,46,15,Dusty Springfield,Son-Of-A Preacher Man,5440
+0.0,0.0,0.0,0.0,-15.7,206.84,0.0,0,0,0,1,0,Young-Holt Unlimited,Soulful Strut,5441
+0.9868,0.208,0.766,0.026,0.6,105.35,3.32,6,222,198,24,6,The Jimi Hendrix Experience,Crosstown Traffic,5442
+0.809,0.118,0.796,0.085,0.2,106.57,3.5,2,130,121,17,2,Aretha Franklin,My Song,5443
+0.9599,0.172,0.747,0.08,0.0,106.87,2.95,9,203,177,26,10,Nancy Sinatra,Good Time Girl,5444
+1.0,0.107,0.832,0.062,7.4,71.44,9.4,2588,17129,12381,742,0,Della Humphrey,Don't Make The Good Girls Go Bad,5445
+-0.0644,0.095,0.801,0.104,1.6,97.5,3.27,7,268,216,28,7,Sly & The Family Stone,Everyday People,5446
+-0.802,0.045,0.863,0.092,0.8,99.53,2.82,7,174,147,26,11,The Impressions,This Is My Country,5447
+-0.9623,0.052,0.804,0.145,1.1,98.62,2.64,5,261,210,32,12,The Grass Roots,Bella Linda,5448
+0.9855,0.258,0.654,0.089,0.1,106.67,3.21,10,220,195,28,0,Elvis Presley,If I Can Dream,5449
+0.9978,0.274,0.697,0.029,-0.2,107.18,2.89,6,314,274,42,6,Diana Ross And The Supremes & The Temptations,I'm Gonna Make You Love Me,5450
+0.9949,0.197,0.764,0.039,0.5,105.76,3.73,15,394,348,44,11,The Rascals,A Ray Of Hope,5451
+0.2472,0.05,0.888,0.062,1.8,102.31,4.79,7,169,147,13,2,Canned Heat,Going Up The Country,5452
+0.9928,0.204,0.767,0.029,1.7,91.88,3.07,13,280,216,44,0,Bobby Taylor & The Vancouvers,Malinda,5453
+0.9882,0.168,0.795,0.037,0.2,106.37,3.25,10,273,241,33,4,Jeannie C. Riley,The Girl Most Likely,5454
+-0.9995,0.068,0.813,0.118,6.0,85.93,8.72,294,3962,3212,168,0,Merrilee Rush,Reach Out,5455
+-0.9481,0.075,0.756,0.169,0.4,100.44,2.28,7,263,221,46,12,Spanky And Our Gang,Yesterday's Rain,5456
+0.9905,0.173,0.827,0.0,1.9,96.59,3.44,5,229,198,23,0,Jerry Butler,Are You Happy,5457
+0.9706,0.161,0.806,0.032,2.1,90.77,2.82,7,251,191,32,10,Bobby Womack,California Dreamin',5458
+1.0,0.137,0.775,0.088,3.1,88.13,4.59,1242,15294,12060,1396,11,Joe Simon,Looking Back,5459
+0.9989,0.095,0.849,0.056,6.7,78.69,8.36,285,3667,2794,156,0,Eddy Arnold,They Don't Make Love Like They Used To,5460
+0.9809,0.114,0.827,0.059,2.0,101.9,4.84,19,571,503,43,0,Roger Miller,Vance,5461
+0.9841,0.216,0.743,0.041,0.0,106.97,2.68,4,173,154,23,3,The Beach Boys,Bluebirds Over The Mountain,5462
+0.9993,0.089,0.832,0.079,3.5,87.21,4.49,1322,30558,23562,2471,949,O.C. Smith,Isn't It Lonely Together,5463
+0.9477,0.178,0.822,0.0,0.6,100.04,2.08,5,117,94,18,7,Tommy James And The Shondells,Crimson And Clover,5464
+-0.9667,0.043,0.802,0.155,2.1,96.18,3.8,12,235,197,22,0,The Unifics,The Beginning Of My End,5465
+0.9936,0.235,0.748,0.017,0.6,105.35,3.68,4,256,223,27,6,Archie Bell & The Drells,There's Gonna Be A Showdown,5466
+0.9981,0.23,0.742,0.028,1.5,97.8,3.17,29,476,385,52,0,Johnny Nash,You Got Soul,5467
+0.9836,0.214,0.704,0.081,0.4,105.86,3.12,6,217,194,25,4,Sammy Davis Jr.,I've Gotta Be Me,5468
+0.5493,0.122,0.777,0.101,0.4,105.96,3.08,6,214,193,25,1,Johnny Adams,Release Me,5469
+-0.765,0.115,0.742,0.143,3.8,91.82,5.32,4,168,146,11,4,Bee Gees,I Started A Joke,5470
+0.9433,0.108,0.881,0.011,2.0,91.07,2.71,9,238,188,33,4,The 5th Dimension,California Soul,5471
+0.9387,0.132,0.827,0.041,-0.5,108.09,2.24,6,213,192,34,7,Tyrone Davis,Can I Change My Mind,5472
+0.996,0.211,0.779,0.01,1.3,98.31,2.92,7,291,249,36,12,Sam & Dave,"Soul Sister, Brown Sugar",5473
+1.0,0.112,0.816,0.073,12.8,57.44,14.5,2823,30952,22107,726,0,Bob Seger System,Ramblin' Gamblin' Man,5474
+0.9879,0.296,0.602,0.102,1.0,98.92,2.99,2,204,170,27,12,Andy Kim,Rainbow Ride,5475
+0.875,0.101,0.886,0.013,-1.3,115.43,2.68,0,124,120,18,0,Tom Jones,A Minute Of Your Time,5476
+0.9432,0.135,0.812,0.053,1.3,98.21,2.8,6,242,209,30,5,Wilson Pickett,Hey Jude,5477
+0.9943,0.199,0.788,0.013,0.6,99.94,2.27,9,320,271,51,11,James Brown,Tit For Tat (Ain't No Taking Back),5478
+0.9998,0.124,0.782,0.094,2.9,88.63,4.06,519,9930,7740,952,12,Chambers Brothers,Shout! - Part 1,5479
+0.9852,0.219,0.685,0.096,1.7,97.2,3.38,4,265,225,28,6,Brooklyn Bridge,Worst That Could Happen,5480
+0.7474,0.108,0.785,0.107,12.3,64.17,14.25,930,13075,9853,306,3,The Crystal Mansion,The Thought Of Loving You,5481
+-0.6588,0.052,0.883,0.066,4.0,91.31,5.86,8,279,235,17,4,The Goodees,Condition Red,5482
+-0.3949,0.066,0.866,0.069,1.1,98.72,2.78,5,275,222,34,11,Johnny Cash,Daddy Sang Bass,5483
+0.9909,0.234,0.723,0.043,-0.1,107.08,2.64,1,185,171,26,13,The Doors,Touch Me,5484
+0.9972,0.279,0.639,0.082,-0.7,108.6,2.19,3,306,272,53,30,The Moments,Not On The Outside,5485
+0.9972,0.04,0.949,0.011,3.9,80.68,4.81,715,4244,2979,393,9,"John Wesley Ryles, I",Kay,5486
+0.9963,0.22,0.766,0.014,0.6,99.94,2.27,9,325,268,51,33,The Archies,Feelin' So Good (S.k.o.o.b.y-D.o.o),5487
+0.9821,0.221,0.694,0.086,2.1,90.66,4.79,21,220,170,28,1,The Box Tops,"Sweet Cream Ladies, Forward March",5488
+0.7943,0.082,0.918,0.0,5.4,66.1,2.43,4,211,128,24,11,Jay & The Americans,This Magic Moment,5489
+0.9994,0.395,0.574,0.032,-1.4,115.74,2.67,4,376,362,57,8,Barry Ryan,Eloise,5490
+0.9966,0.205,0.65,0.145,2.3,95.57,4.71,65,846,691,72,0,The Esquires,You've Got The Power,5491
+0.9124,0.108,0.866,0.027,0.5,100.34,1.96,5,188,163,33,15,The Dells,Does Anybody Know I'm Here,5492
+0.9982,0.1,0.821,0.079,3.3,87.72,4.56,389,5788,4603,509,20,Bobby Vee,I'm Into Lookin' For Someone To Love Me,5493
+0.9999,0.096,0.819,0.085,8.6,68.4,9.66,2396,30834,22467,1139,3,Al Martino,I Can't Help It (If I'm Still In Love With You),5494
+0.9891,0.243,0.699,0.057,2.5,89.65,2.84,6,208,164,23,9,New Colony Six,Things I'd Like To Say,5495

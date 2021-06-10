@@ -1,0 +1,795 @@
+Scene 16: Miss Cloud?
+Scene 17: Rescue Tifa From Don Of The Slums
+Scene 18: Lounge Chaos
+Scene 19: Ecchi Don
+Scene 20: I'll Smash Them
+Scene 16
+-Miss Cloud? -
+(Cloud and Aerith arrive in Wall Market, busy with the hustle and
+bustle of people. Aerith runs around, checking things out.)
+"This place is scary in a lot of ways. Especially for a girl. So
+we've got to find Tifa fast."
+]]
+"I just can't make up my mind. Mmm."
+"Huh? About what?"
+"Hmmm, don't make me say it. It's the shop down on the right."
+"Hey, you two. Why don't you get some rest?"
+"We have a beautiful room, how 'bout it?"
+"Aren't cats great? This one's a little big, huh?"
+"Hey boy! You shore got a good lookin' heifer there!"
+"Take her to Don's place, and you'll make a mint."
+"Whoa!"
+"Why don't you say something, if you're standing there?"
+"Please come in. Here's a free 'Pharmacy Coupon' if you enter
+now."
+"Welcome! Sit wherever you like!"
+"I'm gonna get another Pharmacy Coupon today."
+"umf... scarf... glub..."
+"I always get the Special."
+"It's thanks to the Don that we can eat like this."
+"umf... grunt... smack... Don't sneak up on me like that!"
+"It's a little early to start eating. Come back in a bit."
+"...We're closed now."
+"Oh... what should I do... Should I just buy it......?"
+"Welcome. Please take your time."
+"Don't push! Hooligan!"
+"All this trash. Can't we do anything with it?"
+"All this, belongs to the owner of the Weapons Shop. He keeps
+picking things up and saving them here."
+"Oh, you mean the owner who even has a tank in his shop."
+"But no matter how you look at it, it's just trash..."
+"Join the club."
+"Try it with us."
+"All right... 1, 2, 3. Squats are all in the rhythm."
+"I'm doing my best, bro'!"
+"How's... this!?"
+"Whew, times are bad."
+"...And then..."
+"Hmm, hmmm, oh really?"
+"Yes? If you want to order, do it at the counter." [Note: You
+don't seem to be able to order]
+"Hey, could you do somethin' for me? Someone's been in there
+all day and they're not comin' out. I can't hold it anymore!"
+"HEY... someone's IN here... Don't look!"
+"You want somethin'? I don't wanna hear any complaints 'bout
+how things look."
+]]
+"Man... Should I go.... or not?"
+"I get so mental at times like this. I'm hopeless!"
+"Hey!! Aren't you...?"
+"What!! You mean, you're.... too?"
+***Cloud
+Yeah, me too.
+"You're Tifa's childhood friend, and you brought a girlfriend
+to a place like this!?"
+"What kind of guy are you!!"
+"What the hell!! You *%^&!! This ain't no #$*&^% show!! I'm busy
+right now!!"
+"I'm feelin' like there's gonna be a fight!"
+"Urrgh... no way... I can't go on."
+"Things aren't working out."
+"Between our differences and my pay, it just isn't cutting it."
+"Welcome!! Even unpopular dweebs, like you may meet your
+destiny here!!"
+"You looking for a girlfriend too?"
+***Cloud
+You know a girl named Tifa?
+"Hey, you're pretty fast. Tifa's our newest girl."
+"But, unfortunately, she's having an interview right now."
+"Here at the Honey Bee Inn, it's customary for all the new girls
+to be taken to Don Corneo's mansion."
+"Don Corneo's a famous dilettante. Now he wants to settle down
+and is in the market for a bride."
+"The Honey Bee Inn is a private club. Only members can go in.
+Shoo, shoo."
+[Note: The whole scene of getting into Don Corneo's mansion is very
+open-ended. Your results may vary. I have included all the dialogue you
+could encounter while getting the various items, as well as what happens
+when you reach the Don's mansion with different amounts of the items.
+Remember that it is NOT required to get all of the items, and no matter
+how feminine you get, it will not have any bearing on the progression of
+events through the game.]
+"This is the mansion of Don Corneo, the most powerful man in
+Wall Market."
+"Look, the Don's not into men. So don't let me catch you around
+here again..."
+"Hey, and you got another cute one with you!"
+"Hey, this looks like the Don's mansion. I'll go take a look."
+"I'll tell Tifa about you."
+"No!! You can't!!"
+"Why?"
+"You DO know... what kind of... place this is, don't you?"
+"Then, what am I supposed to do? You want to go in with me?"
+"Well being a man, that'll be pretty hard. Besides if I bust in
+there, it'll cause too much commotion."
+"But, I just can't let you go in alone... Oh, man......"
+"First, we'll need to find out if Tifa's alright...."
+"What's so funny, Aerith?"
+"Cloud, why don't you dress up like a girl? It's the only way."
+"WHAT!?"
+Aerith]
+"Just wait. I've got a cute friend I want to bring."
+Cloud]
+"Aerith! I can't....."
+Aerith]
+"You ARE worried about Tifa, aren't you? Then come on, hurry!"
+Aerith]
+"Excuse me! I'd like to get a dress."
+"Umm, it might take a little time. Will that be all right?"
+"What's the problem?"
+"Well, my father, the owner, has been in a slump lately. You
+see, he makes all the dresses."
+"And, where is your father?"
+"He's probably plastered at the bar."
+"So... You're saying we can't get a dress unless we do something
+about your father?"
+"Yes. I'm sorry. He's caused so much trouble."
+"!"
+"You'd help me bring him back?"
+"Well, if don't do something, we don't get a dress, right?"
+"Really!? Please help my crazy old dad. I just don't know what
+to do anymore...."
+"All right, we'll do something. Let's go, Cloud!"
+"Excuse us, are you the father of the girl at the Clothing Store?"
+"I own the Clothes Shop... but I ain't your father."
+"I didn't say that...."
+"Make me some clothes."
+"I don't make men's clothes. And I don't feel like makin'
+anything right now."
+"Cloud, you wait over there for a second. I'll try and talk to
+him."
+"Why don't you go over there and have something to drink."
+"You know, mister."
+"He always said that just once, he'd like to dress up as a girl."
+"So, that's why I wanted a cute dress for him..."
+"What!? A tough lookin guy like that?"
+"So, how 'bout it? Will you make him one?"
+"...might be interesting. I was gettin' a little bored just
+makin' regular clothes."
+"Then you'll do it for us?"
+"Yeah, all right. What kind of dress you want?"
+"Something..."
+(You get to choose what kind of dress you get here. If you make these
+choices, you will get the Silk Dress, the sexiest dress. Any other
+combination will get you a non-sexy dress.)
+That feels soft
+"And something...."
+that shimmers
+"Hmm, got it. Y'know I got a friend that has the same taste
+as him. I'll go talk to him."
+"Oh, you're here. It's ready. Go try it on."
+(They receive the Silk Dress. Cloud looks like he is dreading this. He
+steps into the dressing booth and we hear scuffling sounds.)
+"How... do you put this thing on?"
+"Whoa! What are you doing!"
+"It's still not right. A wig! That's what you need!"
+"Umm, I thought you might, so I talked to my friend about
+getting one."
+"You know the gym? You'll find a lot of people there like you.
+Go and talk to them."
+"...'like you'? Aerith, what did you tell him?"
+"Does it matter? Anyhow, we got a pretty dress!"
+(They travel to the gym and speak to the man watching the squat-thrust
+match. We can only assume it is a man; he appears to be wearing women's
+clothes.)
+"You the one.... Who wants to be cute?"
+"Cute?"
+"Right."
+"And about the wig..."
+"Yeah, I heard. But it'll cost ya."
+"Urrrrgh!!!"
+"Big Bro!! The only way you're gonna get cuter is if you can
+beat the Big Bro!!"
+"That's right!"
+"So, you've got to compete with us!"
+"You're right. Let's do squats."
+"All right! We'll beat you out of this gym!"
+"Are you...?"
+"THE beautiful Bro?"
+"What? You didn't know? Always running around here saying
+Big Bro' this, Big Bro' that...."
+"Never mind that, come over here."
+"No. I'll explain the rules."
+"From the ready position, push Square button to squat, push X
+Button to get up, and push O Button to go back to the ready position."
+"So it's Square Button, X Button, O Button in that order."
+"Got it?"
+***Cloud
+Got it
+"Whoever has the most squats at the end of 30 seconds gets the
+wig."
+"I'm not going to lose."
+"Big Bro's wig is MINE!!"
+"Just be quiet..."
+"It's not fair for you to start right away. So, you want
+practice?"
+***Cloud
+A little
+"Then, start practicing!"
+"You had 20 squats."
+"Now let's begin the real thing. Start!"
+"He had 17 squats and you had 20 squats."
+"You're really something. Okay, I'm a man of my word, here
+you are."
+'I'm so mad I'm so so so--- mad!"
+"Shut up! Don't cry just because you lost!"
+"Uuuhh, Bro's fists of steel cut to the bone!"
+"Hey man. Got a minute? I need to talk... man to man."
+***Cloud
+What is it
+"Really! I really appreciate it."
+"......I'm sorry but, young lady? Would you turn the other way,
+for a second?"
+"Why.....?"
+"......Aerith."
+"Gosh!"
+"I'm sorry, lady."
+"Now here's the thing. Do you know that vending machine in the
+inn?"
+"I'm itchin' to know what they're selling in it. I just can't
+ask a girl to go get it."
+"What? Why don't I buy it myself? Well to tell you the truth,
+I got in a fight with the guy at the inn and can't go there anymore.
+Come on, so how 'bout it?"
+***Cloud
+I'll go
+"Good, thanks. I'll be waitin' here when you're done."
+"Finished?"
+(They go to the inn and get a room there. Late that night, Cloud gets out
+of bed and goes to the vending machine in the hallway.)
+"He means this?"
+CHOICE
+Don't buy it
+Buy the one for 200 Gil 
+Buy the one for 100 Gil
+Buy the one for 50 Gil
+"I got it."
+"Oh, really!! Hey!"
+"Geez."
+"And, what was it?"
+"A protein drink set. That jerk. I'm gonna do so much more
+business than him, his head'll spin."
+"Thanks, bud. I'm motivated now. Take this, it's not much..."
+(Cloud and Aerith go to the Honeybee Inn. A guy on the path there
+gives them a members Card. They speak to the bouncer.)
+"Hey! Is that a 'Member's Card' I see shining in your hot
+little hand?"
+"Please, come in."
+"...Hmm. That's how you'll fool them."
+"......Hmmmmmmmmm. So that's how you fooled them."
+"Let's go!!"
+"Poo, I uh, mean, Sir..."
+"Hurry..."
+"Please choose a room. (Gosh, he's so weird... but then again,
+they all are.)"
+(Cloud ducks into the dressing room for the Honeybees and speaks to them.
+Repeatedly.)
+"Hmm, hmm, hmm....."
+"Ohhh, I just can't seem to lose weight. Hmm, hmm, hmm..."
+"Sir!! You can't come in here."
+""
+"Eyaah!"
+"Don't!"
+"Paste, paste, paste....."
+"(Oh God... here's another one of those guys. You know, the
+delicate type. Just ignore him, just ignore him.)"
+"Fluff, fluff, fluff..."
+"(Hmm! I guess he doesn't realize his position. I feel sorry for
+him. Just ignore him, just ignore him.)"
+"Pita, pita, pita...."
+""
+""
+"Mix, mix, mix...."
+"(What should I do... Is he following me? Really? What if he
+follows me home...?)"
+""
+"Shake, shake, shake..."
+"(You think he's after me? Really? This guy makes me sick... And
+his eyes are weird too....)"
+"(Yeah, don't hurt these guys' feelings. Let's at least say 'hi'
+to him."
+"Uhh.... Hel... Hello."
+"What a nice day, today."
+***Cloud
+Introduce yourself
+Cloud
+"By the way, I haven't introduced myself yet."
+"I'm Cloud, a jack of all trades."
+"Oh, yeah...? Welcome, Cloud."
+""
+"Take care... Cloud."
+***Cloud
+Not interested
+"NO WAY! I'M SO SHOCKED!!"
+"Hmm, hmm, hmm, hmm......... hmm, hmm, hmm, hmm... hmm, hmm, hmm,
+hmm..."
+"Phew... ...it's so tiring."
+"Oh!!"
+"Is something the matter?"
+***Cloud
+Not yet.....
+"OH......!!"
+(Cloud exits the dressing room. He takes a peek through the keyholes of
+some occupied doors. Behind the first one, The Lovers Room....)
+"....Woooo...ow!"
+"...wheez...."
+"Phew...."
+"What's wrong, Grandpa? You keep sighing."
+"...wheez... puff... You know, Grandma..."
+"You talking about this room?"
+"...whew... I know our son rented this for us and all, but...."
+"It's too nice for us. Big round bed, gorgeous tub, I just can't
+get comfortable."
+"Don't worry about it. It's a high class neighborhood, in the Big
+City."
+"You keep complainin' and we'll get into trouble."
+"...wheez..."
+"...Wooo...ow!"
+(Lightning flashes... a guy in a tub... another standing... one is dressed
+as a king.)
+...The wind's calm now....
+It's the curse of the resurrected Satan... Our beloved Queen does
+not awaken...
+The time is ripe...
+A legend has been passed on through generations...
+"Psst... "
+"...whisper... whisper... (We have a luncheon with President
+Shinra...)"
+"Psst..... "
+"Psst.... "
+"Psst.... "
+A legend has been passed on through generations....
+.....the sought after Promised Land....
+"Psst.... "
+....One with Blue Eyes....
+"Psst....(It's like this every time we have a business trip to
+Midgar.)"
+.....and a Great White Sword on his back.....
+""
+.... Will not lead to the Promised Land.....
+"Psst.... (What're you complaining about. You're just holding the
+lights. I've gotta wear this heavy armor!)"
+"Psst.... "
+"Psst.... (Oh yeah, did you hear? The President's wife found out
+about this little hobby of his.)"
+"Psst... "
+"Psst... "
+"Geez!! Mr. Prseident!! I mean, Your Majesty..."
+"Ohhh... I'm sorry. Please remove the ancient curse!"
+"I'll take this room."
+"All right, Now all we have to do is enter the room."
+"You're not going to have a change of heart, are you?"
+***Cloud
+Don't make me repeat myself
+"Oh, don't be angry with me.... (Geez.... this one' probably the
+violent type....)"
+"All right, please."
+"This way, please."
+"Shall we begin?"
+"I guess since you chose this room, that would mean you..."
+"Hate being lonely?"
+***Cloud
+I'm used to being alone
+Cloud
+"I'm always alone."
+"All right, all right. "
+"Come on, everyone's waiting."
+***Cloud
+Everyone...?
+"Here they are."
+"All right, everyone."
+"One, two! One, two!"
+"Yeah!!"
+"One, two!! One, two!!"
+"Wassup!!"
+""
+"Oh man..."
+"What should I do...?"
+***Cloud
+I'm outta here
+"I've got no time to mess around with you."
+"Outta my way!"
+"...heave... pant..."
+"Don't be so embarrassed! Loosen up, bubby!"
+"...heave... pant..."
+"Let's wash off all our sweat and dirt together!"
+"Wassup!!"
+(They all move in towards Cloud. The camera pans up to the ceiling so that
+just the tops of their heads are showing.)
+"Bubby! You're the intimate type, huh!!"
+"...heave... pant... Wow!! Would ya look at that!"
+"Isn't bathing great...?"
+"It soothes your heart."
+"How is it, bubby!?"
+"Feels good, huh?"
+***Cloud
+.........
+"I don't feel good. Let me out..."
+"You'll get used to it. Try counting to ten."
+"Ten..."
+"Nine..."
+"Hey bubby, how old are you?"
+"Eight..."
+"Twenty one..."
+"You're less than half my age. I'm so jealous."
+"So how 'bout it...?"
+"Do you wanna join my "Young bubby's" group?"
+***Cloud
+Not interested
+"Seven..."
+"Six..."
+"Maybe in another life."
+"Well, if that's how you feel... too bad."
+"We have a trip planned at a cabin out in the country."
+"Five..."
+"Four..."
+"Three...."
+"Two..."
+"One..."
+"Alright, that's ten. I'm gettin' out."
+"Why don't you stick around and play a bit?"
+"Daddy's so lonely..."
+"Bubby!!" This is important to
+me."
+"Here's a memento of our time
+together!"
+"Hope we meet again!"
+"This is SOME underwear.... I'm supposed to wear this...?"
+"Well, if it's to save Tifa... I guess there's no way around."
+"I'll take this room."
+"All right, Now all we have to do is enter the room."
+"You're not going to have a change of heart, are you?"
+***Cloud
+Don't make me repeat myself
+"Oh, don't be angry with me.... (Geez.... this one' probably the
+violent type....)"
+"All right, please."
+(Cloud enters. There is a bright flash of light and the room dims. Cloud
+walks forward and sees a ghost of himself, transparent, kneeling by the
+tub. The ghost rises and walks to him.)
+"Hmm.....? You.....?"
+"What are you doing in a place like this?"
+"That's what I want to ask you. Should you be foolin' around
+here?"
+"You think problems will go away just thinkin' about them?"
+(The ghost rises, lifts his sword above his head... and falls forward, into
+Cloud's body. He falls and the screen goes black)
+"Oh no!"
+"Help! Someone...! Hurry!"
+"You can't change anything by just sitting back and looking at it."
+"What are you saying?"
+"It's started moving."
+"What has?"
+"Wake up!"
+"rub, rub, rub..... rub, rub, rub, rub...."
+"thump... pound.... thump... pound..."
+"poik... poik... ...squish."
+"Uh... OW..!!"
+"Wake up!!"
+"Wake up!!"
+(Screen fades in to show Mukki straddling Cloud and slapping him upside
+the head. Cloud sits up and Mukki flops down on the bed.)
+"Phew, I'm so relieved."
+"Bubby!! I heard you collapsed."
+"No, no, no."
+"Don't get so uptight."
+***Cloud
+Huh...?
+"Hmm...? They say youth is so long but so short."
+"Let's give this next one your best shot."
+"Time's up. Bye, buddy."
+"Don't get depressed over a thing like this."
+"It happens to me all the time."
+"I'm so sorry... There's a lot of 'adult' things going on..."
+"For your inconvenience, please take this, okay?"
+"What, this rag? For me!? I just don't get it."
+".........."
+"If I were to dress up like a woman... Then I've got to really
+prepare carefully."
+"Seems like I could put makeup on here."
+***Cloud
+Have them put makeup on
+"I have a favor to ask of you. Can you put makeup on me too?"
+"...paste, paste, paste....."
+"Oh... my....."
+"Uh, sir!! It's almost closing time..."
+"So, please remember any personal belongings."
+"Uuuuuh! I want flowers too! But, I get so nervous in front of
+cute girls..."
+"It just seems more natural to get cautious..."
+"Hey!! Cloud!!"
+"Yes, what will you have?"
+"Hmm..."
+***Cloud
+Today's Special
+"One Today's Special."
+"Comin' up!"
+"In this store, you pay first. It'll be 70 Gil."
+"Thank you. Just a second."
+"There you go. Enjoy."
+***Cloud
+"It was all right"
+"Thank you. Here's an item coupon for the Pharmacy."
+"You can exchange it for one item there."
+"We're out of coupons, so we stopped giving them away. Watch for
+our NEXT promotion!"
+"Whoa!"
+"Why don't you say something, if you're standing there?"
+"Oh, you have a coupon. Then please select any one medicine you
+like."
+"Here you are."
+(He gives him the Digestive. They go to the bar and speak to the guy in
+the bathroom.)
+"HEY... someone's IN here... Don't look!"
+"What... urk..."
+***Cloud
+Give her medicine
+"Huh? You'll really give me some? Thanks."
+"Phew, I feel better now. This is for your kindness."
+"Aren't you going to change?"
+***Cloud
+Okay... I'm ready
+"Hmm, not bad. This may be a new business for me."
+"Yeah, you're right. Should we try it?"
+"Thanks for showing us something new. My father's got his
+motivation back now. So the dress is on the house."
+"Walk more nicely like... this. Miss Cloud."
+"What do you mean 'nicely'?"
+"Oh you're so cute, Miss Cloud."
+"Aaah, I want one. Do you have one that'll look good on me too?"
+"How's this?"
+"How about that one?"
+"Father, what are you talking about? This one's much better."
+"No, what are you saying? This one."
+"...I want THIS one."
+"I'm going to go change."
+"......No peeking!"
+"So? How do I look?"
+"Oh, you're no fun!"
+Scene 17
+- Rescue Tifa From Don Of The Slums -
+"Damn!! Your friend's hot, too!"
+"Come in, come in!!"
+"Two ladies coming through!"
+"Hey, ladies."
+"I'll go and let the Don know you're here. Wait here. Don't go
+wandering around..."
+"Now's our chance. Let's find Tifa."
+(Cloud goes upstairs and through a door. He comes out in a torture chamber.
+Aerith follows. They see Tifa there, dressed like... .. a slut, to be blunt
+about it.)
+"...Tifa?"
+"Nice to meet you. I'm Aerith."
+"Cloud's told me a lot about you."
+"...And you are?"
+"Hey you're the one with Cloud in
+the park..."
+"Right, with Cloud."
+"Oh....."
+"Don't worry. We just met. It's nothing."
+"What do you mean, 'Don't worry'... about what?"
+"No, don't misunderstand."
+"Cloud and I grew up together. Nothing more."
+"Poor Cloud, having to stand here and listen to both of us call
+him nothing."
+"Right, Cloud?"
+"Cloud?"
+"????"
+"Cloud!?"
+"Why are you dressed like that!? And what are you doing here!?"
+"Forget that, what happened to you after the fall!? Are you
+hurt!?"
+"Hey, give me a chance to explain."
+"I'm dressed like this... because there was no other way to get
+in here."
+"I'm all right. Aerith helped me out."
+"Oh, Aerith did..."
+"Tifa, explain. What are you doing in a place like this?"
+"Yeah, ummmm...."
+"Ahem! I'll just plug my ears."
+"I'm glad you're OK."
+"Thanks. What happened?"
+"When we got back from the Number 5 reactor, there was this weird
+man."
+"So Barret caught him and squeezed some information out of him."
+"That's when the Don's name popped up."
+"Right, Don Corneo."
+"Barret told me to leave the lech alone..."
+"But something's been bothering me."
+"I see. So you wanted to get the story straight from Corneo's
+mouth."
+"So I made it here, but now I'm in a bind."
+"Corneo is looking for a bride."
+"Everyday, he gets three girls, chooses one of them, and then....
+...and, well....."
+"Anyway, I have to be the girl... or I'm out for tonight."
+"Sorry... but I overheard..."
+"If you know the three girls, there's no problem, right?"
+"I guess so, but..."
+"We have two here, right?"
+"No, Aerith! I can't have you get involved."
+"Oh? So it's all right for Tifa to be in danger?"
+"No, I don't want Tifa in...."
+"Is it all right?"
+"I grew up in the slums... I'm used to danger."
+"Do you trust me?"
+"Yes. Thanks, Ms. Aerith."
+"Call me Aerith."
+"He---y!!"
+"It's time, ladies. The Don is waiting!"
+"I told ya not to wander around... I tell ya, women nowadays..."
+"Hurry up, will ya!"
+"I probably don't need to ask but the other girl is..."
+"Me...... right?"
+You're right, there was no need..."
+"...to ask."
+(Cloud, Aerith, and Tifa enter the Don's room. He is seated at a desk,
+with a flunky on either side.)
+"All right, ladies!"
+"Line up in front of the Don!"
+"Hmmm! Good, splendid!"
+(He jumps over his desk and checks out
+Aerith.)
+Don Corneo
+"Now, let's see... Which girl
+should I choose? Hmm--- hmm---!"
+(He checks out Cloud, who tries to face
+away.)
+Don Corneo
+"This one?"
+Don Corneo
+"Or this one?"
+Don Corneo
+"Woo-hoo, I've made up my mind!!"
+"My choice for tonight is....."
+"This little beauty!"
+"Fu, fu, fu.... Be nice, Don."
+"This slender little girl!"
+"Don, you've got great taste."
+"This healthy-looking girl!"
+"Wa, wait a sec! I mean, uh, please wait a moment!"
+"Woo-hoo!"
+"I love chickies who play hard to get! Yeowza!"
+"You can have the other ones!"
+"Yes, sir! Thank you sir!"
+"Well then, shall we go my pretty?"
+Scene 18
+- Lounge Chaos -
+"Hey guys! We've got guests."
+"We'll take REAL good care of you."
+"This is all thanks to the big boss, Don Corneo!"
+"Heey!! Three cheers for Don Corneo!"
+"Heh, heh.... Well ladies, are we, uh, all ready?"
+"Hey... what's wrong? Want me to keep you company?"
+"No... I'm flattered, but no thanks."
+"Because..."
+"Because...?"
+"Because..."
+"I ain't INTERESTED in a buncha scrubs like you!"
+"Wha.... a MAN!???"
+"God damn it! You think you can get away with this! Get him!
+Knock the crap out of him!!"
+"Grr! C'mon, what's the matter with you good for nothings!?"
+"All right now, COME ON! I'll show you how it's done!!"
+"Cloud!!"
+"Tifa!!"
+***Cloud
+You all right?
+"Of course! If you take me lightly, you're gonna pay for it!!"
+(Cloud is about to go in to the Don's room when Aerith screams from the
+torture chamber.)
+"No--!! Help!!"
+"No-!!"
+"Ha ha ha... Wait, you!"
+(Cloud looks down. Kotch is comically chasing Aerith around in circles.
+Aerith runs up the stairs and Kotch follows. When Aerith reaches Cloud,
+she kicks Kotch in the crotch.)
+"I'm so sorry!"
+"oh, oh, oh...."
+"heh, heh, heh..."
+"Aerith!!"
+***Cloud
+You all right?
+"I told you. I'm used to danger."
+"To tell you the truth, my heart was pounding."
+Scene 19
+- Ecchi Don -
+(Don Corneo and the girl he chose are sitting in his extravagantly and
+tastelessly decorated bedroom. It smacks of 'Love Hotel'.)
+"Woo-hoo!"
+"Come, come, don't be so shy..."
+"I know...."
+"But you know, Don Corneo, I'd like you to explain something
+before we start..."
+"Hm? Oh, you mean about THAT?"
+"Don't worry. I'm single. There, feel better now?"
+"No... I'm not asking about that......"
+"Wa... wait a minute! No, not yet!!"
+"Come! Come!"
+"Aooooooh!! I can't wait any longer! Here comes papa!!"
+"Cloud!!"
+(Don does a belly flop at Tifa. She hops out of the way, and Don comes
+down face first.)
+"Wha... what the hell? Who goes there?"
+"You still don't get it do you, Don Corneo?"
+"Get what?"
+"Woo-hoo!"
+"Come, come, don't be so shy..."
+"Ye... yes..."
+"But Mr. Don. I'd like you to explain something to me first..."
+"Of course, my dear. I'll take you through it slowly, step by
+step. So come on!"
+"No, that's not what I meant!"
+"NO, STOP! Just, wait a second!!"
+"Come! Come!"
+"Aoooooh!! I can't wait any longer! Here comes papa!!"
+"Cloud!!"
+(Don does a belly flop at Aerith. She hops out of the way, and Don comes
+down face first.)
+"Wha... what the hell? Who goes there!?"
+"I'm sorry, Don."
+"Get what?"
+"Ahh, we're finally alone..."
+"All right, pussycat... Come to daddy!"
+"You're so cute, I never get tired of looking at you."
+"Do you like me, too?"
+***Cloud
+Of course!
+"You sure do know how to make a guy feel good!"
+"Then wh... what do you want to DO?"
+***Cloud
+Whatever YOU want, daddy
+"Oh man! I can't stand it! All right, then...."
+"Give me a kiss! A KISS!!"
+***Cloud
+All right......
+"Ju---st a minute!!"
+"Cloud..."
+"Were you really..."
+"A man!? What's goin' on?"
+***Cloud
+Nope, can't do that....
+Scene 20
+- I'll Smash Them -
+"Shut up, we're asking the questions now..."
+"What did your assistants find out? Talk! If you don't tell
+us..."
+"...I'll chop them off."
+"No! Not that! I'll talk! I'll tell you everything!"
+"So... talk."
+"...I made 'em find out where the man with the gun-arm was. But
+that's what I was ordered to do."
+"By who?"
+"No--! If I told you that, I'd be killed!"
+"Talk! If you don't tell us..."
+"...I'll rip them off."
+"Waaaaah--! It was Heidegger of Shinra!"
+"Heidegger, the head of Public Safety Maintenance!"
+"The head of Public Safety Maintenance?"
+"Did you say the Shinra!? What are they up to!? Talk!"
+"If you don't tell us..."
+"I'll smash them."
+"...You're serious, aren't you.... ...ohboy, ohboy, ohboy."
+"... I'm not fooling around here either, you know."
+"Shinra's trying to crush a small rebel group called AVALANCHE,
+and want to infiltrate their hideout."
+"And they're really going to crush them... literally."
+"By breaking the support holding up the plate above them."
+"Break the support!?"
+"You know what's going to happen? The plate'll go PING"
+"and everything's gonna go BAMMM!! I heard their hideout's in the
+Sector 7 Slums..."
+"I'm just glad it's not here in Sector 6."
+"They're going to wipe out the Sector 7 Slums!?"
+"Cloud, will you come with me to Sector 7?"
+"Of course, Tifa."
+"Just a second!"
+"Shut up!"
+"No wait, it'll only take a second."
+"How do you think scum like me feels when they babble on about the
+[truth?"
+***Cloud
+They've pretty much given up on life
+"Buuzzzzz! Wrong!"
+(He flips a switch and Cloud, Aerith, and Tifa fall through a trap door to
+the sewer below...)

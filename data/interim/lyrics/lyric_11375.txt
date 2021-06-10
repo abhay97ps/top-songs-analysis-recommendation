@@ -1,0 +1,40 @@
+Diagram:
+The Internet of Things  industry is the following rush of web advances. IoT will in a general sense change how business and assembling will be done around the world. It's keeps on spreading over the home and the undertaking, it's changing how we live and function each day. IoT appropriation achieved somewhere in the range of 43 percent of endeavors worldwide before the finish of 2016
+Iot in Bangladesh - 1
+Add up to speculation in the vicinity of 2015 and 2020 will be $6 trillion among both purchaser and mechanical IoT markets, with modern IoT driving the development
+Our Focus Areas:
+Assembling:
+IoT is transformative. It develops out of a past filled with utilizing arranged robotization frameworks in enterprises, for example, assembling and transportation. Monitoring and improving utilization of physical resources reaches out to all businesses
+IoT's assembling speculations fall into two classifications: Inward confronting , and outward confronting 
+As far as inner speculations, producers are utilizing IoT to advance their procedures, screen hardware, and do safeguard and prescient support on that gear. Assembling activities was the IoT utilize case that saw the biggest interest in 2016 over all enterprises, at $102.5 billion
+Iot in Bangladesh - 2
+In the outward-confronting field, those in this industry utilize IoT gadgets to analyze how their items are utilized by clients by keeping up an arranged connect to those items, and examining utilization information and sensor estimations. Along these lines, makers can break down outcomes and see expansive examples as far as how the item is utilized, which can illuminate the up and coming age of the item, or help analyze issues early
+Utilities:
+In the utilities business, interests in the Smart Grid for power and gas totaled $57.8 billion out of 2016. Shrewd Grid meters are currently generally conveyed in the US and in a few European nations. It's generally basic: Electricity meters have control, so they don't need to stress over batteries and the business case is direct — you don't need to pay somebody to peruse the meter
+Electric gear in home and office has additionally exploited IoT arrangements. It's has substantial zones and have parcels light, switch, AC, Oven and so on to screen. The impact of loss of power and control over all gear are tremendous. It merits introducing IoT framework
+IoT gadgets are likewise utilized inside power producing plants to screen hardware after some time, to do prescient upkeep, and to give extra wellbeing oversight, Middleton said
+Social insurance: Healthcare is one of the ventures that will see the quickest spending development in IoT in the years to come
+IoT's utilization in the medicinal services field is extremely expansive. It ranges from restorative machines that offer pictures with a patient's different parental figures, checking and investigating issues with gear, and constant area frameworks that can track hardware, agreement of drug, and even staff and patients. Advances in inserts, prosthetics, and wearables likewise exploit IoT, gushing information back to medicinal suppliers
+Iot in Bangladesh - 3
+Associating pacemakers and other therapeutic gadgets to the web benefits patients by lessening blunders and giving more information to specialists to enhance conclusion and nature of care, said Valorie King, IEEE part and program seat of the undergrad cybersecurity administration and approach program at University of Maryland University College. Be that as it may, it likewise puts these gadgets in danger for digital assaults
+Arrangements we offer:
+Savvy Industry: We offer hardware checking in both inside and outside the manufacturing plant. The most well known Connected industry applications were gear checking in non-industrial facility conditions. Regular non-production line ventures incorporate resource observing and remote control of associated apparatuses
+"Shrewd Factory" robotization and control ventures were the second most well known application in Connected Industry incorporating all encompassing arrangements with various components, for example, generation floor checking, wearables on the shop-floor, remote PLC control, or mechanized quality control frameworks
+Brilliant Building: We offer keen Building arrangement, for example, Hotel, Office, In-house. Our answer computerizes controls of building security and HVAC/Heating/Cooling and so forth. It will give full control over all gadget and in result it will spare over 30% vitality sparing and increment security to extreme level with the current asset
+IoT reception stages we advocate:
+It will require a long investment, and a lot of cash, to accomplish the full dream the Internet of Things . It's critical to plot out middle of the road ventures in IoT selection. Organizations that dispatch into the IoT without watchful vital arranging are probably going to end up on a costly experience as they interface unique endpoints like therapeutic gadgets and modern apparatus and ingest immense amounts of information
+In this way, we exhort our solid stages in IoT appropriation. There are four phases
+Operational Efficiency: This stage is taking existing procedures, existing items, and instrumenting them with sensors. It can likewise include bringing in existing operational sensor information for examination by specialty units
+Growing New Products: Services, and plans of action—regularly making new administrations over existing items by associating them to the web. For example, a therapeutic gadget maker may offer another administration that transfers gadget readings to the cloud for investigation later
+Result based Economy: Developing advanced new items that assurance results—for example, upgrades in the aggregate wellbeing of a HMO's hazard pool or expanded aggregate uptime for modern hardware. These items must include various industry verticals, and they rely upon the rise of new information and business stages
+Self-ruling Pull Economy: Final stage in which singular specialists distribute their own particular information onto expansive stages and contract with each other for access to it
+IoT Cloud Integration:
+Presently we are utilizing underneath AWS benefit for our IOT Solutions
+AWS IoT Core
+AWS IoT Device Management
+AWS Greengrass
+AWS IoT Analytics
+Amazon FreeRTOS
+AWS IoT 1-Click
+AWS IoT Button
+AWS IoT Device Defender

@@ -1,0 +1,500 @@
+1. Sgt. Pepper's Lonely Hearts Club Band  by The Beatles
+2. Pet Sounds  by The Beach Boys
+3. Revolver  by The Beatles
+4. Highway 61 Revisited  by Bob Dylan
+5. Rubber Soul  by The Beatles
+6. What's Going On  by Marvin Gaye
+7. Exile on Main St.  by The Rolling Stones
+8. London Calling  by The Clash
+9. Blonde On Blonde  by Bob Dylan
+10. The Beatles   by The Beatles
+11. The Sun Sessions  by Elvis Presley
+12. Kind Of Blue  by Miles Davis
+13. The Velvet Underground & Nico  by The Velvet Underground & Nico
+14. Abbey Road  by The Beatles
+15. Are You Experienced  by The Jimi Hendrix Experience
+16. Blood On The Tracks  by Bob Dylan
+17. Nevermind  by Nirvana
+18. Born To Run  by Bruce Springsteen
+19. Astral Weeks  by Van Morrison
+20. Thriller  by Michael Jackson
+21. The Great Twenty-Eight  by Chuck Berry
+22. John Lennon/Plastic Ono Band  by John Lennon
+23. Innervisions  by Stevie Wonder
+24. Live At The Apollo  by James Brown
+25. Rumours  by Fleetwood Mac
+26. The Joshua Tree  by U2
+27. King Of The Delta Blues Singers, Vol.1  by Robert Johnson
+28. Who's Next  by The Who
+29. Led Zeppelin  by Led Zeppelin
+30. Blue  by Joni Mitchell
+31. Bringing It All Back Home  by Bob Dylan
+32. Let It Bleed  by The Rolling Stones
+33. Ramones  by Ramones
+34. Music From Big Pink  by The Band
+35. The Rise And Fall Of Ziggy Stardust And The Spiders From Mars  by David Bowie
+36. Tapestry  by Carole King
+37. Hotel California  by Eagles
+38. The Anthology   by Muddy Waters
+39. Please Please Me  by The Beatles
+40. Forever Changes  by Love
+41. Never Mind The Bollocks, Here's The Sex Pistols  by Sex Pistols
+42. The Doors  by The Doors
+43. The Dark Side Of The Moon  by Pink Floyd
+44. Horses  by Patti Smith
+45. The Band  by The Band
+46. Legend  by Bob Marley & The Wailers
+47. A Love Supreme  by John Coltrane
+48. It Takes A Nation Of Millions To Hold Us Back  by Public Enemy
+49. At Fillmore East  by The Allman Brothers Band
+50. Here's Little Richard  by Little Richard
+51. Bridge Over Troubled Water  by Simon And Garfunkel
+52. Greatest Hits  by Al Green
+53. The Birth Of Soul: The Complete Atlantic Rhythm And Blues Recordings  by Ray Charles
+54. Electric Ladyland  by The Jimi Hendrix Experience
+55. Elvis Presley  by Elvis Presley
+56. Songs In The Key Of Life  by Stevie Wonder
+57. Beggars Banquet  by The Rolling Stones
+58. Trout Mask Replica  by Captain Beefheart and his Magic Band
+59. Meet The Beatles  by The Beatles
+60. Greatest Hits  by Sly & The Family Stone
+61. Appetite For Destruction  by Guns N' Roses
+62. Achtung Baby  by U2
+63. Sticky Fingers  by The Rolling Stones
+64. Back To Mono  by Phil Spector
+65. Moondance  by Van Morrison
+66. Led Zeppelin IV  by Led Zeppelin
+67. The Stranger  by Billy Joel
+68. Off The Wall  by Michael Jackson
+69. Super Fly  by Curtis Mayfield
+70. Physical Graffiti  by Led Zeppelin
+71. After The Gold Rush  by Neil Young
+72. Purple Rain  by Prince
+73. Back In Black  by AC/DC
+74. Otis Blue  by Otis Redding
+75. Led Zeppelin II  by Led Zeppelin
+76. Imagine  by John Lennon
+77. The Clash  by The Clash
+78. Harvest  by Neil Young
+79. Star Time  by James Brown
+80. Odessey And Oracle  by The Zombies
+81. Graceland  by Paul Simon
+82. Axis: Bold As Love  by The Jimi Hendrix Experience
+83. I Never Loved A Man The Way I Love You  by Aretha Franklin
+84. Lady Soul  by Aretha Franklin
+85. Born In The U.S.A.  by Bruce Springsteen
+86. Let It Be  by The Beatles
+87. The Wall  by Pink Floyd
+88. At Folsom Prison  by Johnny Cash
+89. Dusty In Memphis  by Dusty Springfield
+90. Talking Book  by Stevie Wonder
+91. Goodbye Yellow Brick Road  by Elton John
+92. 20 Golden Greats  by Buddy Holly
+93. Sign O' The Times  by Prince
+94. Bitches Brew  by Miles Davis
+95. Green River  by Creedence Clearwater Revival
+96. Tommy  by The Who
+97. The Freewheelin' Bob Dylan  by Bob Dylan
+98. This Year's Model  by Elvis Costello
+99. There's A Riot Goin' On  by Sly & The Family Stone
+100. In The Wee Small Hours  by Frank Sinatra
+101. Fresh Cream  by Cream
+102. Giant Steps  by John Coltrane
+103. Sweet Baby James  by James Taylor
+104. Modern Sounds In Country And Western Music  by Ray Charles
+105. Rocket To Russia  by Ramones
+106. Portrait Of A Legend: 1951-1964  by Sam Cooke
+107. Hunky Dory  by David Bowie
+108. Aftermath  by The Rolling Stones
+109. Loaded  by The Velvet Underground
+110. The Bends  by Radiohead
+111. Court And Spark  by Joni Mitchell
+112. Disraeli Gears  by Cream
+113. The Who Sell Out  by The Who
+114. Out Of Our Heads  by The Rolling Stones
+115. Layla And Other Assorted Love Songs  by Derek And The Dominos
+116. At Last!  by Etta James
+117. Sweetheart Of The Rodeo  by The Byrds
+118. Stand!  by Sly & The Family Stone
+119. The Harder They Come  by Jimmy Cliff
+120. Raising Hell  by Run-D.M.C
+121. Moby Grape  by Moby Grape
+122. Pearl  by Janis Joplin
+123. Catch A Fire  by The Wailers
+124. Younger Than Yesterday  by The Byrds
+125. Raw Power  by The Stooges
+126. Remain In Light  by Talking Heads
+127. If You Can Believe Your Eyes And Ears  by The Mamas & The Papas
+128. Marquee Moon  by Television
+129. 40 Greatest Hits  by Hank Williams
+130. Paranoid  by Black Sabbath
+131. Saturday Night Fever   by Various Artists
+132. The Wild, The Innocent And The E Street Shuffle  by Bruce Springsteen
+133. Ready To Die  by The Notorious B.I.G
+134. Slanted And Enchanted  by Pavement
+135. Greatest Hits  by Elton John
+136. Tim  by The Replacements
+137. The Chronic  by Dr. Dre
+138. Rejuvenation  by The Meters
+139. All That You Can't Leave Behind  by U2
+140. Parallel Lines  by Blondie
+141. Live At The Regal  by B.B. King
+142. A Christmas Gift For You  by Phil Spector
+143. Gris-Gris  by Dr. John
+144. Straight Outta Compton  by N.W.A
+145. Aja  by Steely Dan
+146. Surrealistic Pillow  by Jefferson Airplane
+147. Dreams To Remember: The Otis Redding Anthology  by Otis Redding
+148. Déjà Vu  by Crosby, Stills, Nash & Young
+149. Houses Of The Holy  by Led Zeppelin
+150. Santana  by Santana
+151. Darkness On The Edge Of Town  by Bruce Springsteen
+152. The B-52's  by The B-52's
+153. Moanin' In The Moonlight  by Howlin' Wolf
+154. The Low End Theory  by A Tribe Called Quest
+155. Pretenders  by Pretenders
+156. Paul's Boutique  by Beastie Boys
+157. Closer  by Joy Division
+158. Captain Fantastic And The Brown Dirt Cowboy  by Elton John
+159. Alive  by Kiss
+160. Electric Warrior  by T. Rex
+161. The Dock Of The Bay  by Otis Redding
+162. OK Computer  by Radiohead
+163. 1999  by Prince
+164. Heart Like A Wheel  by Linda Ronstadt
+165. Let's Get It On  by Marvin Gaye
+166. Imperial Bedroom  by Elvis Costello
+167. Master Of Puppets  by Metallica
+168. My Aim Is True  by Elvis Costello
+169. Exodus  by Bob Marley & The Wailers
+170. Live At Leeds  by The Who
+171. The Notorious Byrd Brothers  by The Byrds
+172. Every Picture Tells A Story  by Rod Stewart
+173. Something/Anything?  by Todd Rundgren
+174. Desire  by Bob Dylan
+175. Close To You  by Carpenters
+176. Rocks  by Aerosmith
+177. One Nation Under A Groove  by Parliament/Funkadelic
+178. Greatest Hits  by The Byrds
+179. The Anthology 1961 - 1977  by Curtis Mayfield And The Impressions
+180. The Definitive Collection  by ABBA
+181. The Rolling Stones Now!  by The Rolling Stones
+182. Natty Dread  by Bob Marley & The Wailers
+183. Fleetwood Mac  by Fleetwood Mac
+184. Red Headed Stranger  by Willie Nelson
+185. The Stooges  by The Stooges
+186. Fresh  by Sly & The Family Stone
+187. So  by Peter Gabriel
+188. Buffalo Springfield Again  by Buffalo Springfield
+189. Happy Trails  by Quicksilver Messenger Service
+190. From Elvis In Memphis  by Elvis Presley
+191. Fun House  by The Stooges
+192. The Gilded Palace Of Sin  by The Flying Burrito Brothers
+193. Dookie  by Green Day
+194. Transformer  by Lou Reed
+195. Blues Breakers With Eric Clapton  by John Mayall
+196. Nuggets: Original Artyfacts From The First Psychedelic Era, 1965-1968  by Various Artists
+197. Murmur  by R.E.M
+198. The Best Of  by Little Walter
+199. Highway To Hell  by AC/DC
+200. The Downward Spiral  by Nine Inch Nails
+201. Parsley, Sage, Rosemary And Thyme  by Simon And Garfunkel
+202. Bad  by Michael Jackson
+203. Wheels Of Fire  by Cream
+204. Dirty Mind  by Prince
+205. Abraxas  by Santana
+206. Tea For The Tillerman  by Cat Stevens
+207. Ten  by Pearl Jam
+208. Everybody Knows This Is Nowhere  by Neil Young & Crazy Horse
+209. Wish You Were Here  by Pink Floyd
+210. Crooked Rain, Crooked Rain  by Pavement
+211. Tattoo You  by The Rolling Stones
+212. Proud Mary: The Best Of Ike And Tina Turner  by Ike And Tina Turner
+213. New York Dolls  by New York Dolls
+214. Go Bo Diddley  by Bo Diddley
+215. Two Steps From The Blues  by Bobby Bland
+216. The Queen Is Dead  by The Smiths
+217. Licensed To Ill  by Beastie Boys
+218. Look-Ka Py Py  by The Meters
+219. Loveless  by My Bloody Valentine
+220. New Orleans Piano  by Professor Longhair
+221. War  by U2
+222. The Neil Diamond Collection  by Neil Diamond
+223. Howlin' Wolf  by Howlin' Wolf
+224. Nebraska  by Bruce Springsteen
+225. The Complete Hank Williams  by Hank Williams
+226. Doolittle  by Pixies
+227. Paid In Full  by Eric B. And Rakim
+228. Toys In The Attic  by Aerosmith
+229. Nick Of Time  by Bonnie Raitt
+230. A Night At The Opera  by Queen
+231. The Kink Kronikles  by The Kinks
+232. Mr. Tambourine Man  by The Byrds
+233. Bookends  by Simon And Garfunkel
+234. The Ultimate Collection  by Patsy Cline
+235. Mr. Excitement!  by Jackie Wilson
+236. The Who Sings My Generation  by The Who
+237. Like A Prayer  by Madonna
+238. Can't Buy A Thrill  by Steely Dan
+239. Let It Be  by The Replacements
+240. Run-DMC  by Run-DMC
+241. Black Sabbath  by Black Sabbath
+242. The Jerry Lee Lewis Anthology: All Killer No Filler!  by Jerry Lee Lewis
+243. Freak Out!  by The Mothers Of Invention
+244. Live Dead  by Grateful Dead
+245. Bryter Layter  by Nick Drake
+246. The Shape Of Jazz To Come  by Ornette Coleman
+247. Automatic For The People  by R.E.M
+248. Reasonable Doubt  by Jay-Z
+249. Low  by David Bowie
+250. The River  by Bruce Springsteen
+251. Complete & Unbelievable: The Otis Redding Dictionary Of Soul  by Otis Redding
+252. Metallica  by Metallica
+253. Trans-Europe Express  by Kraftwerk
+254. Whitney Houston  by Whitney Houston
+255. The Kinks Are The Village Green Preservation Society  by The Kinks
+256. The Velvet Rope  by Janet Jackson
+257. Stardust  by Willie Nelson
+258. American Beauty  by Grateful Dead
+259. Crosby, Stills & Nash  by Crosby, Stills & Nash
+260. Buena Vista Social Club  by Buena Vista Social Club
+261. Tracy Chapman  by Tracy Chapman
+262. Workingman's Dead  by Grateful Dead
+263. The Genius Of Ray Charles  by Ray Charles
+264. Child Is Father To The Man  by Blood, Sweat & Tears
+265. Cosmo's Factory  by Creedence Clearwater Revival
+266. Quadrophenia  by The Who
+267. There Goes Rhymin' Simon  by Paul Simon
+268. Psycho Candy  by The Jesus And Mary Chain
+269. Some Girls  by The Rolling Stones
+270. The Beach Boys Today!  by The Beach Boys
+271. Going To A Go-Go  by Smokey Robinson And The Miracles
+272. Nightbirds  by Labelle
+273. The Slim Shady LP  by Eminem
+274. Mothership Connection  by Parliament
+275. Rhythm Nation 1814  by Janet Jackson
+276. Anthology Of American Folk Music  by Various Artists
+277. Aladdin Sane  by David Bowie
+278. The Immaculate Collection  by Madonna
+279. My Life  by Mary J. Blige
+280. Folk Singer  by Muddy Waters
+281. Can't Get Enough  by Barry White
+282. The Cars  by The Cars
+283. Five Leaves Left  by Nick Drake
+284. Music Of My Mind  by Stevie Wonder
+285. I'm Still In Love With You  by Al Green
+286. Los Angeles  by X
+287. Anthem Of The Sun  by Grateful Dead
+288. Something Else By The Kinks  by The Kinks
+289. Call Me  by Al Green
+290. Talking Heads: 77  by Talking Heads
+291. The Basement Tapes  by Bob Dylan And The Band
+292. White Light/White Heat  by The Velvet Underground
+293. Greatest Hits  by Simon And Garfunkel
+294. Kick Out The Jams  by MC5
+295. Meat Is Murder  by The Smiths
+296. We're Only In It For The Money  by The Mothers Of Invention
+297. Weezer   by Weezer
+298. Master Of Reality  by Black Sabbath
+299. Coat Of Many Colors  by Dolly Parton
+300. Fear Of A Black Planet  by Public Enemy
+301. John Wesley Harding  by Bob Dylan
+302. The Marshall Mathers LP  by Eminem
+303. Grace  by Jeff Buckley
+304. Car Wheels On A Gravel Road  by Lucinda Williams
+305. Odelay  by Beck
+306. Songs For Swingin' Lovers  by Frank Sinatra
+307. Avalon  by Roxy Music
+308. The Sun Records Collection  by Various Artists
+309. Nothing's Shocking  by Jane's Addiction
+310. Blood Sugar Sex Magik  by Red Hot Chili Peppers
+311. Unplugged In New York  by Nirvana
+312. The Miseducation Of Lauryn Hill  by Lauryn Hill
+313. Damn The Torpedoes  by Tom Petty And The Heartbreakers
+314. The Velvet Underground  by The Velvet Underground
+315. Surfer Rosa  by Pixies
+316. Rock Steady  by No Doubt
+317. The Eminem Show  by Eminem
+318. Back Stabbers  by The O'Jays
+319. Burnin'  by The Wailers
+320. Pink Moon  by Nick Drake
+321. Sail Away  by Randy Newman
+322. Ghost In The Machine  by The Police
+323. Station To Station  by David Bowie
+324. The Very Best Of Linda Ronstadt  by Linda Ronstadt
+325. Slowhand  by Eric Clapton
+326. Disintegration  by The Cure
+327. Jagged Little Pill  by Alanis Morissette
+328. Exile In Guyville  by Liz Phair
+329. Daydream Nation  by Sonic Youth
+330. In The Jungle Groove  by James Brown
+331. Tonight's The Night  by Neil Young
+332. Help!  by The Beatles
+333. Shoot Out The Lights  by Richard & Linda Thompson
+334. Wild Gift  by X
+335. Squeezing Out Sparks  by Graham Parker
+336. Superunknown  by Soundgarden
+337. Aqualung  by Jethro Tull
+338. Cheap Thrills  by Big Brother And The Holding Company
+339. The Heart Of Saturday Night  by Tom Waits
+340. Damaged  by Black Flag
+341. Play  by Moby
+342. Violator  by Depeche Mode
+343. Bat Out Of Hell  by Meat Loaf
+344. Berlin  by Lou Reed
+345. Stop Making Sense  by Talking Heads
+346. 3 Feet High And Rising  by De La Soul
+347. The Piper At The Gates Of Dawn  by Pink Floyd
+348. At Newport 1960  by Muddy Waters
+349. Roger The Engineer  by The Yardbirds
+350. Rust Never Sleeps  by Neil Young & Crazy Horse
+351. Brothers In Arms  by Dire Straits
+352. 52nd Street  by Billy Joel
+353. Having A Rave Up With The Yardbirds  by The Yardbirds
+354. 12 Songs  by Randy Newman
+355. Between The Buttons  by The Rolling Stones
+356. Sketches Of Spain  by Miles Davis
+357. Honky Chateau  by Elton John
+358. Singles Going Steady  by Buzzcocks
+359. Stankonia  by OutKast
+360. Siamese Dream  by Smashing Pumpkins
+361. Substance  by New Order
+362. L.A. Woman  by The Doors
+363. Ray Of Light  by Madonna
+364. American Recordings  by Johnny Cash
+365. Louder Than Bombs  by The Smiths
+366. Mott  by Mott The Hoople
+367. Is This It  by The Strokes
+368. Rage Against The Machine  by Rage Against The Machine
+369. Reggatta De Blanc  by The Police
+370. Volunteers  by Jefferson Airplane
+371. Siren  by Roxy Music
+372. Late For The Sky  by Jackson Browne
+373. Post  by Björk
+374. Eagles  by Eagles
+375. The Ultimate Collection   by John Lee Hooker
+376.  Morning Glory?  by Oasis
+377. CrazySexyCool  by TLC
+378. Funky Kingston  by Toots And The Maytals
+379. Greetings From Asbury Park  by Bruce Springsteen
+380. Sunflower  by The Beach Boys
+381. Modern Lovers  by Modern Lovers
+382. More Songs About Buildings And Food  by Talking Heads
+383. A Quick One   by The Who
+384. Pyromania  by Def Leppard
+385. Pretzel Logic  by Steely Dan
+386. Enter The Wu-Tang: 36 Chambers  by Wu-Tang Clan
+387. Country Life  by Roxy Music
+388. A Hard Day's Night  by The Beatles
+389. The End Of The Innocence  by Don Henley
+390. Elephant  by The White Stripes
+391. The Pretender  by Jackson Browne
+392. Willy And The Poor Boys  by Creedence Clearwater Revival
+393. Good Old Boys  by Randy Newman
+394. For Your Pleasure  by Roxy Music
+395. Blue Lines  by Massive Attack
+396. Eliminator  by ZZ Top
+397. Rain Dogs  by Tom Waits
+398. Anthology  by The Temptations
+399. Californication  by Red Hot Chili Peppers
+400. Illmatic  by Nas
+401.   by Lynyrd Skynyrd
+402. Dr. John's Gumbo  by Dr. John
+403. Radio City  by Big Star
+404. Sandinista!  by The Clash
+405. Rid Of Me  by PJ Harvey
+406. I Do Not Want What I Haven't Got  by Sinead O'Connor
+407. Strange Days  by The Doors
+408. Time Out Of Mind  by Bob Dylan
+409. 461 Ocean Boulevard  by Eric Clapton
+410. Pink Flag  by Wire
+411. Double Nickels On The Dime  by Minutemen
+412. Mezzanine  by Massive Attack
+413. Beauty And The Beat  by Go-Go's
+414. Greatest Hits  by James Brown
+415. Van Halen  by Van Halen
+416. Mule Variations  by Tom Waits
+417. Boy  by U2
+418. Band On The Run  by Wings
+419. Dummy  by Portishead
+420. With The Beatles  by The Beatles
+421. The "Chirping" Crickets  by Buddy Holly
+422. The Best Of The Girl Groups, Volumes 1 And 2  by Various Artists
+423. Greatest Hits  by The Mamas & The Papas
+424. King Of The Delta Blues Singers, Vol. 2  by Robert Johnson
+425. Changesone  by David Bowie
+426. The Battle Of Los Angeles  by Rage Against The Machine
+427. Presenting The Fabulous Ronettes Featuring Veronica  by The Ronettes
+428. Kid A  by Radiohead
+429. Grievous Angel  by Gram Parsons
+430. At Budokan  by Cheap Trick
+431. Anthology  by The Supremes
+432. Sleepless  by Peter Wolf
+433. Another Green World  by Brian Eno
+434. Outlandos D'Amour  by The Police
+435. To Bring You My Love  by PJ Harvey
+436. Here Come The Warm Jets  by Brian Eno
+437. All Things Must Pass  by George Harrison
+438. Number 1 Record  by Big Star
+439. In Utero  by Nirvana
+440. Sea Change  by Beck
+441. Tragic Kingdom  by No Doubt
+442. Boys Don't Cry  by The Cure
+443. Live At The Harlem Square Club, 1963  by Sam Cooke
+444. Criminal Minded  by Boogie Down Productions
+445. Rum Sodomy And The Lash  by The Pogues
+446. Suicide  by Suicide
+447. Q: Are We Not Men? A: We Are Devo!  by Devo
+448. In Color  by Cheap Trick
+449. The World Is A Ghetto  by War
+450. Fly Like An Eagle  by Steve Miller Band
+451. Back In The USA  by MC5
+452. Music  by Madonna
+453. Ritual De Lo Habitual  by Jane's Addiction
+454. Getz/Gilberto  by Stan Getz And Joao Gilberto Featuring Antonio Carlos Jobim
+455. Synchronicity  by The Police
+456. Third/Sister Lovers  by Big Star
+457. For Everyman  by Jackson Browne
+458. John Prine  by John Prine
+459. Strictly Business  by EPMD
+460. Love It To Death  by Alice Cooper
+461. How Will The Wolf Survive?  by Los Lobos
+462. Here, My Dear  by Marvin Gaye
+463. Tumbleweed Connection  by Elton John
+464. The Blueprint  by Jay-Z
+465. Golden Hits  by The Drifters
+466. Live Through This  by Hole
+467. Love And Theft  by Bob Dylan
+468. Elton John  by Elton John
+469. Metal Box  by Public Image Ltd
+470. Document  by R.E.M
+471. Heaven Up Here  by Echo & The Bunnymen
+472. Hysteria  by Def Leppard
+473. A Rush Of Blood To The Head  by Coldplay
+474. Live In Europe  by Otis Redding
+475. Tunnel Of Love  by Bruce Springsteen
+476. The Paul Butterfield Blues Band  by The Paul Butterfield Blues Band
+477. The Score  by Fugees
+478. Radio  by LL Cool J
+479. I Want To See The Bright Lights Tonight  by Richard & Linda Thompson
+480. Faith  by George Michael
+481. The Smiths  by The Smiths
+482. Armed Forces  by Elvis Costello And The Attractions
+483. Life After Death  by The Notorious B.I.G
+484. Branded Man  by Merle Haggard
+485. All Time Greatest Hits  by Loretta Lynn
+486. Maggot Brain  by Funkadelic
+487. Mellon Collie And The Infinite Sadness  by Smashing Pumpkins
+488. Voodoo  by D'Angelo
+489. Guitar Town  by Steve Earle
+490. Entertainment!  by Gang Of Four
+491. All The Young Dudes  by Mott The Hoople
+492. Vitalogy  by Pearl Jam
+493. That's The Way Of The World  by Earth, Wind & Fire
+494. She's So Unusual  by Cyndi Lauper
+495. New Day Rising  by Hüsker Dü
+496. Destroyer  by Kiss
+497. Yo! Bum Rush The Show  by Public Enemy
+498. Tres Hombres  by ZZ Top
+499. Born Under A Bad Sign  by Albert King
+500. Touch  by Eurythmics

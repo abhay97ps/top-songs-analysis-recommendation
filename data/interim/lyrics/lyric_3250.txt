@@ -1,0 +1,255 @@
+Round | Pick | Team | Player | Position | College
+1 1 Kansas City Chiefs Eric Fisher OT Central Michigan
+1 2 Jacksonville Jaguars Luke Joeckel OT Texas A&M
+1 3 Miami Dolphins Dion Jordan DE Oregon
+1 4 Philadelphia Eagles Lane Johnson OT Oklahoma
+1 5 Detroit Lions Ezekiel Ansah DE BYU
+1 6 Cleveland Browns Barkevious Mingo DE LSU
+1 7 Arizona Cardinals Jonathan Cooper G North Carolina
+1 8 St. Louis Rams Tavon Austin WR West Virginia
+1 9 New York Jets Dee Milliner CB Alabama
+1 10 Tennessee Titans Chance Warmack G Alabama
+1 11 San Diego Chargers D. J. Fluker OT Alabama
+1 12 Oakland Raiders D. J. Hayden CB Houston
+1 13 New York Jets Sheldon Richardson DT Missouri
+1 14 Carolina Panthers Star Lotulelei DT Utah
+1 15 New Orleans Saints Kenny Vaccaro S Texas
+1 16 Buffalo Bills E. J. Manuel QB Florida State
+1 17 Pittsburgh Steelers Jarvis Jones LB Georgia
+1 18 San Francisco 49ers Eric Reid S LSU
+1 19 New York Giants Justin Pugh G Syracuse
+1 20 Chicago Bears Kyle Long G Oregon
+1 21 Cincinnati Bengals Tyler Eifert TE Notre Dame
+1 22 Atlanta Falcons Desmond Trufant CB Washington
+1 23 Minnesota Vikings Sharrif Floyd DT Florida
+1 24 Indianapolis Colts Björn Werner DE Florida State
+1 25 Minnesota Vikings Xavier Rhodes CB Florida State
+1 26 Green Bay Packers Datone Jones DE UCLA
+1 27 Houston Texans DeAndre Hopkins WR Clemson
+1 28 Denver Broncos Sylvester Williams DT North Carolina
+1 29 Minnesota Vikings Cordarrelle Patterson WR Tennessee
+1 30 St. Louis Rams Alec Ogletree LB Georgia
+1 31 Dallas Cowboys Travis Frederick C Wisconsin
+1 32 Baltimore Ravens Matt Elam S Florida
+2 33 Jacksonville Jaguars Johnathan Cyprien S Florida International
+2 34 Tennessee Titans Justin Hunter WR Tennessee
+2 35 Philadelphia Eagles Zach Ertz TE Stanford
+2 36 Detroit Lions Darius Slay CB Mississippi State
+2 37 Cincinnati Bengals Giovani Bernard RB North Carolina
+2 38 San Diego Chargers Manti Te'o LB Notre Dame
+2 39 New York Jets Geno Smith QB West Virginia
+2 40 San Francisco 49ers Tank Carradine DE Florida State
+2 41 Buffalo Bills Robert Woods WR USC
+2 42 Oakland Raiders Menelik Watson OT Florida State
+2 43 Tampa Bay Buccaneers Johnthan Banks CB Mississippi State
+2 44 Carolina Panthers Kawann Short DT Purdue
+2 45 Arizona Cardinals Kevin Minter LB LSU
+2 46 Buffalo Bills Kiko Alonso LB Oregon
+2 47 Dallas Cowboys Gavin Escobar TE San Diego State
+2 48 Pittsburgh Steelers Le'Veon Bell RB Michigan State
+2 49 New York Giants Johnathan Hankins DT Ohio State
+2 50 Chicago Bears Jonathan Bostic LB Florida
+2 51 Washington Redskins David Amerson CB N.C. State
+2 52 New England Patriots Jamie Collins LB Southern Miss
+2 53 Cincinnati Bengals Margus Hunt DE SMU
+2 54 Miami Dolphins Jamar Taylor CB Boise State
+2 55 San Francisco 49ers Vance McDonald TE Rice
+2 56 Baltimore Ravens Arthur Brown LB Kansas State
+2 57 Houston Texans D. J. Swearinger S South Carolina
+2 58 Denver Broncos Montee Ball RB Wisconsin
+2 59 New England Patriots Aaron Dobson WR Marshall
+2 60 Atlanta Falcons Robert Alford CB Southeastern Louisiana
+2 61 Green Bay Packers Eddie Lacy RB Alabama
+2 62 Seattle Seahawks Christine Michael RB Texas A&M
+3 63 Kansas City Chiefs Travis Kelce TE Cincinnati
+3 64 Jacksonville Jaguars Dwayne Gratz CB Connecticut
+3 65 Detroit Lions Larry Warford G Kentucky
+3 66 Oakland Raiders Sio Moore LB Connecticut
+3 67 Philadelphia Eagles Bennie Logan DT LSU
+3 68 Cleveland Browns Leon McFadden CB San Diego State
+3 69 Arizona Cardinals Tyrann Mathieu CB LSU
+3 70 Tennessee Titans Blidi Wreh-Wilson CB Connecticut
+3 71 St. Louis Rams T. J. McDonald S USC
+3 72 New York Jets Brian Winters G Kent State
+3 73 Tampa Bay Buccaneers Mike Glennon QB N.C. State
+3 74 Dallas Cowboys Terrance Williams WR Baylor
+3 75 New Orleans Saints Terron Armstead OT Arkansas-Pine Bluff
+3 76 San Diego Chargers Keenan Allen WR California
+3 77 Miami Dolphins Dallas Thomas G Tennessee
+3 78 Buffalo Bills Marquise Goodwin WR Texas
+3 79 Pittsburgh Steelers Markus Wheaton WR Oregon State
+3 80 Dallas Cowboys J. J. Wilcox S Georgia Southern
+3 81 New York Giants Damontre Moore DE Texas A&M
+3 82 New Orleans Saints John Jenkins DT Georgia
+3 83 New England Patriots Logan Ryan CB Rutgers
+3 84 Cincinnati Bengals Shawn Williams S Georgia
+3 85 Washington Redskins Jordan Reed TE Florida
+3 86 Indianapolis Colts Hugh Thornton G Illinois
+3 87 Seattle Seahawks Jordan Hill DT Penn State
+3 88 San Francisco 49ers Corey Lemonier DE Auburn
+3 89 Houston Texans Brennan Williams OT North Carolina
+3 90 Denver Broncos Kayvon Webster CB South Florida
+3 91 New England Patriots Duron Harmon S Rutgers
+3 92 St. Louis Rams Stedman Bailey WR West Virginia
+3 93 Miami Dolphins Will Davis CB Utah State
+3 94 Baltimore Ravens Brandon Williams DT Missouri Southern State
+3 95 Houston Texans Sam Montgomery DE LSU
+3 96 Kansas City Chiefs Knile Davis RB Arkansas
+3 97 Tennessee Titans Zaviar Gooden LB Missouri
+4 98 Philadelphia Eagles Matt Barkley QB USC
+4 99 Kansas City Chiefs Nico Johnson LB Alabama
+4 100 Tampa Bay Buccaneers Akeem Spence DT Illinois
+4 101 Jacksonville Jaguars Ace Sanders WR South Carolina
+4 102 New England Patriots Josh Boyce WR TCU
+4 103 Arizona Cardinals Alex Okafor DE Texas
+4 104 Miami Dolphins Jelani Jenkins LB Florida
+4 105 Buffalo Bills Duke Williams S Nevada
+4 106 Miami Dolphins Dion Sims TE Michigan State
+4 107 Tennessee Titans Brian Schwenke C California
+4 108 Carolina Panthers Edmund Kugbila G Valdosta State
+4 109 Green Bay Packers David Bakhtiari OT Colorado
+4 110 New York Giants Ryan Nassib QB Syracuse
+4 111 Pittsburgh Steelers Shamarko Thomas S Syracuse
+4 112 Oakland Raiders Tyler Wilson QB Arkansas
+4 113 St. Louis Rams Barrett Jones G Alabama
+4 114 Dallas Cowboys B.W. Webb CB William & Mary
+4 115 Pittsburgh Steelers Landry Jones QB Oklahoma
+4 116 Arizona Cardinals Earl Watford G James Madison
+4 117 Chicago Bears Khaseem Greene LB Rutgers
+4 118 Cincinnati Bengals Sean Porter LB Texas A&M
+4 119 Washington Redskins Phillip Thomas S Fresno State
+4 120 Minnesota Vikings Gerald Hodges LB Penn State
+4 121 Indianapolis Colts Khaled Holmes C USC
+4 122 Green Bay Packers J.C. Tretter OT Cornell
+4 123 Seattle Seahawks Chris Harper WR Kansas State
+4 124 Houston Texans Trevardo Williams DE Connecticut
+4 125 Green Bay Packers Johnathan Franklin RB UCLA
+4 126 Tampa Bay Buccaneers William Gholston DE Michigan State
+4 127 Atlanta Falcons Malliciah Goodman DE Clemson
+4 128 San Francisco 49ers Quinton Patton WR Louisiana Tech
+4 129 Baltimore Ravens John Simon DE Ohio State
+4 130 Baltimore Ravens Kyle Juszczyk FB Harvard
+4 131 San Francisco 49ers Marcus Lattimore RB South Carolina
+4 132 Detroit Lions Devin Taylor DE South Carolina
+4 133 Atlanta Falcons Levine Toilolo TE Stanford
+5 134 Kansas City Chiefs Sanders Commings CB Georgia
+5 135 Jacksonville Jaguars Denard Robinson WR Michigan
+5 136 Philadelphia Eagles Earl Wolff S N.C. State
+5 137 Seattle Seahawks Jesse Williams DT Alabama
+5 138 Seattle Seahawks Tharold Simon CB LSU
+5 139 Indianapolis Colts Montori Hughes DT Tennessee-Martin
+5 140 Arizona Cardinals Stepfan Taylor RB Stanford
+5 141 New York Jets Oday Aboushi G Virginia
+5 142 Tennessee Titans Lavar Edwards DE LSU
+5 143 Buffalo Bills Jonathan Meeks S Clemson
+5 144 New Orleans Saints Kenny Stills WR Oklahoma
+5 145 San Diego Chargers Steve Williams CB Cal
+5 146 Denver Broncos Quanterus Smith DE Western Kentucky
+5 147 Tampa Bay Buccaneers Steven Means LB Buffalo
+5 148 Carolina Panthers A. J. Klein LB Iowa State
+5 149 St. Louis Rams Brandon McGee CB Miami 
+5 150 Pittsburgh Steelers Terry Hawthorne CB Illinois
+5 151 Dallas Cowboys Joseph Randle RB Oklahoma State
+5 152 New York Giants Cooper Taylor S Richmond
+5 153 Atlanta Falcons Stansly Maponga DE TCU
+5 154 Washington Redskins Chris Thompson RB Florida State
+5 155 Minnesota Vikings Jeff Locke P UCLA
+5 156 Cincinnati Bengals Tanner Hawkinson OT Kansas
+5 157 San Francisco 49ers Quinton Dial DE Alabama
+5 158 Seattle Seahawks Luke Wilson TE Rice
+5 159 Green Bay Packers Micah Hyde CB Iowa
+5 160 St. Louis Rams Zac Stacy RB Vanderbilt
+5 161 Denver Broncos Tavarres King WR Georgia
+5 162 Washington Redskins Brandon Jenkins LB Florida State
+5 163 Chicago Bears Jordan Mills OT Louisiana Tech
+5 164 Miami Dolphins Mike Gillislee RB Florida
+5 165 Detroit Lions Sam Martin P Appalachian State
+5 166 Miami Dolphins Caleb Sturgis K Florida
+5 167 Green Bay Packers Josh Boyd DT Mississippi State
+5 168 Baltimore Ravens Ricky Wagner OT Wisconsin
+6 169 Jacksonville Jaguars Joshua Evans S Florida
+6 170 Kansas City Chiefs Eric Kush C Cal 
+6 171 Detroit Lions Corey Fuller WR Virginia Tech
+6 172 Oakland Raiders Nick Kasa TE Colorado
+6 173 Denver Broncos Vinston Painter OT Virginia Tech
+6 174 Arizona Cardinals Ryan Swope WR Texas A&M
+6 175 Cleveland Browns Jamoris Slaughter S Notre Dame
+6 176 Houston Texans David Quessenberry OT San Jose State
+6 177 Buffalo Bills Dustin Hopkins K Florida State
+6 178 New York Jets William Campbell G Michigan
+6 179 San Diego Chargers Tourek Williams DE Florida International
+6 180 San Francisco 49ers Nick Moody LB Florida State
+6 181 Oakland Raiders Latavius Murray RB UCF
+6 182 Carolina Panthers Kenjon Barner RB Oregon
+6 183 New Orleans Saints Rufus Johnson DE Tarleton State
+6 184 Oakland Raiders Mychal Rivera TE Tennessee
+6 185 Dallas Cowboys DeVonte Holloman LB South Carolina
+6 186 Pittsburgh Steelers Justin Brown WR Penn State
+6 187 Arizona Cardinals Andre Ellington RB Clemson
+6 188 Chicago Bears Cornelius Washington DE Georgia
+6 189 Tampa Bay Buccaneers Mike James RB Miami
+6 190 Cincinnati Bengals Rex Burkhead RB Nebraska
+6 191 Washington Redskins Baccari Rambo S Georgia
+6 192 Indianapolis Colts John Boyett S Oregon
+6 193 Green Bay Packers Nate Palmer OLB Illinois State
+6 194 Seattle Seahawks Spencer Ware RB LSU
+6 195 Houston Texans Alan Bonner WR Jacksonville State
+6 196 Minnesota Vikings Jeff Baca G UCLA
+6 197 Cincinnati Bengals Cobi Hamilton WR Arkansas
+6 198 Houston Texans Chris Jones DT Bowling Green
+6 199 Detroit Lions Theo Riddick RB Notre Dame
+6 200 Baltimore Ravens Kapron Lewis-Moore DE Notre Dame
+6 201 Houston Texans Ryan Griffin TE Connecticut
+6 202 Tennessee Titans Khalid Wooten CB Nevada
+6 203 Baltimore Ravens Ryan Jensen OT CSU-Pueblo
+6 204 Kansas City Chiefs Braden Wilson FB Kansas State
+6 205 Oakland Raiders Stacy McGee DT Oklahoma
+6 206 Pittsburgh Steelers Vince Williams LB Florida State
+7 207 Kansas City Chiefs Mike Catapano DE Princeton
+7 208 Jacksonville Jaguars Jeremy Harris CB New Mexico State
+7 209 Oakland Raiders Brice Butler WR San Diego State
+7 210 Jacksonville Jaguars Demetrius McCray CB Appalachian State
+7 211 Detroit Lions Michael Williams TE Alabama
+7 212 Philadelphia Eagles Joe Kruger DE Utah
+7 213 Minnesota Vikings Michael Mauti LB Penn State
+7 214 Minnesota Vikings Travis Bond G North Carolina
+7 215 New York Jets Tommy Bohanon FB Wake Forest
+7 216 Green Bay Packers Charles Johnson WR Grand Valley State
+7 217 Cleveland Browns Armonty Bryant DE East Central
+7 218 Philadelphia Eagles Jordan Poyer CB Oregon State
+7 219 Arizona Cardinals D. C. Jefferson TE Rutgers
+7 220 Seattle Seahawks Ryan Seymour G Vanderbilt
+7 221 San Diego Chargers Brad Sorensen QB Southern Utah
+7 222 Buffalo Bills Chris Gragg TE Arkansas
+7 223 Pittsburgh Steelers Nicholas Williams DT Samford
+7 224 Green Bay Packers Kevin Dorsey WR Maryland
+7 225 New York Giants Eric Herman OG Ohio
+7 226 New England Patriots Michael Buchanan DE Illinois
+7 227 Cleveland Browns Garrett Gilkey OG Chadron State
+7 228 Washington Redskins Jawan Jamison RB Rutgers
+7 229 Minnesota Vikings Everett Dawkins DT Florida State
+7 230 Indianapolis Colts Kerwynn Williams RB USC
+7 231 Seattle Seahawks Ty Powell DE Harding
+7 232 Green Bay Packers Sam Barrington LB USF
+7 233 Oakland Raiders David Bass DE Missouri Western
+7 234 Denver Broncos Zac Dysert QB Miami 
+7 235 New England Patriots Steve Beauharnais LB Rutgers
+7 236 Chicago Bears Marquess Wilson WR Washington State
+7 237 San Francisco 49ers B.J. Daniels QB South Florida
+7 238 Baltimore Ravens Aaron Mellette WR Elon
+7 239 Philadelphia Eagles David King DT Oklahoma
+7 240 Cincinnati Bengals Reid Fragel OT Ohio State
+7 241 Seattle Seahawks Jared Smith DT New Hampshire
+7 242 Seattle Seahawks Michael Bowie OT Oklahoma State
+7 243 Atlanta Falcons Kemal Ishmael S USF
+7 244 Atlanta Falcons Zeke Motta S Notre Dame
+7 245 Detroit Lions Brandon Hepburn ILB Florida A&M
+7 246 San Francisco 49ers Carter Bykowski OT Iowa State
+7 247 Baltimore Ravens Marc Anthony CB California
+7 248 Tennessee Titans Damion Stafford S Nebraska
+7 249 Atlanta Falcons Sean Renfree QB Duke
+7 250 Miami Dolphins Don Jones S Arkansas State
+7 251 Cincinnati Bengals T.J. Johnson C South Carolina
+7 252 San Francisco 49ers Marcus Cooper CB Rutgers
+7 253 New York Giants Michael Cox RB UMASS
+7 254 Indianapolis Colts Justice Cunningham TE South Carolina
