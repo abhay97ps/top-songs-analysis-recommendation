@@ -1,0 +1,372 @@
+artist,song,lyricId,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,uri,duration_ms
+Chaka Khan,Got To Be There,12219,0.315,0.484,8,-10.83,1,0.0285,0.272,3.04e-06,0.0862,0.364,171.156,spotify:track:2FtmoFvYo1zBsoxqchpzJC,230627
+Vandenberg,Burning Heart,12220,0.438,0.546,11,-10.331,1,0.0419,0.127,0.0,0.182,0.486,125.221,spotify:track:6mVJRgyXJ3eAy6EViECJyW,250693
+Dire Straits,Industrial Disease,12221,0.608,0.844,9,-9.164,1,0.0477,0.00281,0.00107,0.116,0.722,149.63,spotify:track:1laOaJ0vcBx3cjUhH50mW7,350373
+Michael Murphey,Still Taking Chances,12222,0.695,0.501,9,-15.313,1,0.0384,0.0249,0.0,0.064,0.677,124.186,spotify:track:3XVci0pO6NP7qdz2dP69Ed,251867
+Utopia,Feet Don't Fail Me Now,12223,0.621,0.761,9,-8.194,1,0.0312,0.132,0.0,0.0909,0.937,122.351,spotify:track:6pXAGgdRPxRedbgMO4X0Qp,190267
+Lionel Richie,You Are,12224,0.771,0.524,1,-10.21,1,0.0324,0.252,9.79e-06,0.0507,0.705,111.964,spotify:track:604LxJPBmJxR7nN6SxXXYt,301093
+Joe Jackson,Breaking Us In Two,12226,0.645,0.273,9,-18.771,1,0.0295,0.326,0.0,0.166,0.509,108.965,spotify:track:36lvQP8MgB6ZDJ0zgQ64Cn,292897
+Steel Breeze,Dreamin' Is Easy,12228,0.615,0.604,4,-12.485,1,0.0276,0.0507,0.0,0.0875,0.891,135.833,spotify:track:4g7dDwvfmlJofDamYgaNwK,219173
+Don Henley,I Can't Stand Still,12229,0.538,0.626,1,-5.952,0,0.028,0.266,0.0,0.617,0.849,70.845,spotify:track:5CF1tiBY1XB6vzDVSnxbyg,214174
+Night Ranger,Don't Tell Me You Love Me,12230,0.362,0.883,5,-7.237,0,0.0489,0.000334,0.000207,0.938,0.381,89.05,spotify:track:0KFTwLFilIESQGjiBynytC,316067
+Missing Persons,Windows,12231,0.664,0.689,6,-10.063,1,0.0305,0.142,2.82e-06,0.115,0.605,132.15,spotify:track:1xBl90mVMPL3XyEa2RLgkW,302373
+Evelyn King,Betcha She Don't Love You,12232,0.974,0.503,1,-6.06,0,0.048,0.0029,0.000914,0.0848,0.946,108.442,spotify:track:2VZzXJX14IZOmdXN2MuH9j,298973
+Firefall,Always,12233,0.635,0.41,0,-9.537,1,0.0257,0.524,0.0,0.0447,0.629,81.237,spotify:track:4ko4WxOdiaVEJexWRb53zZ,227556
+Christopher Cross,All Right,12234,0.711,0.647,6,-5.225,0,0.0353,0.17,0.0,0.234,0.504,132.752,spotify:track:5tE2kEW1Jom3Qc93UPBT79,253653
+Michael Jackson,Billie Jean,12235,0.92,0.654,11,-3.051,0,0.0401,0.0236,0.0158,0.0359,0.847,117.046,spotify:track:5ChkMS8OtdzJeqyybCc9R5,293827
+"Earth, Wind & Fire",Fall In Love With Me,12237,0.862,0.588,0,-11.363,1,0.0536,0.109,0.000452,0.0869,0.778,117.464,spotify:track:5qugKP8gPqN91O7KBMkW6P,352067
+Dexys Midnight Runners,Come On Eileen,12238,0.45,0.656,2,-7.049,1,0.0472,0.664,3.02e-06,0.259,0.782,106.61,spotify:track:3MrWxJaD2AT0W9DjWF64Vm,287307
+Thompson Twins,Lies,12239,0.822,0.962,7,-5.29,0,0.0492,0.076,0.00729,0.351,0.965,131.443,spotify:track:63izWYS0oqd4kTZU2W0CON,191467
+The Weather Girls,It's Raining Men,12241,0.66,0.927,5,-5.867,0,0.156,0.461,5.73e-05,0.699,0.458,136.247,spotify:track:4caiYv89C9GZdDD1RzshWd,211533
+Survivor,The One That Really Matters,12242,0.696,0.57,7,-12.481,1,0.03,0.397,0.0,0.314,0.937,121.896,spotify:track:4aomZX0dG4qvU3saaxJu2f,208427
+Daryl Hall John Oates,One On One,12244,0.748,0.302,0,-15.334,1,0.028,0.835,0.298,0.198,0.815,95.614,spotify:track:1ANmX8emjTaiR5BPeswuNi,258013
+Jefferson Starship,Winds Of Change,12246,0.481,0.891,4,-4.093,0,0.0993,0.279,1.14e-05,0.171,0.56,128.097,spotify:track:5LHCFZ5WpuN4Isb8hwGzbU,232480
+ABC,Poison Arrow,12247,0.736,0.876,11,-5.894,0,0.0839,0.182,0.00776,0.119,0.802,125.843,spotify:track:7abGerACQx9G1OBqHYFKAb,204267
+Greg Kihn Band,Jeopardy,12248,0.851,0.808,0,-4.695,1,0.0355,0.0712,0.0504,0.156,0.89,110.566,spotify:track:7LmDmvqagpX0PKxveGtZTa,229653
+Chicago,What You're Missing,12249,0.649,0.851,11,-6.108,0,0.0434,0.0128,0.0115,0.199,0.639,122.088,spotify:track:49VkUiEBFzlMlXZN4fk7sL,209400
+Neil Young,Little Thing Called Love,12250,0.509,0.698,7,-13.34,1,0.0342,0.113,0.00065,0.708,0.906,140.268,spotify:track:45LjGJSRet0G1z5hbFuiu5,193173
+Donald Fagen,New Frontier,12251,0.772,0.679,9,-10.47,1,0.0421,0.473,0.0215,0.165,0.886,123.597,spotify:track:2HyrLPJTZ4qDpWJ6qnu0Ke,381107
+"Crosby, Stills & Nash",Too Much Love To Hide,12252,0.688,0.74,2,-10.276,1,0.0287,0.0281,0.000101,0.0851,0.934,122.695,spotify:track:7HOmCnPcSoTpaUa2XVXxfo,237013
+Stephen Bishop,It Might Be You,12253,0.577,0.391,7,-10.591,1,0.0243,0.21,7.2e-05,0.393,0.253,89.676,spotify:track:2wBblZ0wyRVjSVKQrNwSFx,253867
+Journey,Separate Ways (Worlds Apart),12254,0.451,0.962,0,-3.947,1,0.0734,0.0188,3.17e-06,0.277,0.377,131.435,spotify:track:4ECNtOnqzxutZkXP4TE3n3,323707
+Diana Ross,So Close,12255,0.659,0.737,9,-8.385,1,0.0372,0.18,0.0,0.249,0.777,114.999,spotify:track:4zmc1CEMDAs7CNXEIyrtbp,253173
+Debarge,I Like It,12256,0.675,0.733,9,-4.5,1,0.0443,0.446,1.8e-05,0.201,0.83,175.011,spotify:track:1c5KZhtOAOH7eFOlBekNhS,279400
+Pat Benatar,Little Too Late,12257,0.574,0.519,4,-10.85,1,0.0417,0.144,0.0,0.19,0.925,135.104,spotify:track:14NYH025wbbcxUUMQzg7DH,248333
+Dan Fogelberg,Make Love Stay,12258,0.495,0.293,2,-14.844,1,0.0257,0.0478,0.00287,0.123,0.446,99.069,spotify:track:69nvFTDnYvvvQ6th8rmJkm,271867
+Rachel Sweet,Voo Doo,12259,0.664,0.667,9,-8.037,1,0.0369,0.0036,0.000115,0.15,0.699,118.908,spotify:track:2IplZsq9NcTLvp4j1vYAum,218360
+Billy Squier,She's A Runner,12260,0.281,0.823,7,-5.044,1,0.0509,0.0395,0.0056,0.0812,0.515,209.758,spotify:track:39W3SQYsCXHzaA9U3UEMsq,243267
+Janet Jackson,Come Give Your Love To Me,12261,0.723,0.598,6,-14.328,1,0.0456,0.00549,0.000556,0.0701,0.793,139.815,spotify:track:6IyzR0X4glFMP4KEjPKHm9,303800
+Styx,Mr. Roboto,12262,0.663,0.482,1,-12.093,1,0.0479,0.186,0.0,0.0521,0.314,144.13,spotify:track:7C0rG4oWO7VeZcffyW1sK9,328707
+After The Fire,Der Kommissar,12263,0.694,0.716,7,-7.468,1,0.0513,0.00909,0.000814,0.0772,0.889,121.427,spotify:track:0ROtxObpdDA25o5DriPSOk,337187
+Ric Ocasek,Something To Grab For,12264,0.71,0.807,11,-7.819,0,0.0368,0.0636,0.00334,0.0718,0.972,122.428,spotify:track:1p0rQUKbsx0JSz9aHJ8RcN,223467
+Phil Collins,I Don't Care Anymore,12266,0.703,0.422,11,-8.297,1,0.0378,0.188,0.00311,0.0851,0.442,140.494,spotify:track:24IdPCimVnJJDRuB5YSDiS,305707
+Felony,The Fanatic,12267,0.471,0.602,7,-12.614,1,0.0655,0.0218,0.00721,0.0596,0.715,176.001,spotify:track:1Iq2pmpj7yRb0sqhM6goA4,216712
+Oxo,Whirly Girl,12268,0.476,0.688,10,-8.539,0,0.0875,0.2,0.00535,0.0308,0.959,195.577,spotify:track:1iwfMo8oAydfTvwe7P830X,175391
+Thomas Dolby,She Blinded Me With Science,12269,0.798,0.767,9,-10.502,1,0.0421,0.0725,0.138,0.0985,0.974,129.401,spotify:track:6y9VZNRczyKeQihebHSMJ8,222387
+Marty Balin,What Love Is,12270,0.611,0.579,0,-4.125,0,0.0303,0.673,0.0,0.102,0.58,106.989,spotify:track:1isGLtXBDB0hO7Us8F6mAA,256705
+Tom Petty And The Heartbreakers,Change Of Heart,12271,0.534,0.869,0,-4.76,1,0.0328,0.00203,0.000154,0.771,0.941,122.499,spotify:track:0jVm8tMbpsDN7goNU6NyzL,198800
+Dionne Warwick,Take The Short Way Home,12272,0.727,0.486,5,-15.321,0,0.0777,0.158,4.63e-05,0.269,0.943,102.858,spotify:track:5D2K89gGQA9fzWUlwxtHow,233907
+Prince,Little Red Corvette,12273,0.789,0.808,1,-6.176,1,0.0881,0.148,1.32e-05,0.84,0.803,123.011,spotify:track:4N1dFbXmRng8qJ3KdJrbLr,188373
+The J. Geils Band,Land Of A Thousand Dances,12274,0.326,0.804,4,-13.688,1,0.0708,0.00456,0.00339,0.654,0.567,170.945,spotify:track:66ZOBuMbYPHO2Mv6S6EPvz,210640
+Michael Jackson,Beat It,12275,0.779,0.867,3,-3.704,0,0.0457,0.0491,7.98e-06,0.197,0.915,138.858,spotify:track:1OOtq8tRnDM8kG2gqUPjAj,258040
+Barry Manilow,Some Kind Of Friend,12276,0.661,0.734,2,-9.709,0,0.0279,0.152,2.27e-06,0.0809,0.865,142.83,spotify:track:5M5YIkgpbCEC2LW3MaVJho,245440
+Yaz,Only You,12279,0.731,0.347,9,-16.691,1,0.0398,0.31,1.29e-05,0.0946,0.855,105.791,spotify:track:3mGwufkovVPrzsJaXWg8PU,195507
+Psychedelic Furs,Love My Way,12280,0.637,0.85,0,-5.054,1,0.0351,0.00487,0.00018,0.152,0.52,126.106,spotify:track:4dk40nfaQav6b4ZsJ9OYUo,213973
+John Anderson,Swingin',12281,0.655,0.751,9,-10.689,1,0.0311,0.066,0.0,0.303,0.746,110.755,spotify:track:3OYbmTwwQ1dTnGyKmgc1Mt,178190
+Berlin,Sex (I'm A...),12282,0.653,0.358,2,-19.537,1,0.0424,0.0466,0.0148,0.0774,0.72,139.117,spotify:track:3IPIZVGAHl2BqKy0JJdbdf,308600
+Robert Hazard,Escalator Of Life,12283,0.644,0.978,11,-9.273,1,0.209,0.0108,0.00034,0.0987,0.44,139.725,spotify:track:4leRiN5JbiUZs5Hs5BEKNb,283333
+The System,You Are In My System,12285,0.843,0.46,10,-13.512,0,0.054,0.00891,0.00247,0.132,0.84,109.123,spotify:track:47HusOVsGPUcsJtMq40aRd,357812
+Toto,I Won't Hold You Back,12286,0.539,0.306,0,-15.067,0,0.0264,0.404,0.0,0.0608,0.0643,102.245,spotify:track:7D4EtbE7LfQiH8CWj7fQoz,293307
+Bob Seger & The Silver Bullet Band,Even Now,12287,0.475,0.954,4,-3.565,1,0.0532,0.0334,2.34e-05,0.234,0.761,151.942,spotify:track:00XXUBsdOe8cLPo2p64Dd3,273187
+The Gap Band,Outstanding,12288,0.792,0.476,6,-11.707,1,0.0412,0.372,0.0157,0.027,0.82,98.871,spotify:track:6korvxtUEyt590jUFOfADm,375400
+Heaven 17,Let Me Go,12289,0.718,0.783,10,-7.189,0,0.0408,0.0483,0.00124,0.387,0.504,106.671,spotify:track:2VpWQNy9Ywa6rIPX4l54A2,262507
+Bryan Adams,Straight From The Heart,12290,0.587,0.237,0,-18.466,1,0.0272,0.0766,0.0,0.139,0.366,84.764,spotify:track:5eaK7PLGwyDXmHfTdWZZuE,211933
+Missing Persons,Walking In L.a.,12291,0.71,0.773,0,-10.803,1,0.0318,0.136,2.49e-05,0.265,0.961,138.55,spotify:track:6LgG7yvuD791JlfCMaioPS,240533
+Naked Eyes,Always Something There To Remind Me,12292,0.609,0.777,7,-5.853,1,0.0377,0.126,0.0,0.519,0.682,149.252,spotify:track:3ZXcjz3A5vNsR5dA1e6ITl,219373
+Adam Ant,Desperate But Not Serious,12293,0.586,0.913,9,-4.209,1,0.0443,0.0201,0.156,0.157,0.795,136.61,spotify:track:7vDvtRSQ1WsGy87TrpBQGM,254733
+Def Leppard,Photograph,12294,0.602,0.877,4,-6.606,1,0.0515,0.000343,0.635,0.0551,0.617,123.679,spotify:track:18URo35acNKRTHfEdjTcGn,247962
+Laura Branigan,Solitaire,12295,0.695,0.826,6,-5.298,0,0.03,0.363,0.00391,0.113,0.797,138.677,spotify:track:66f0rfiEAjfM7mqhp7Gyy1,245933
+Billy Joel,Goodnight Saigon,12296,0.598,0.398,0,-14.208,1,0.0613,0.152,0.0,0.116,0.135,129.125,spotify:track:5bIwtIednTXz7BHnnoQN06,423267
+Patrick Simmons,So Wrong,12297,0.671,0.902,4,-7.085,0,0.0717,0.177,4.65e-05,0.0482,0.889,117.133,spotify:track:0Hxqin6Aq1lnnjRRXML8T1,200413
+Jarreau,Mornin',12298,0.58,0.464,2,-13.252,1,0.0339,0.19,3e-05,0.263,0.563,89.775,spotify:track:4TxBGpTxrNvRNhF39Dl3NQ,258252
+LeRoux,Carrie's Gone,12299,0.598,0.655,4,-8.428,0,0.0363,0.01,1.04e-05,0.119,0.961,137.321,spotify:track:5H1MqCrr2ERtMHLMAFdNUB,232733
+The Oak Ridge Boys,American Made,12300,0.696,0.527,8,-14.275,1,0.0329,0.108,0.000897,0.0377,0.974,128.962,spotify:track:1wtcyTExLF8nZu9ZphHIl1,159867
+Jeffrey Osborne,Eenie Meenie,12301,0.66,0.532,7,-12.418,1,0.081,0.426,0.0,0.117,0.746,76.176,spotify:track:0kr4qhkSAiBEOvT1aoBcY6,264667
+Wall Of Voodoo,Mexican Radio,12302,0.505,0.701,0,-12.031,1,0.0349,0.0148,0.000405,0.406,0.616,164.684,spotify:track:1BtOAYgTkPnv1KRcLHqyxO,248867
+David Bowie,Let's Dance,12303,0.654,0.743,10,-7.44,0,0.0605,0.0125,0.0272,0.153,0.632,114.846,spotify:track:3ix6K4wZY29bCujrSznwFZ,457676
+Ronnie Milsap,Stranger In My House,12304,0.654,0.621,7,-8.608,1,0.027,0.0038,0.000435,0.167,0.626,111.901,spotify:track:3byhGb1jyYOj8uNhA1UXoO,253360
+The Pointer Sisters,If You Wanna Get Back Your Lady,12305,0.741,0.847,2,-7.292,1,0.0324,0.126,2.06e-05,0.534,0.687,107.783,spotify:track:3R2IJ65sXjIHicPMQUnUNZ,337200
+Sammy Hagar,Never Give Up,12306,0.646,0.717,4,-11.224,1,0.03,0.0202,0.000816,0.0612,0.94,129.925,spotify:track:0f0xKba8W0JdbBksmx4FZN,195733
+Lou Rawls,Wind Beneath My Wings,12307,0.624,0.696,5,-8.684,1,0.0418,0.153,1.34e-05,0.0891,0.564,112.028,spotify:track:3U5Lm60H6RteX9C0dpi7QT,232827
+Tony Carey,I Won't Be Home Tonight,12308,0.635,0.686,9,-10.032,1,0.0327,0.00355,0.000908,0.106,0.88,130.557,spotify:track:3piCFb1t9mVY3iVoKxQ1jb,209000
+INXS,The One Thing,12309,0.449,0.942,9,-4.23,1,0.108,0.0493,0.00565,0.273,0.356,137.557,spotify:track:20CvyqKfRsnFVChsAKYA9f,205427
+Duran Duran,Rio,12310,0.544,0.873,9,-7.425,1,0.0525,0.0415,1.82e-05,0.0925,0.676,140.902,spotify:track:43eBgYRTmu5BJnCJDBU5Hb,337333
+Irene Cara,Flashdance...What A Feeling,12311,0.649,0.551,7,-9.866,0,0.0315,0.111,1.47e-06,0.18,0.494,123.572,spotify:track:5nUpmh8WSlQooSmNEUWDJo,233667
+ZZ Top,Gimme All Your Lovin,12312,0.63,0.788,5,-6.7,1,0.0298,0.00322,0.0237,0.0883,0.63,120.059,spotify:track:0OBwxFLu6Yj61s2OagYbgY,241080
+Champaign,Try Again,12313,0.758,0.576,10,-11.477,1,0.0417,0.589,9.57e-06,0.146,0.712,128.214,spotify:track:0WbfjzHowY2PZAco1JEvis,226627
+Modern English,I Melt With You,12314,0.541,0.81,0,-11.745,1,0.0367,0.000975,0.00158,0.0681,0.647,155.582,spotify:track:6J2rMSRhgb4HuX6dWgM3nJ,251573
+Saga,Wind Him Up,12316,0.529,0.491,0,-15.282,0,0.0307,0.075,0.028,0.123,0.609,130.691,spotify:track:1eYXtJ97Aga3Fi5zQayovv,347507
+U2,New Year's Day,12317,0.518,0.803,8,-6.337,0,0.0318,0.00151,0.0246,0.612,0.633,133.462,spotify:track:2CwMxEXxMiLRrKPLjQLmne,257040
+Men At Work,Overkill,12318,0.646,0.809,1,-3.99,0,0.0282,0.0854,0.0,0.0806,0.588,139.2,spotify:track:3iA4foXIFpekwHyma7pRs1,229467
+Lionel Richie,My Love,12319,0.267,0.16,8,-13.155,1,0.0362,0.689,0.0,0.086,0.122,62.308,spotify:track:6l9fOwFZ2pZzGUAVnPM76l,244973
+Night Ranger,Sing Me Away,12320,0.551,0.753,2,-10.074,1,0.0337,0.0104,2.98e-06,0.115,0.52,122.813,spotify:track:6Aav1GMR2dbFU7nIRrnwQa,250800
+Walter Egan,Fool Moon Fire,12321,0.513,0.896,2,-4.998,1,0.0892,0.179,0.0107,0.666,0.613,141.928,spotify:track:5YAumih3F3QwUpJEgSLNFL,211327
+The Tubes,She's A Beauty,12322,0.689,0.789,2,-8.565,1,0.0359,0.0684,0.000516,0.297,0.631,110.739,spotify:track:7HF88mJXq8DpotZohoW2mo,240667
+Ultravox,Reap The Wild Wind,12323,0.558,0.799,6,-7.657,1,0.0307,0.00438,0.489,0.09,0.847,133.349,spotify:track:4qkdgoL6dh2eGqTgyL1iX5,225320
+Rick Springfield,Affair Of The Heart,12325,0.636,0.907,9,-5.96,0,0.0429,0.135,1.16e-06,0.0989,0.465,129.063,spotify:track:6VtP2yma4hAdriyLHAunYN,227213
+Journey,Faithfully,12326,0.202,0.644,11,-5.212,1,0.0324,0.0979,0.0,0.109,0.252,85.04,spotify:track:57ebBLITHpRgRKGrlbxMZS,267080
+Culture Club,Time (Clock Of The Heart),12327,0.723,0.633,0,-11.24,0,0.0357,0.529,0.0,0.0701,0.898,116.95,spotify:track:5Jak77MTrWWypQr85wmXeo,223693
+Planet P,Why Me?,12329,0.589,0.568,4,-15.479,0,0.0382,0.0108,0.00158,0.104,0.651,98.088,spotify:track:6ryzreUu7YzUGjWNBpkPKp,246360
+The Temptations,Love On My Mind Tonight,12331,0.716,0.534,9,-11.1,1,0.0326,0.345,0.0059,0.0654,0.497,100.219,spotify:track:6hBTgdqH41QEnclGyB0yjy,293907
+Sergio Mendes,Never Gonna Let You Go,12333,0.639,0.403,7,-12.401,1,0.0349,0.567,0.0,0.67,0.324,132.56,spotify:track:5u8bqfaYSh0qVTsgslPknf,255600
+Pat Benatar,Looking For A Stranger,12334,0.536,0.819,0,-11.45,1,0.0469,0.019,0.0236,0.152,0.663,165.205,spotify:track:1iTb1iholOxAcDZKSqODpc,206573
+Eddie Rabbitt,You Can't Run From Love,12335,0.691,0.474,7,-9.972,1,0.0279,0.0776,2.69e-05,0.113,0.755,109.816,spotify:track:6KU5URgVCXtJbrTFGEOz7S,224013
+Linda Ronstadt,Easy For You To Say,12336,0.478,0.372,3,-9.639,0,0.0294,0.743,0.0018,0.0745,0.375,176.048,spotify:track:2KmvTthSR8R05yX3gdS0kE,242893
+Kajagoogoo,Too Shy,12337,0.702,0.871,10,-6.728,0,0.0926,0.127,4.18e-05,0.0819,0.664,107.982,spotify:track:6WEBIVqiEsevfgJefTyuQQ,221520
+Debarge,All This Love,12338,0.452,0.674,5,-5.636,0,0.0355,0.151,1.09e-06,0.094,0.428,187.159,spotify:track:6ABtlkvl08XQo6Xu24FJaf,352587
+Neil Diamond,Front Page Story,12339,0.45,0.343,3,-18.11,1,0.04,0.525,0.00288,0.0544,0.311,135.429,spotify:track:5FYfjjNgGG2872yVdto8fE,269773
+Bow Wow Wow,Do You Wanna Hold Me?,12340,0.495,0.897,8,-7.113,1,0.077,0.0088,0.19,0.293,0.674,139.699,spotify:track:5kXufSBanSLRpgbUcLZpil,193893
+Golden Earring,The Devil Made Me Do It,12341,0.439,0.874,9,-6.545,1,0.0523,0.315,0.0,0.39,0.829,174.324,spotify:track:0vHLnBlZoqeogzqyCOT6mL,205733
+Daryl Hall John Oates,Family Man,12343,0.766,0.651,2,-11.411,0,0.0349,0.467,7.71e-05,0.147,0.898,131.487,spotify:track:5KiDWqKsU0EfXQJdnWSOn9,204813
+Kenny Rogers,All My Life,12344,0.263,0.379,5,-12.391,1,0.0314,0.319,1.05e-06,0.128,0.0907,176.241,spotify:track:3YWulDdpSxw6fKKLmUP2pa,233773
+Jim Capaldi,That's Love,12345,0.701,0.687,3,-7.41,1,0.0655,0.82,0.575,0.178,0.744,120.814,spotify:track:7aTfIaQwcqw7XCEkxxCX4z,213968
+Thompson Twins,Love On Your Side,12347,0.767,0.76,0,-9.293,1,0.105,0.0679,0.00213,0.0974,0.697,111.859,spotify:track:0ZKtHVg8mu6GIngKP9vbhN,239667
+The Whispers,Tonight,12348,0.802,0.672,10,-9.419,0,0.0562,0.00185,0.0508,0.281,0.686,114.358,spotify:track:5BmmCEPNTFmmJ8hsIByMGb,370027
+"""Weird Al"" Yankovic",Ricky,12349,0.521,0.814,4,-8.27,1,0.108,0.066,0.0,0.0868,0.972,153.747,spotify:track:76QlOaKjVbxqduVcwcQZWx,157067
+Christopher Cross,No Time For Talk,12351,0.641,0.642,9,-10.507,1,0.0442,0.178,4.62e-05,0.0667,0.57,98.949,spotify:track:0HGqR8afdaKuEUUxECHCRD,264000
+Little River Band,We Two,12352,0.709,0.647,11,-7.637,1,0.028,0.0909,6.7e-05,0.224,0.369,126.022,spotify:track:239h5pByasWnujmPAZnSrD,275880
+Madness,Our House,12353,0.601,0.649,7,-10.57,1,0.0554,0.0285,7.71e-05,0.127,0.708,121.66,spotify:track:1qV6e4ITnfGmA6m6Vklvbi,201133
+Todd Rundgren,Bang The Drum All Day,12354,0.639,0.752,2,-12.454,1,0.0451,0.541,0.0,0.0453,0.966,143.086,spotify:track:54EvqHberbpzMu7nu8hs9S,215400
+The Belle Stars,Sign Of The Times,12355,0.699,0.68,11,-8.228,1,0.0599,0.224,0.0,0.0529,0.857,113.889,spotify:track:0ftI96GEGTvqEyDqhI35Hx,174347
+The Call,The Walls Came Down,12356,0.619,0.753,10,-9.743,1,0.0894,0.0594,0.689,0.619,0.828,132.383,spotify:track:0KoZzbcDsYAF1Awf2Y9IvD,220400
+New Edition,Candy Girl,12357,0.839,0.623,1,-13.712,1,0.108,0.346,0.0138,0.314,0.668,103.799,spotify:track:72OrfuJ9RxfLCoqAMeKHCZ,235373
+Alabama,The Closer You Get,12358,0.756,0.417,7,-14.943,1,0.0309,0.178,1.8e-06,0.123,0.831,113.996,spotify:track:6CG3BXccaxPwFwymSSJBNy,271867
+The Kinks,Come Dancing,12359,0.491,0.751,7,-11.549,1,0.0686,0.23,1.22e-05,0.0666,0.916,152.43,spotify:track:0cTwMCvozZBj8jCq6o27nk,236735
+George Benson,Inside Love (so Personal),12360,0.857,0.517,7,-12.152,1,0.042,0.162,5.14e-05,0.0774,0.966,117.599,spotify:track:1ltblJ3wUdRVaqomV6CE1f,315600
+"Earth, Wind & Fire",Side By Side,12362,0.856,0.536,5,-11.291,0,0.0377,0.271,0.000132,0.114,0.695,103.781,spotify:track:1nv7USeo1Y4gqQRqD7PsPI,356227
+A Flock Of Seagulls,Wishing (If I Had A Photograph Of You),12363,0.507,0.803,1,-5.176,1,0.0388,0.104,0.678,0.054,0.682,120.23,spotify:track:41TpvOhSCOJOHuOUggy9sv,330427
+Sheriff,When I'm With You,12364,0.248,0.324,9,-10.878,1,0.03,0.274,0.00946,0.113,0.122,135.786,spotify:track:3RJof5CojqlbgZ5adHw50O,238040
+Phil Collins,I Cannot Believe It's True,12365,0.712,0.923,5,-5.746,0,0.037,0.141,0.00194,0.0817,0.743,121.28,spotify:track:47gHXfrbU3IBshdwwtjrjz,316427
+Carl Wilson,What You Do To Me,12366,0.709,0.75,6,-6.93,1,0.0478,0.13,0.0,0.0611,0.864,122.337,spotify:track:4wFPUsioL0kiLkjwM3MduT,234747
+Eurythmics,Sweet Dreams (Are Made Of This),12367,0.692,0.711,0,-7.498,0,0.0317,0.225,0.0,0.12,0.875,125.135,spotify:track:1TfqLAPs4K3s2rJMoCokcS,216933
+Dave Edmunds,Slipping Away,12368,0.583,0.924,2,-8.277,1,0.0314,0.042,0.00531,0.355,0.817,130.335,spotify:track:6My1PfmDeYo8jr5c1Bzhjm,260827
+Michael Bolton,Fools Game,12369,0.608,0.782,8,-11.504,1,0.0355,0.129,0.0,0.188,0.885,119.999,spotify:track:0l4S40nqotTBKLcUE7lJsJ,234427
+Bee Gees,The Woman In You,12370,0.809,0.491,9,-16.846,0,0.035,0.114,5.82e-06,0.0546,0.976,131.134,spotify:track:7EcsJXtKtUkzTa8mgjJKiE,243933
+Billy Idol,White Wedding,12371,0.673,0.814,9,-5.411,1,0.0367,0.0133,0.00293,0.343,0.728,147.193,spotify:track:1gzIbdFnGJ226LTl0Cn2SX,252200
+Martin Briley,The Salt In My Tears,12373,0.604,0.748,9,-5.243,1,0.0379,0.0502,1e-05,0.147,0.849,121.221,spotify:track:7mkH1uCjRViPXrhdOr7MuM,208173
+Gladys Knight And The Pips,Save The Overtime (For Me),12374,0.838,0.633,9,-10.983,1,0.0325,0.0754,0.000865,0.137,0.966,109.134,spotify:track:54n6KHxMIwDqP3jjSVVNYV,283360
+B.J. Thomas,Whatever Happened To Old Fashioned Love,12375,0.578,0.392,2,-15.551,1,0.0298,0.138,0.0,0.231,0.62,108.03,spotify:track:5FUG7FHEX0lPsXCaDD0k9J,206400
+Michael Jackson,Wanna Be Startin' Somethin',12376,0.846,0.922,6,-4.206,0,0.0438,0.0219,0.355,0.0623,0.899,122.195,spotify:track:2kulOHR2XY6YDZCWXb38hn,362373
+Rod Stewart,Baby Jane,12377,0.641,0.798,2,-8.56,0,0.0406,0.0136,0.000106,0.358,0.732,123.229,spotify:track:2nRBcLmSpB9lLU0RwAnUAB,283493
+Bob Seger & The Silver Bullet Band,Roll Me Away,12378,0.504,0.906,0,-5.376,1,0.0413,0.0325,9.57e-06,0.27,0.579,133.659,spotify:track:3MqgFVRerrpqWHdRopk247,279573
+Donna Summer,She Works Hard For The Money,12379,0.758,0.638,8,-13.01,0,0.0378,0.00486,0.0141,0.0938,0.984,136.502,spotify:track:3FlOciKDqFlTMPeC7t92Qy,320840
+The Human League,(Keep Feeling) Fascination,12380,0.711,0.609,0,-9.042,1,0.0764,0.381,1.24e-06,0.204,0.674,118.132,spotify:track:0ZfZaT7NByalxa6bct5G67,224733
+Lee Greenwood,I.o.u.,12381,0.345,0.12,7,-21.079,1,0.0344,0.633,0.0,0.13,0.296,130.778,spotify:track:3dXSVFWK1s0PgtMrAifdDd,189000
+The Fixx,Saved By Zero,12382,0.742,0.632,11,-12.054,0,0.0317,0.0204,0.00165,0.0853,0.965,117.137,spotify:track:3EEJiZZ8b3Ke2bK0ylgvlh,204733
+Berlin,The Metro,12383,0.49,0.484,7,-18.35,1,0.0359,0.0017,8.93e-05,0.0398,0.65,168.975,spotify:track:3Mp0s4jN8X7J74Qt6sgDXl,251200
+Dexys Midnight Runners,The Celtic Soul Brothers,12384,0.61,0.691,2,-6.741,1,0.0972,0.0385,3.48e-06,0.177,0.663,91.597,spotify:track:6K9wIZpz2D8xNt7jPURm54,193067
+After The Fire,Dancing In The Shadows,12385,0.582,0.761,5,-6.599,1,0.0317,0.282,3.93e-05,0.125,0.76,141.446,spotify:track:2y96ghbuKXMS1svvyJTwcU,193173
+Joan Armatrading,Drop The Pilot,12386,0.672,0.488,1,-15.441,1,0.0349,0.0349,4.32e-06,0.131,0.964,127.887,spotify:track:72YATNrv9D0QIVgOURyTFg,221987
+The Police,Every Breath You Take,12387,0.82,0.452,1,-9.796,1,0.0348,0.543,0.00294,0.0714,0.74,117.401,spotify:track:1JSTJqkT5qHq8MDJnJbRE1,253920
+Duran Duran,Is There Something I Should Know,12388,0.57,0.967,7,-4.956,1,0.076,0.0218,6.44e-06,0.285,0.776,124.856,spotify:track:3X4T0KunohTtDaecqBZ8vC,249667
+Stevie Nicks,Stand Back,12389,0.638,0.783,11,-9.455,0,0.0435,0.00736,0.0447,0.0381,0.637,115.269,spotify:track:6sleEAnBH0sZMe0pOQNidG,297093
+David Bowie,China Girl,12390,0.651,0.699,4,-7.867,0,0.0277,0.039,0.0659,0.124,0.832,133.793,spotify:track:5Ei9o2fHEnfHb84YrPuz4v,333817
+Greg Kihn Band,Love Never Fails,12391,0.783,0.654,2,-5.246,1,0.044,0.488,0.468,0.113,0.864,107.591,spotify:track:3iw9cUcnKKboLyUEsBlRwP,206360
+The Hollies,Stop In The Name Of Love,12392,0.706,0.674,9,-9.096,1,0.0292,0.494,3.84e-06,0.0582,0.557,124.311,spotify:track:5VnwDH81lLhYtaLpe4P0nt,190587
+Michael Sembello,Maniac,12393,0.617,0.533,3,-11.516,0,0.0651,0.0891,4.04e-06,0.0415,0.835,158.86,spotify:track:0QKfiqpEU4h9ycPSzIFwYe,244707
+Maze Featuring Frankie Beverly,Love Is The Key,12394,0.817,0.857,9,-5.302,0,0.0519,0.157,6.64e-05,0.66,0.894,123.81,spotify:track:4OtmGKpBsCJF6HG0xX9tgw,268533
+Red Rockers,China,12395,0.432,0.728,2,-7.19,1,0.041,0.00172,1.9e-05,0.253,0.666,147.783,spotify:track:2ws33FRyUcuvDnNgz5VfwZ,241573
+Nona Hendryx,Keep It Confidential,12396,0.781,0.622,11,-9.753,0,0.0736,0.121,1.98e-06,0.0677,0.519,122.847,spotify:track:0k7AXjrp5rb0IzI1vLc49w,352173
+Loverboy,Hot Girls In Love,12397,0.495,0.772,9,-11.164,1,0.0535,0.00658,6.27e-06,0.182,0.56,153.743,spotify:track:1pB5Y2BPLez1J49KKKewUE,239000
+Bryan Adams,Cuts Like A Knife,12398,0.469,0.464,7,-17.281,1,0.0263,0.0179,2.87e-06,0.577,0.601,95.921,spotify:track:5oZ2YnJxTXl7CdJJKehPHR,319800
+Def Leppard,Rock Of Ages,12399,0.706,0.785,11,-7.666,0,0.041,0.00802,0.0319,0.195,0.636,105.893,spotify:track:2AmEv442DGwSxMGZ9XEvBA,247829
+Goanna,Solid Rock,12400,0.552,0.741,9,-7.388,0,0.0476,0.00699,0.00133,0.0317,0.508,148.996,spotify:track:18PsAoBaEHQZRUxigLP8QJ,275227
+Joe Walsh,Space Age Whiz Kids,12401,0.726,0.496,1,-14.549,1,0.056,0.243,0.000161,0.666,0.827,168.377,spotify:track:0jgcFIVpI36Q1ieSlAXFv1,220760
+Quarterflash,Take Me To Heart,12402,0.689,0.497,2,-14.377,1,0.0319,0.263,5.6e-06,0.218,0.639,114.034,spotify:track:4XcUFQNTiX4IHmA4K51snP,212893
+Louise Tucker,Midnight Blue,12403,0.622,0.498,0,-10.081,1,0.0263,0.228,0.5,0.149,0.296,122.185,spotify:track:5FAl0lIi2CUgrjMab1is7d,238275
+Thomas Dolby,Europa And The Pirate Twins,12404,0.566,0.716,0,-12.42,1,0.0322,0.0114,0.0135,0.252,0.902,99.82,spotify:track:5wMd1Bpd8NOSlWGWCNvLuL,199120
+America,The Border,12405,0.669,0.812,0,-8.498,0,0.032,0.051,0.0,0.31,0.564,127.369,spotify:track:0KOx52pq6SvTtwmT6FY4bm,242053
+Jarreau,Boogie Down,12407,0.914,0.476,0,-13.823,1,0.0531,0.283,0.00127,0.204,0.955,112.73,spotify:track:2Ag4fXwLRXUHDx86r7iZEr,252933
+Robert Palmer,You Are In My System,12408,0.796,0.626,10,-11.643,0,0.0792,0.019,0.0298,0.0359,0.909,111.053,spotify:track:1NluXt216fuqjX7KcmYQxM,267240
+Paul Anka,Hold Me 'til The Mornin' Comes,12409,0.582,0.413,1,-9.392,1,0.0314,0.515,0.0,0.0638,0.266,127.079,spotify:track:0JDYhTLGsAiSzAmNHQ30rG,287733
+Mtume,Juicy Fruit,12410,0.88,0.527,4,-8.122,1,0.133,0.15,0.0447,0.0288,0.789,96.863,spotify:track:2hn1lerQkPC6fOI0QFjr8r,272400
+Roman Holliday,Stand By,12411,0.608,0.884,2,-6.219,1,0.127,0.371,0.0,0.353,0.795,97.894,spotify:track:63JdgRklR9MJyZiEQKXkRd,166733
+Electric Light Orchestra,Rock 'n' Roll Is King,12412,0.401,0.881,9,-6.089,1,0.0923,0.356,0.0,0.165,0.88,160.456,spotify:track:6s30tYL0EJbROLV4Yzsw0D,193907
+"Crosby, Stills & Nash",War Games,12413,0.436,0.582,5,-13.563,1,0.0425,0.00589,1.77e-05,0.321,0.401,174.109,spotify:track:1KHehOVBdMmOxKi5Zcv0Ju,141027
+Diana Ross,Pieces Of Ice,12414,0.865,0.601,7,-9.718,0,0.0471,0.141,0.0705,0.0808,0.585,132.86,spotify:track:4L7asjKaSIdw972341v1sg,297013
+Taco,Puttin' On The Ritz,12415,0.798,0.292,0,-17.112,1,0.0777,0.152,0.00101,0.185,0.812,98.653,spotify:track:1taGkdO3DQsNRIQrarhVvc,281160
+Charlie,It's Inevitable,12416,0.663,0.7,2,-10.566,1,0.0419,0.00954,0.0,0.0888,0.708,124.38,spotify:track:4Tp9AtlLtV0aNagtUqTz4s,234110
+Men Without Hats,The Safety Dance,12417,0.765,0.824,0,-6.354,1,0.0386,0.0436,2.75e-05,0.16,0.349,100.193,spotify:track:2IqPRjJAcLvPqAEbnB2VJz,278227
+Shalamar,Dead Giveaway,12418,0.651,0.866,0,-9.069,1,0.0317,0.0517,5.95e-05,0.121,0.962,149.258,spotify:track:0iR5u87eNaxH9VQXQLQ7Db,303680
+Men At Work,It's A Mistake,12419,0.7,0.618,11,-4.593,1,0.0261,0.232,2.65e-05,0.072,0.937,106.061,spotify:track:1ArdfXwdvwzapms9p1wxEb,286973
+Rita Coolidge,All Time High,12421,0.49,0.515,3,-8.919,0,0.0313,0.113,3.75e-05,0.125,0.343,105.63,spotify:track:0e6jrQ880TI8IjAexAmtb6,185893
+Laura Branigan,How Am I Supposed To Live Without You,12424,0.559,0.469,10,-8.26,1,0.0355,0.813,8.33e-05,0.134,0.185,139.079,spotify:track:5GzyRXMbtyoN8A4lgYicTP,263320
+Donnie Iris,Do You Compute?,12425,0.65,0.491,1,-9.872,0,0.0338,0.0012,0.146,0.0425,0.771,115.947,spotify:track:5kOy9p5jcHe5j2LWgXbRgj,220467
+Toto,Waiting For Your Love,12426,0.733,0.372,8,-17.274,1,0.0369,0.108,1.45e-06,0.096,0.779,99.618,spotify:track:1CP967dCzbdR2RMejYyPFz,252667
+Tony Carey,West Coast Summer Nights,12427,0.649,0.829,0,-10.663,1,0.0283,0.0334,1.56e-05,0.0966,0.966,137.278,spotify:track:0Z0TdhMStXKhP7JmiYfKNw,210000
+Jackson Browne,Lawyers In Love,12429,0.522,0.74,9,-6.496,1,0.0284,0.0286,0.00126,0.145,0.639,139.031,spotify:track:26lCNg8WekUoDbLhEbUyXZ,259747
+Journey,After The Fall,12430,0.476,0.886,9,-4.978,0,0.0531,0.0147,7.09e-06,0.12,0.501,100.076,spotify:track:0PEnPV6UkHvvydYjXDqkNM,300960
+Joan Jett & the Blackhearts,Fake Friends,12431,0.492,0.834,4,-6.784,1,0.112,0.0652,0.0,0.117,0.675,134.222,spotify:track:5kvMLw3iuA2dHH7FLFDgsM,204413
+Rick Springfield,Human Touch,12432,0.706,0.882,2,-5.728,1,0.0714,0.0398,4.35e-06,0.049,0.894,133.846,spotify:track:5nz0LSETzRK9kOWN1L4grQ,229720
+Zebra,Who's Behind The Door?,12433,0.19,0.641,7,-13.813,1,0.0573,0.0282,0.0581,0.323,0.207,90.045,spotify:track:3Vb8Vja43uyqOiwBHskW4t,316333
+Peabo Bryson/Roberta Flack,"Tonight, I Celebrate My Love",12434,0.482,0.211,3,-14.518,1,0.0318,0.803,1.36e-05,0.154,0.158,116.902,spotify:track:7JOyY9GA3P2Evx50oetDKb,211000
+Peter Tosh,Johnny B. Goode,12435,0.749,0.849,4,-5.761,0,0.0544,0.0299,0.000168,0.115,0.959,145.169,spotify:track:5uPYEStMW3KsXnnLV7iCTw,244253
+Naked Eyes,"Promises, Promises",12436,0.746,0.895,5,-5.38,1,0.0657,0.102,0.00022,0.0594,0.746,115.691,spotify:track:6n4t5iMFjHmA3ErCOLT9O8,225840
+Bonnie Tyler,Total Eclipse Of The Heart,12437,0.431,0.723,8,-5.887,1,0.056,0.145,0.0,0.375,0.189,130.547,spotify:track:7wuJGgpTNzbUyn26IOY6rj,267360
+Engelbert Humperdinck,Til You And Your Lover Are Lovers Again,12438,0.338,0.279,6,-15.254,1,0.0353,0.323,0.000714,0.122,0.331,172.496,spotify:track:5NeBrSvZxKTLpy5VqqmYg2,220067
+Mitch Ryder,When You Were Mine,12441,0.511,0.824,11,-4.989,1,0.0529,0.177,0.00292,0.95,0.837,140.4,spotify:track:5giLynsakhbrG39FuubvPh,224987
+Michael Jackson,Human Nature,12442,0.624,0.512,2,-10.041,1,0.0297,0.541,0.00478,0.26,0.685,93.059,spotify:track:35lAjvsvS9k9HHuP1fjDT8,245560
+The Tubes,Tip Of My Tongue,12443,0.688,0.852,11,-6.737,1,0.0694,0.0847,0.000306,0.446,0.925,124.095,spotify:track:1KFtAflpmsLfdBMoI5Lc43,237573
+ZZ Top,Sharp Dressed Man,12444,0.601,0.859,5,-5.263,1,0.0276,0.000359,0.00124,0.0871,0.446,125.145,spotify:track:1UBQ5GK8JaQjm5VbkBZY66,258027
+George Benson,Lady Love Me (One More Time),12446,0.673,0.722,6,-8.536,0,0.0309,0.107,0.0,0.305,0.816,102.695,spotify:track:52QRIheaefNCUA4HdEGpAo,240280
+Haysi Fantayzee,Shiny Shiny,12447,0.816,0.885,5,-5.135,1,0.0957,0.229,2.19e-06,0.028,0.964,100.018,spotify:track:439nrLtmKb4iAZPNJXWfkX,222547
+R.E.M.,Radio Free Europe,12448,0.367,0.685,4,-14.831,1,0.0464,0.00304,0.0478,0.109,0.854,154.953,spotify:track:46dGFTD918NMz1IP1rPJXO,245200
+F.R. David,Words,12449,0.537,0.789,10,-5.578,0,0.0549,0.372,2.66e-05,0.138,0.527,123.763,spotify:track:1HPJOoIVdUPuaebxzMrVaD,209013
+Billy Joel,Tell Her About It,12450,0.565,0.894,8,-5.241,1,0.175,0.00777,0.0,0.49,0.737,182.262,spotify:track:6kCJMxv445L2okuTiou1fR,229200
+Air Supply,Making Love Out Of Nothing At All,12452,0.388,0.72,7,-5.541,1,0.033,0.202,0.000288,0.283,0.554,141.283,spotify:track:01MXkFA8sL7at6txavDErt,341747
+Frank Stallone,Far From Over,12453,0.528,0.7,0,-13.157,1,0.0346,0.038,0.0019,0.217,0.883,166.499,spotify:track:0mbImplrU76kIvd52GlNbt,195893
+The Doobie Brothers,You Belong To Me,12454,0.659,0.271,0,-13.323,0,0.0451,0.47,0.000581,0.0655,0.906,101.585,spotify:track:4Jlqb6gqcqNbHpbjOBw0h0,185120
+Talking Heads,Burning Down The House,12455,0.779,0.87,5,-13.141,0,0.0574,0.00644,0.0107,0.0399,0.555,102.689,spotify:track:2VNfJpwdEQBLyXajaa6LWT,241920
+Rick James,Cold Blooded,12456,0.939,0.487,10,-7.641,0,0.153,0.0172,0.0124,0.05,0.646,117.637,spotify:track:7LHfhusSfulgzuiMg7e3Cz,359280
+The Plimsouls,A Million Miles Away,12457,0.396,0.793,4,-10.179,0,0.0399,0.0208,8.26e-06,0.105,0.687,155.194,spotify:track:3YryVYJcJ9gP8jfUkkbNvm,215200
+Aretha Franklin,Get It Right,12458,0.758,0.829,1,-6.622,1,0.174,0.0486,1.6e-06,0.0317,0.824,122.298,spotify:track:1zaigPe4NB94tc4CRshK46,377093
+The Manhattans,Crazy,12459,0.847,0.487,8,-12.124,0,0.064,0.0776,6.66e-05,0.342,0.898,110.966,spotify:track:3TFOWJpcPUaKmVfRXM3uoK,295240
+Stray Cats,(she's) Sexy + 17,12460,0.525,0.931,9,-5.593,1,0.0583,0.00831,0.0,0.106,0.75,89.9,spotify:track:5x5FUXjs53WbPuTwT6WD8d,194067
+Elton John,Kiss The Bride,12461,0.678,0.856,0,-6.296,1,0.079,0.139,0.031,0.134,0.681,138.141,spotify:track:5xQkkHYbgJ2VegCrRUCvcS,262067
+Spandau Ballet,True,12462,0.742,0.533,0,-9.098,1,0.0288,0.459,0.148,0.064,0.391,97.395,spotify:track:0CsM8VGDi38kusMv3pxyj1,329147
+Robert Plant,Big Log,12463,0.554,0.639,9,-7.163,0,0.0278,0.359,0.00274,0.205,0.644,180.638,spotify:track:7257drAN3eTtaaUUPw95B3,304800
+Tears For Fears,Change,12464,0.61,0.801,9,-5.979,0,0.0301,0.0867,0.299,0.238,0.835,125.257,spotify:track:2JhIaeltCDCcp02K936tgx,254000
+Lindsey Buckingham,Holiday Road,12465,0.428,0.608,5,-13.729,1,0.0655,0.0144,0.000211,0.728,0.92,188.643,spotify:track:38i0QcGQ9hu8PMk4QObUTj,131520
+Kissing The Pink,Maybe This Day,12466,0.687,0.404,4,-12.876,0,0.0855,0.173,0.00184,0.113,0.378,122.015,spotify:track:1qF2o9DGXKIlKPvEJA5xCN,217920
+Juice Newton,Tell Her No,12467,0.719,0.475,10,-11.301,0,0.0651,0.252,0.000188,0.0771,0.834,142.088,spotify:track:3KXDnVLLyyLBbHW1Q2NJwy,216573
+Styx,High Time,12468,0.685,0.506,1,-12.09,1,0.0389,0.0765,0.0,0.108,0.913,121.449,spotify:track:3L6QNpfmdYuIG1ey3RqMDb,273027
+The Animals,The Night,12469,0.562,0.761,9,-10.881,0,0.0452,0.0291,7.57e-06,0.243,0.625,142.223,spotify:track:4AeH1nSZaqRliKLqEohH9c,235507
+Heart,How Can I Refuse,12470,0.664,0.569,4,-10.427,1,0.0325,0.0182,1.41e-05,0.0951,0.705,132.59,spotify:track:2EPOoZCvCYGfl5HqhXLpn6,232067
+Stacy Lattisaw,Miracles,12471,0.496,0.488,4,-8.007,1,0.0296,0.387,4.17e-05,0.108,0.307,136.488,spotify:track:5fk1BMWpcx9LCeVDjojoLb,214560
+Sergio Mendes,Rainbow's End,12472,0.682,0.455,4,-11.585,1,0.0311,0.582,0.0,0.0856,0.512,97.047,spotify:track:0HYnRJDclTOvAquYE6md5Z,245800
+Sheena Easton,Telefone (long Distance Love Affair),12475,0.844,0.683,9,-4.292,1,0.0883,0.246,2.37e-06,0.109,0.899,138.068,spotify:track:6pzQvHHygI4kYpk2xFIXEo,222040
+Bee Gees,Someone Belonging To Someone,12476,0.702,0.205,10,-20.297,0,0.0388,0.73,2.68e-06,0.235,0.353,125.792,spotify:track:4zEpjAzlm1iTocJFbfLePE,265267
+Chris de Burgh,Ship To Shore,12478,0.724,0.621,2,-12.374,1,0.0443,0.19,0.0,0.0663,0.702,122.622,spotify:track:4hK2b8a6DEJVcRXt5wrCr0,229133
+Elvis Costello And The Attractions,Everyday I Write The Book,12479,0.651,0.755,1,-9.102,0,0.0337,0.315,0.000174,0.235,0.716,102.229,spotify:track:1P9523tBg56NRc78lX2i4l,234307
+Madness,It Must Be Love,12480,0.536,0.606,7,-5.364,1,0.0355,0.103,1.08e-05,0.255,0.719,146.425,spotify:track:3q2gRjU2UdOYRDY1p4cNHr,206267
+Herb Alpert,Garden Party,12481,0.763,0.391,7,-12.171,1,0.0331,0.428,0.254,0.0581,0.887,89.587,spotify:track:0gqSKw9jM3gWLih9CIPoKa,316536
+Kenny Rogers,Scarlet Fever,12485,0.625,0.492,2,-10.57,1,0.0289,0.292,0.0,0.0553,0.705,83.067,spotify:track:0PEhslheyHt2wuUiz7cYxW,240800
+Midnight Star,Freak-A-Zoid,12486,0.876,0.8,2,-8.142,1,0.0519,0.0169,0.00538,0.0382,0.759,120.829,spotify:track:42UpH9fz5utv8tkvOgh5Qb,485013
+The Police,King Of Pain,12487,0.518,0.725,2,-8.854,1,0.0338,0.389,0.000192,0.0671,0.646,124.151,spotify:track:1V15l05snHYHYVxerjMFGo,299040
+The Fixx,One Thing Leads To Another,12488,0.789,0.945,5,-5.219,0,0.0482,0.198,3.11e-06,0.0617,0.965,136.745,spotify:track:5B37ocpk2zxeZL1lq5F6ui,199827
+Rod Stewart,What Am I Gonna Do (I'm So In Love With You),12489,0.659,0.661,4,-8.424,1,0.0355,0.0284,0.000357,0.172,0.907,124.445,spotify:track:74QY1Uc0BTGldoHqpgCPFy,260360
+Kajagoogoo,Hang On Now,12491,0.593,0.59,11,-12.461,0,0.0401,0.323,0.000114,0.0721,0.772,120.298,spotify:track:6BCVKcZhk5M1mHBvfOrDUK,203160
+Jim Capaldi,Living On The Edge,12492,0.799,0.644,11,-10.167,0,0.035,0.357,8.51e-05,0.0761,0.973,116.207,spotify:track:5Z4Sku2Isd3b0mxzWhdago,281347
+The S.O.S. Band,Just Be Good To Me,12493,0.636,0.939,2,-4.835,1,0.0498,0.000625,0.000821,0.956,0.48,103.007,spotify:track:5ZxfwWQOd4rn6kOyWd4QZ6,519667
+The Moody Blues,Sitting At The Wheel,12494,0.484,0.929,9,-7.407,1,0.129,0.0702,0.0,0.627,0.443,141.422,spotify:track:43raN5DVWdhYxSZ16aF5Ap,339440
+The Motels,Suddenly Last Summer,12495,0.725,0.73,2,-7.072,1,0.0266,0.102,0.0912,0.0931,0.635,120.257,spotify:track:08pnzLwZrh8lernK2aRaGz,216533
+Prince,Delirious,12496,0.794,0.613,11,-8.203,0,0.0645,0.0937,0.000708,0.03,0.963,200.475,spotify:track:5zWhtlFS3w52HjN4ayOUgR,240005
+Donna Summer,Unconditional Love,12497,0.817,0.601,0,-12.802,1,0.0499,0.18,4.61e-06,0.115,0.846,98.436,spotify:track:6rX8XrnLLIggn6ItYWnoMM,284000
+Bryan Adams,This Time,12498,0.565,0.531,2,-16.233,1,0.0329,0.0033,0.000564,0.472,0.697,126.715,spotify:track:27RJqlzy0TXZloJIuEYEbG,200560
+Def Leppard,Foolin',12499,0.608,0.787,9,-6.703,0,0.0277,0.000337,0.00782,0.111,0.474,113.796,spotify:track:1wv8bYmoqY3TAKKQY3Qn7t,274118
+Kansas,Fight Fire With Fire,12500,0.54,0.789,7,-9.473,1,0.0409,0.0681,0.0,0.262,0.624,119.226,spotify:track:5RC12RMHBqOtB1S6wmiw7L,220333
+Bette Midler,All I Need To Know,12501,0.439,0.18,4,-15.23,1,0.0332,0.931,0.000347,0.182,0.276,126.14,spotify:track:4c488pAGlVixKB3dWftQ15,246640
+Liquid Gold,What's She Got,12502,0.827,0.519,11,-12.525,0,0.0635,0.686,0.000733,0.275,0.745,120.626,spotify:track:4iwO2oecYXgqYq1osIYJaE,227001
+Big Ric,Take Away,12503,0.465,0.724,11,-6.183,0,0.188,0.0664,0.0,0.0757,0.311,89.799,spotify:track:5hB0uPVrgYB7i9qYveFDSy,230168
+Stevie Nicks,If Anyone Falls,12504,0.559,0.746,0,-8.639,1,0.0265,0.343,4.49e-05,0.775,0.627,96.289,spotify:track:5gWvBIG6lV1DS6qSSi3MA6,249133
+Joan Jett & the Blackhearts,Everyday People,12505,0.571,0.871,7,-6.226,1,0.0621,0.0265,0.0,0.102,0.749,119.852,spotify:track:2XsBSbENuPJNqp50W3iy48,159987
+Huey Lewis & The News,Heart And Soul,12506,0.66,0.806,2,-8.01,1,0.0324,0.00332,1.4e-05,0.0986,0.944,122.041,spotify:track:3pecdrUzTZjaqrw6iCLTvd,253253
+The Manhattan Transfer,Spice Of Life,12507,0.763,0.701,5,-9.51,1,0.0461,0.143,0.0,0.198,0.806,109.974,spotify:track:7z2lrcW8tG8ietwg2itOKe,222133
+Herbie Hancock,Rockit,12508,0.878,0.951,7,-5.077,1,0.069,0.0317,0.544,0.0614,0.607,111.334,spotify:track:2nWHzbBWBOePUvAImQv2So,325133
+Jarreau,Trouble In Paradise,12510,0.708,0.54,2,-12.586,1,0.0274,0.162,0.0,0.213,0.757,92.583,spotify:track:3b9SxtCRgPFPtIGpv1qQ1t,228809
+Lionel Richie,All Night Long (All Night),12513,0.744,0.583,1,-12.595,1,0.0427,0.152,8.54e-05,0.0248,0.851,108.794,spotify:track:4giIdAr7Plyu5LQzBOR4FP,260493
+Men At Work,Dr. Heckyll & Mr. Jive,12514,0.42,0.829,4,-4.76,1,0.0989,0.239,0.0,0.102,0.6,146.915,spotify:track:4hXxnHb8rmmSHW8QPY4egm,285333
+David Bowie,Modern Love,12515,0.358,0.938,0,-5.577,1,0.0483,0.00375,9.2e-06,0.117,0.944,182.836,spotify:track:3gxEZXUjrNbl3TlSrTGbR5,288339
+Eurythmics,Love Is A Stranger,12516,0.781,0.648,5,-8.216,1,0.0264,0.00761,0.0,0.132,0.546,121.93,spotify:track:2jItmTTkIL6SkvABXsTaYT,224773
+Loverboy,Queen Of The Broken Hearts,12517,0.529,0.667,8,-12.529,0,0.0539,0.0868,0.0,0.0714,0.702,150.603,spotify:track:1xOlMzaxfYhh6xJASBksdq,230000
+Commodores,Only You,12518,0.549,0.275,1,-14.33,1,0.0324,0.261,0.00039,0.109,0.158,141.795,spotify:track:2vnC63DpbmOHUoePxPtnsM,272667
+Quiet Riot,Cum On Feel The Noize,12519,0.409,0.92,11,-5.439,0,0.12,0.00719,0.00105,0.0823,0.37,145.085,spotify:track:3vV3cr2TpPqFk07zxYUbla,290960
+Matthew Wilder,Break My Stride,12520,0.917,0.588,10,-11.047,1,0.0607,0.195,0.0,0.0914,0.828,110.077,spotify:track:1mCsF9Tw4AkIZOjvZbZZdT,184480
+Anne Murray,A Little Good News,12521,0.64,0.439,10,-11.759,1,0.0286,0.495,0.0,0.19,0.454,94.302,spotify:track:48iBpOmxXi0h6rcq0jYVoP,176333
+Billy Joel,Uptown Girl,12522,0.701,0.944,4,-2.986,1,0.0455,0.0755,0.0,0.601,0.792,128.993,spotify:track:5zA8vzDGqPl2AzZkEYQGKh,197707
+Michael Sembello,Automatic Man,12523,0.728,0.993,11,-6.262,0,0.119,0.00569,6.67e-06,0.375,0.554,128.626,spotify:track:3CQJLlWMjSL2lprKYbtbqE,251453
+Pat Benatar,Love Is A Battlefield,12524,0.669,0.633,2,-11.903,0,0.049,0.0137,0.0178,0.0979,0.862,90.626,spotify:track:4wYqPn3Kg3vZrkVgW2oqAG,245400
+Jackson Browne,Tender Is The Night,12525,0.764,0.529,7,-7.157,1,0.0329,0.173,0.000164,0.0985,0.703,113.312,spotify:track:2CzYQ2ktwSMGnA5ypH2a8w,293000
+Journey,Send Her My Love,12526,0.48,0.739,4,-5.696,0,0.0373,0.0923,0.0,0.239,0.25,124.89,spotify:track:48Wu7j5ANO17SOpjb3oVPC,234547
+Berlin,Masquerade,12527,0.537,0.48,5,-17.777,1,0.0377,0.000786,6.11e-05,0.0927,0.751,153.715,spotify:track:5a1fGiptLjHn2L3qDFqzzy,248107
+Peter Schilling,Major Tom (Coming Home),12528,0.787,0.42,4,-14.32,0,0.0645,0.153,0.164,0.169,0.838,161.247,spotify:track:709ffFK4o4MtG1NKoLvOma,301373
+Carly Simon,You Know What To Do,12529,0.741,0.591,6,-13.968,0,0.0312,0.102,0.000396,0.159,0.933,126.589,spotify:track:6bHJK5foTbt9sWHYWSqG3x,252120
+Minor Detail,Canvas Of Life,12530,0.631,0.843,5,-7.489,0,0.0462,0.00708,0.157,0.0423,0.801,144.311,spotify:track:4vp1ooSVHvf7DDmlSRfpJ4,210445
+Graham Parker,Life Gets Better,12531,0.621,0.706,7,-11.705,1,0.051,0.199,0.0,0.135,0.782,137.594,spotify:track:1R7VKNLzUorQNoDdWOEPF8,193507
+Michael Stanley Band,My Town,12532,0.467,0.937,2,-7.647,1,0.0339,0.00036,0.00106,0.249,0.955,150.342,spotify:track:3zh6c0CVMcBdIdXfN5wDLM,236400
+Quarterflash,Take Another Picture,12533,0.689,0.497,2,-14.377,1,0.0319,0.263,5.6e-06,0.218,0.639,114.034,spotify:track:4XcUFQNTiX4IHmA4K51snP,212893
+The Human League,Mirror Man,12534,0.634,0.615,0,-11.145,1,0.0412,0.0635,5.1e-05,0.0551,0.519,133.601,spotify:track:52s6Ea6aSZMvPUIH0dSpk4,230373
+The Tubes,The Monkey Time,12535,0.77,0.745,4,-8.302,1,0.0405,0.0725,3.92e-05,0.0885,0.968,126.064,spotify:track:4yMA1dHFvvQeWGqPtdiuop,233200
+Paul Young,Wherever I Lay My Hat (That's My Home),12536,0.63,0.514,10,-8.005,1,0.0521,0.247,0.0,0.0989,0.477,89.128,spotify:track:04N18CfIbOJPnVLGOKgJNB,250053
+Electric Light Orchestra,Four Little Diamonds,12537,0.616,0.906,5,-6.25,1,0.0333,0.0784,0.000533,0.351,0.677,123.328,spotify:track:3JLX8R2EP8pjNna83AEO7X,249733
+Chaka Khan,Ain't Nobody,12539,0.538,0.924,1,-6.405,1,0.142,0.000856,0.000165,0.993,0.463,98.916,spotify:track:4wgIjFKBvyjWzrKKGFtfiu,319293
+Genesis,Mama,12540,0.565,0.884,9,-8.633,1,0.0618,0.383,0.208,0.38,0.67,82.914,spotify:track:6kIwzLSiQU51taaaZ9zWSE,408053
+AC/DC,Guns For Hire,12541,0.49,0.902,9,-3.759,1,0.0493,0.00331,0.354,0.0695,0.825,128.427,spotify:track:31F5kR9fPxI7lBV0Stfl4V,204720
+Lee Greenwood,Somebody's Gonna Love You,12542,0.673,0.185,7,-22.503,1,0.0294,0.695,0.0,0.0635,0.642,88.632,spotify:track:12OfUHapshY5lPelMfGL5z,224373
+Michael Jackson,P.Y.T. (Pretty Young Thing),12543,0.888,0.815,11,-4.909,0,0.0404,0.23,0.000424,0.127,0.961,127.273,spotify:track:5lA3pwMkBdd24StM90QrNR,238733
+Klique,Stop Doggin' Me Around,12545,0.739,0.351,1,-13.097,1,0.037,0.775,0.332,0.627,0.589,81.774,spotify:track:3ITjh2XhrdwCkFVjXcrTJf,288173
+The Romantics,Talking In Your Sleep,12546,0.72,0.967,9,-4.434,0,0.0343,0.0289,0.000345,0.142,0.977,129.766,spotify:track:7fRvtXvJMpGfTLdF0M09a1,235093
+The Pointer Sisters,I Need You,12547,0.865,0.567,5,-7.008,0,0.0455,0.124,0.0,0.0692,0.971,105.539,spotify:track:5GAzY9g3ZZxaP0DOOol3xO,241720
+John Cafferty & The Beaver Brown Band,On The Dark Side,12548,0.392,0.727,9,-11.913,1,0.155,0.0357,0.000239,0.754,0.365,171.653,spotify:track:7DhNAYOzIRkEFqimYl2s1G,161827
+Cliff Richard,Never Say Die (Give A Little Bit More),12549,0.756,0.643,8,-6.361,0,0.0382,0.0242,0.000495,0.128,0.841,101.728,spotify:track:1AmrdnYmIVhR7X0jBaz6Bw,222200
+John Cougar Mellencamp,Crumblin' Down,12551,0.782,0.905,7,-3.56,1,0.0789,0.0165,1.37e-06,0.0797,0.667,126.748,spotify:track:4uqmzWlYa0eLKmbcHNgLej,214133
+Asia,The Smile Has Left Your Eyes,12552,0.326,0.66,4,-8.534,1,0.0316,0.354,1.01e-05,0.106,0.381,85.176,spotify:track:1RvKjCpz3PbzogBMtVwxxa,193093
+Rick Springfield,Souls,12553,0.603,0.874,8,-8.262,1,0.0438,0.0493,0.0,0.0818,0.476,123.998,spotify:track:6GGvHY1q1i3RZFzksZGRU3,240360
+Debarge,Time Will Reveal,12555,0.711,0.259,0,-13.796,1,0.0359,0.528,0.0,0.0582,0.433,129.75,spotify:track:5dOAshdEVLDMjHBnlMrX12,259493
+Deborah Allen,Baby I Lied,12556,0.63,0.478,11,-10.589,1,0.0275,0.318,6.49e-05,0.0942,0.279,92.491,spotify:track:5KqGrafc3paz7bNPju5Ne9,250120
+Jeffrey Osborne,Stay With Me Tonight,12557,0.906,0.857,7,-9.804,0,0.0406,0.157,0.00059,0.126,0.968,120.755,spotify:track:0AXvsShBtCtMVx1kRPOu6T,298533
+New Edition,Is This The End,12558,0.674,0.28,5,-15.777,1,0.0282,0.482,3.51e-06,0.0751,0.389,69.042,spotify:track:7oQu8H2QfZCUaj5t1aOMRG,251400
+Culture Club,Church Of The Poison Mind,12559,0.597,0.902,7,-4.246,0,0.0355,0.0899,0.0,0.65,0.96,130.674,spotify:track:2DEEMhTiUMvkiHFdXkrKfI,212147
+Big Country,In A Big Country,12561,0.641,0.775,9,-6.419,1,0.0498,0.00184,0.177,0.0948,0.854,126.174,spotify:track:1tAFvq63jO3n9WaDCZPJNh,284067
+Barbra Streisand,The Way He Makes Me Feel,12562,0.202,0.197,11,-15.961,0,0.0398,0.829,4.8e-05,0.371,0.0894,89.19,spotify:track:6WpvSZEayPZvQSHEghFEp8,225960
+Naked Eyes,When The Lights Go Out,12563,0.637,0.842,9,-4.492,0,0.0273,0.225,0.0,0.352,0.924,98.092,spotify:track:16BBr5OO2J6M3OqKCy20m3,182560
+Jennifer Holliday,I Am Love,12564,0.396,0.314,7,-14.238,0,0.0375,0.168,0.0,0.0743,0.134,131.116,spotify:track:4EFThxuJ1AQeVhJG4vo8Vy,276800
+Bette Midler,Favorite Waste Of Time,12565,0.59,0.811,7,-6.243,1,0.0504,0.085,0.0,0.465,0.539,115.273,spotify:track:72ug00g96euwyQXdy3msvJ,159133
+"Joe ""Bean"" Esposito","Lady, Lady, Lady",12566,0.547,0.39,4,-14.038,0,0.0302,0.223,2.47e-05,0.446,0.193,84.345,spotify:track:3NtaLjEfNvafq0UM0dfUoc,249640
+Four Tops,I Just Can't Walk Away,12567,0.416,0.466,10,-9.296,1,0.0272,0.133,4.75e-06,0.122,0.263,157.976,spotify:track:1QMBPrEheDmXyC9dE820gd,260200
+Survivor,Caught In The Game,12568,0.667,0.667,11,-11.442,0,0.0297,0.135,4.49e-05,0.174,0.732,130.982,spotify:track:7oJha5sW0FFC5zSslt7MUG,286267
+Axe,I Think You'll Remember Tonight,12569,0.6,0.694,2,-6.972,1,0.0322,0.193,0.482,0.113,0.604,111.371,spotify:track:2BX0a19PiMVuUrg6jMRcMb,228611
+Daryl Hall John Oates,Say It Isn't So,12570,0.769,0.595,4,-11.796,0,0.028,0.0588,0.0,0.18,0.969,113.971,spotify:track:2bZswvNGESo7MKeg7SQ9rp,256673
+Elton John,I Guess That's Why They Call It The Blues,12571,0.673,0.663,0,-7.29,1,0.0269,0.217,0.017,0.177,0.671,120.634,spotify:track:23l1kVpqMVREiwU1YAlcr4,285333
+Stray Cats,I Won't Stand In Your Way,12572,0.489,0.429,3,-12.195,1,0.0272,0.474,0.0,0.173,0.606,104.983,spotify:track:6FKvNrS5jAYMnnJWrZUF3i,237467
+Alabama,Lady Down On Love,12573,0.348,0.0834,5,-16.06,1,0.0299,0.849,6.12e-06,0.123,0.138,82.98,spotify:track:1KzxCdjKTNAm7xaN4l3aT9,237227
+Madonna,Holiday,12574,0.813,0.699,7,-8.656,1,0.0458,0.0251,0.0135,0.0527,0.732,117.548,spotify:track:3ibAzRj9JnowdoLkyllk3n,231560
+Eye To Eye,Lucky,12575,0.655,0.79,10,-7.384,1,0.0482,0.12,0.000775,0.367,0.721,145.938,spotify:track:7gxTEzEkLPe5El51hlUxkz,243053
+Melissa Manchester,No One Can Love You More Than Me,12576,0.705,0.536,4,-12.86,0,0.0385,0.214,1.17e-05,0.523,0.74,96.936,spotify:track:5lIHzqJj7uRsnhvyvEuGyH,257000
+Heart,Allies,12577,0.48,0.336,10,-11.992,1,0.0319,0.112,0.0,0.106,0.114,67.394,spotify:track:3PlH7VdGsXd225ciH0ZWOg,281427
+Olivia Newton-John,Twist Of Fate,12578,0.605,0.693,1,-8.84,0,0.0409,0.253,0.00025,0.103,0.579,164.343,spotify:track:533BzrB9TWzWH27T9Ra7Um,218227
+The Police,Synchronicity II,12579,0.414,0.851,2,-8.714,1,0.0413,0.0675,0.0047,0.333,0.567,158.907,spotify:track:5ynO8cYFjDwELIZfFHHeYe,300467
+Duran Duran,Union Of The Snake,12580,0.617,0.86,11,-4.548,0,0.0896,0.138,9.32e-06,0.653,0.739,115.727,spotify:track:3JpaL6FMH9kjVWMA1mTmRl,259933
+Yes,Owner Of A Lonely Heart,12581,0.744,0.798,7,-5.981,1,0.0364,0.175,0.00367,0.26,0.89,125.061,spotify:track:0GTK6TesV108Jj5D3MHsYb,268507
+Paul Simon,Allergies,12582,0.566,0.574,7,-10.153,1,0.0628,0.191,0.000109,0.0294,0.61,87.026,spotify:track:6N9HB9cU7Vkjhy6L45RTNF,279080
+Kool & The Gang,Joanna,12583,0.857,0.602,10,-8.311,1,0.029,0.489,0.0244,0.317,0.957,105.157,spotify:track:6edQfeOlqbGteYixpJl3Sm,239627
+Rainbow,Street Of Dreams,12584,0.555,0.648,6,-8.791,0,0.0286,0.00199,3.83e-06,0.0597,0.659,119.848,spotify:track:2hDopFcMjFcRi5IRpTSSyr,265507
+Juice Newton,Dirty Looks,12585,0.578,0.892,11,-9.551,0,0.0425,0.122,0.00218,0.106,0.591,140.97,spotify:track:20GogLmpfkC60z7jf0GALK,228160
+The Rolling Stones,Undercover Of The Night,12586,0.603,0.973,5,-4.454,0,0.176,0.0272,0.00731,0.472,0.408,122.756,spotify:track:4N8oxV3hvn8Efyo4yxp3LG,273493
+Ray Parker Jr.,I Still Can't Get Over Loving You,12588,0.611,0.502,1,-13.684,1,0.0387,0.22,0.000106,0.0779,0.562,83.28,spotify:track:6gmp4cBAgsQOqqZQECbH4u,247653
+"Earth, Wind & Fire",Magnetic,12589,0.706,0.825,1,-9.121,1,0.038,0.0253,6.15e-05,0.363,0.854,140.45,spotify:track:7qcQracry44XombvUkiRvd,261773
+KISS,Lick It Up,12590,0.681,0.773,2,-6.051,1,0.058,0.181,1.84e-05,0.311,0.547,120.276,spotify:track:3cXiUuiGpFmZ8OdAWKk8Ck,236640
+The Moody Blues,Blue World,12591,0.656,0.696,9,-7.16,0,0.0349,0.344,1.66e-05,0.311,0.724,127.39,spotify:track:0GhAc4Q5FIRaq3qLV0NsWY,319147
+Shannon,Let The Music Play,12592,0.709,0.687,10,-10.462,0,0.0519,0.000893,0.000151,0.092,0.765,114.717,spotify:track:6b9hm8mvZ2KH7Fl7LLA5ct,214379
+Men Without Hats,I Like,12593,0.675,0.932,3,-6.685,1,0.0394,0.0329,1.05e-06,0.0892,0.75,141.165,spotify:track:5UFyR8cVjiyIFjOd7PhkBm,262920
+Real Life,Send Me An Angel,12595,0.605,0.926,7,-4.831,0,0.0372,0.0714,2.18e-05,0.0953,0.49,129.844,spotify:track:3HCDGtLZabH3umLgwCBpDB,236547
+Barry Manilow,Read 'Em And Weep,12596,0.528,0.747,10,-7.29,1,0.0328,0.651,1.47e-06,0.243,0.403,106.356,spotify:track:5fDN8p3bNKF8BTZXAEd1Vp,325827
+Spandau Ballet,Gold,12597,0.724,0.802,10,-6.117,0,0.0337,0.25,0.0016,0.342,0.729,143.116,spotify:track:0Z9UkcT1pnrmLciUJPcMMS,290720
+The Alan Parsons Project,You Don't Believe,12598,0.667,0.633,0,-10.836,0,0.0313,0.0683,4.12e-05,0.0725,0.574,122.827,spotify:track:5vhDFOTm51TGtGaPTtcTKY,266893
+Robert Plant,In The Mood,12599,0.607,0.723,7,-7.452,1,0.0282,0.17,0.0492,0.0779,0.298,101.558,spotify:track:1fOrdq5lDitklPno27DeHV,322960
+The S.O.S. Band,Tell Me If You Still Care,12601,0.584,0.781,4,-10.662,0,0.0402,0.0761,0.00533,0.101,0.923,81.155,spotify:track:0EjbVejkBlWGYrEF2YCUbA,416813
+Eddie Money,Big Crash,12602,0.494,0.804,2,-5.759,1,0.0389,0.00328,0.00538,0.083,0.799,157.877,spotify:track:2sht0YYskOiCZbc8g7foCp,219440
+Lionel Richie,Running With The Night,12603,0.755,0.664,9,-11.094,0,0.0342,0.0124,0.00511,0.153,0.768,120.171,spotify:track:1dJX2lSiKGbkjKMB9PJuBq,362371
+Genesis,That's All,12604,0.697,0.627,4,-7.941,0,0.0328,0.224,0.0138,0.06,0.797,87.695,spotify:track:2zFdsAIk9r2Mi7Lmm1w3sM,265533
+The Fixx,The Sign Of Fire,12605,0.833,0.624,7,-7.886,0,0.0536,0.253,0.001,0.118,0.913,124.215,spotify:track:0yzAjMhKNNUWTPYn1zKRDl,232014
+Saga,The Flyer,12606,0.513,0.673,0,-17.035,0,0.0367,0.101,0.00773,0.326,0.796,141.631,spotify:track:5rGq0mRowzxAz8SIXi6ZST,222800
+Talking Heads,This Must Be The Place (Naive Melody),12607,0.942,0.641,7,-10.15,1,0.0333,0.331,0.179,0.028,0.966,114.443,spotify:track:6aBUnkXuCEQQHAlTokv9or,296147
+Re-flex,The Politics Of Dancing,12608,0.685,0.957,11,-8.214,1,0.0445,0.0611,0.00025,0.317,0.809,127.27,spotify:track:6edIZ76uLiHDkW64VVxGk8,237333
+Midnight Star,Wet My Whistle,12609,0.791,0.713,7,-10.183,0,0.0334,0.0399,1.86e-05,0.0528,0.962,113.856,spotify:track:0R7pPCjKgC8ZOEUr2E8D9B,307817
+Joe Jackson,Memphis,12610,0.711,0.651,0,-7.897,1,0.0345,0.0176,0.624,0.166,0.819,141.39,spotify:track:5GNKNktRLp4UaGgQEp3G02,284733
+Culture Club,Karma Chameleon,12611,0.668,0.73,10,-7.182,1,0.0366,0.225,0.0,0.188,0.894,92.049,spotify:track:2wSAWEYUHkt92X4SBAPqZE,252773
+The Motels,Remember The Night,12612,0.661,0.79,9,-5.759,1,0.0311,0.0282,2.04e-06,0.125,0.784,130.848,spotify:track:6ZceMfTAlpxwNcK5C34wPp,192600
+Bonnie Tyler,Take Me Back,12613,0.457,0.733,10,-10.773,1,0.0341,0.00813,1.64e-06,0.279,0.536,118.212,spotify:track:3jmdzHB5KlQHwvqK65XzIS,322240
+Night Ranger,(You Can Still) Rock In America,12614,0.384,0.778,11,-12.719,0,0.0567,0.000372,0.000114,0.191,0.594,164.768,spotify:track:1anccAjNKZNKlTbHGheeCA,255160
+Jump 'n The Saddle,The Curly Shuffle,12615,0.632,0.484,9,-11.772,1,0.104,0.156,0.0,0.153,0.873,80.687,spotify:track:5Pijq9ImAu5xweS1lxAKwK,174707
+The Doors,Gloria,12616,0.506,0.407,9,-12.478,1,0.0429,0.0508,4.14e-06,0.286,0.633,128.622,spotify:track:1b11chGCTSN26rsBt0WNYP,378480
+Streets,If Love Should Go,12617,0.587,0.919,2,-6.225,1,0.0402,0.00252,0.00117,0.333,0.72,125.868,spotify:track:3kAiPXqapVgYwOiISlcexP,250840
+John Mellencamp,Pink Houses,12619,0.635,0.795,7,-5.313,1,0.0269,0.0514,3.08e-06,0.0751,0.628,115.23,spotify:track:5JKQMoGmXwDHCodn5pFVHB,283667
+Christopher Cross,Think Of Laura,12620,0.645,0.211,11,-12.73,1,0.0257,0.822,9.19e-06,0.138,0.174,86.121,spotify:track:5jLq63jMFWg0dKHnht6YI0,206640
+Nena,99 Luftballons,12621,0.575,0.555,4,-7.495,1,0.0453,0.103,1.3e-06,0.111,0.504,95.361,spotify:track:4ZhPLoMzZwewHLLjV1J15c,232467
+Rick James And Smokey Robinson,Ebony Eyes,12622,0.519,0.512,2,-8.019,1,0.0261,0.151,0.0,0.0982,0.41,140.862,spotify:track:5OkKBvwlWUpvScKaTXpmfB,302787
+Dolly Parton,Save The Last Dance For Me,12623,0.662,0.609,11,-10.865,1,0.0399,0.181,3.09e-05,0.0728,0.326,139.319,spotify:track:7se8roGyU7pinYwrhOVklr,232721
+Sheena Easton,Almost Over You,12625,0.34,0.274,8,-10.67,1,0.0301,0.85,0.0,0.244,0.304,139.044,spotify:track:5mKqa89zAVKXMRY92haT6p,221493
+Crystal Gayle,The Sound Of Goodbye,12626,0.503,0.697,8,-5.2,1,0.0659,0.172,0.0,0.291,0.427,208.755,spotify:track:5Cq5jkGEUuwCge5YqLMEiT,192827
+Atlantic Starr,Touch A Four Leaf Clover,12627,0.717,0.483,1,-13.471,0,0.11,0.475,4.37e-06,0.105,0.581,78.031,spotify:track:3bog0mq0uJu6NeBynkMM6x,266253
+Pretenders,Middle Of The Road,12628,0.488,0.959,9,-5.575,1,0.0758,0.00333,0.0767,0.025,0.67,166.799,spotify:track:1YhyOTcVjHe73cm6tYrHkA,254293
+Billy Joel,An Innocent Man,12629,0.509,0.382,0,-9.441,1,0.0351,0.0466,0.0,0.112,0.427,105.764,spotify:track:1Gg14U26oq94uWcG7khccX,318000
+Stevie Nicks,Nightbird,12630,0.663,0.511,0,-8.744,1,0.0293,0.106,1.05e-05,0.0769,0.687,125.22,spotify:track:1V6e1N41YKbIl6LaUYrVzs,301293
+Cyndi Lauper,Girls Just Want To Have Fun,12631,0.71,0.799,6,-4.897,1,0.0328,0.22,0.000602,0.349,0.725,120.372,spotify:track:4y1LsJpmMti1PfRQV9AWWe,238267
+Diana Ross,Let's Go Up,12632,0.733,0.652,10,-7.156,0,0.0356,0.486,0.00798,0.116,0.66,138.834,spotify:track:0cP6MyvBwQwYnGqNAS3lkf,242373
+Bob Dylan,Sweetheart Like You,12633,0.555,0.375,1,-11.308,0,0.0418,0.627,1.96e-05,0.0751,0.487,138.992,spotify:track:2KVrZKnaDbu9Ik9aMHe8J3,273667
+Prince,LET's PRETEND WE'rE MARRIED,12634,0.787,0.668,10,-7.599,0,0.182,0.00875,0.000242,0.431,0.807,184.652,spotify:track:1gaubSBzxXC1PyHGAzHbI3,439994
+Twilight 22,Electric Kingdom,12635,0.819,0.624,6,-11.727,1,0.0599,0.00816,0.21,0.0523,0.706,127.179,spotify:track:1XCKE65GRGauDKnyFAKDN5,286040
+Paul McCartney,So Bad,12636,0.675,0.306,7,-14.007,1,0.0269,0.404,3.69e-06,0.125,0.564,87.945,spotify:track:5DAiPy6Igp619HsJZR6FRM,202053
+KC,Give It Up,12637,0.862,0.624,3,-11.63,1,0.0565,0.0192,0.000153,0.0465,0.882,124.896,spotify:track:3yDhZq8f17SmumVmEyCaRN,254240
+Michael Stanley Band,Someone Like You,12639,0.373,0.947,9,-7.074,1,0.0483,0.00712,0.119,0.0395,0.64,152.183,spotify:track:4rRqXbneAUDmXTWDh9WKAe,346000

@@ -1,0 +1,311 @@
+artist,song,lyricId,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,uri,duration_ms
+Alicia Keys,Empire State Of Mind (Part II) Broken Down,21471,0.484,0.368,6,-7.784,1,0.0341,0.74,3.82e-05,0.118,0.142,92.923,spotify:track:5sra5UY6sD658OabHL3QtI,216480
+Eminem,Elevator,21472,0.796,0.793,7,-3.911,1,0.318,0.323,0.0,0.332,0.556,90.51,spotify:track:26rUU3JZ9JB9OkEuG9mb3e,292933
+Adam Lambert,Whataya Want From Me,21473,0.44,0.683,11,-4.732,0,0.0489,0.00706,0.0,0.0593,0.445,185.948,spotify:track:2rDwdvBma1O1eLzo29p2cr,227320
+Robin Thicke,Sex Therapy,21474,0.702,0.53,3,-4.384,1,0.0296,0.679,0.0,0.241,0.319,112.036,spotify:track:6MmxDAqXSxFS9dLQs1l7DT,275147
+Selena Gomez & The Scene,Naturally,21476,0.605,0.902,10,-5.406,0,0.0511,0.0185,1.01e-06,0.0534,0.875,132.612,spotify:track:1YaVmBh7EAeR54FIjuFcb5,202587
+Eminem,Music Box,21479,0.635,0.712,4,-5.151,0,0.11,0.0131,0.0,0.187,0.458,78.598,spotify:track:1PokNDiTBQZgXci6rn2BVE,304907
+Lady Antebellum,American Honey,21480,0.588,0.684,1,-5.154,1,0.0288,0.508,0.0,0.141,0.121,85.997,spotify:track:4xInIiKipU1mtUogJ3ZdYr,224867
+Ke$ha,Your Love Is My Drug,21483,0.902,0.623,6,-6.647,1,0.0967,0.0626,0.0,0.0654,0.725,120.05,spotify:track:2DKE0fl2pO9dkljuupQZb5,179667
+Ke$ha,Take It Off,21484,0.923,0.742,1,-4.319,1,0.0349,0.00633,3.45e-05,0.049,0.747,110.013,spotify:track:5YT0DNi6fN4rzd0SX90VR8,241319
+Lady Antebellum,Love This Pain,21485,0.639,0.905,11,-3.044,1,0.0409,0.00876,1.54e-06,0.364,0.792,127.972,spotify:track:5WGQT9EYapix3MpDKFMwDN,183653
+Timbaland Featuring Drake,Say Something,21486,0.555,0.713,11,-4.549,1,0.0911,0.0845,0.0,0.712,0.725,79.934,spotify:track:7qje9qxLncMESiPeI27SAn,240920
+Easton Corbin,A Little More Country Than That,21487,0.64,0.6,11,-8.534,1,0.0318,0.0795,1.5e-06,0.106,0.593,84.969,spotify:track:7LrZ3SczM7zlUkVlhevPp2,172227
+Sade,Soldier Of Love,21488,0.775,0.572,0,-8.427,0,0.0633,0.0117,0.0293,0.0847,0.64,90.023,spotify:track:0bgsj8kz5zWbQ6njk2Oqoz,356653
+Lady Antebellum,Ready To Love Again,21489,0.555,0.638,4,-5.012,1,0.027,0.313,0.0,0.122,0.185,102.676,spotify:track:4jJEEPrPMTMHpabgjefRN7,173267
+Miley Cyrus,When I Look At You,21492,0.459,0.545,6,-4.874,1,0.0282,0.142,0.0,0.105,0.194,137.941,spotify:track:7ywzEdEuVG1lsjsRCGJfLy,248587
+Keith Urban,'Til Summer Comes Around,21493,0.57,0.629,9,-7.608,0,0.0331,0.593,0.000136,0.77,0.308,127.907,spotify:track:1CKmI1IQjVEVB3F7VmJmM3,331467
+Zac Brown Band,Highway 20 Ride,21494,0.55,0.402,3,-7.195,1,0.0339,0.551,1.38e-05,0.105,0.428,76.105,spotify:track:2oAGUpLorRToXExl2FtUVy,229280
+Pearl Jam,Just Breathe,21495,0.473,0.348,0,-11.1,1,0.0288,0.721,7.42e-05,0.0823,0.283,107.819,spotify:track:6i81qFkru6Kj1IEsB7KNp2,215853
+Taylor Swift,Today Was A Fairytale,21496,0.482,0.779,7,-5.025,1,0.0409,0.0135,0.0,0.296,0.328,158.162,spotify:track:2JoJrsEV15OzbijS47lids,241822
+Lady Antebellum,Our Kind Of Love,21500,0.632,0.926,4,-3.463,1,0.0322,0.047,0.000169,0.116,0.889,112.058,spotify:track:4mtIIpksLr41WmzNHyUtKy,249253
+Eddie Vedder,My City Of Ruins (Live From The Kennedy Center Honors),21505,0.448,0.322,2,-12.683,1,0.0428,0.772,0.0,0.947,0.331,82.239,spotify:track:21BL3kK8feVhrEz27j2GER,241643
+Jason Michael Carroll,Hurry Home,21508,0.617,0.453,2,-7.956,1,0.0316,0.248,0.0,0.109,0.252,133.958,spotify:track:61aJPoKikSDWTNnyp4fzgf,242867
+P!nk,Glitter In The Air,21509,0.514,0.255,5,-12.037,1,0.0283,0.898,0.000235,0.0994,0.298,99.851,spotify:track:1M6dQ8MZQnYxjH8yZzswQt,227813
+Dave Matthews Band,You And Me,21511,0.652,0.627,7,-7.313,1,0.0894,0.436,8.11e-06,0.0674,0.315,137.867,spotify:track:12ZdBjNAfRXZZTvMSrJPUb,340533
+Gucci Mane,Lemonade,21515,0.741,0.658,7,-7.758,1,0.0853,0.643,3.43e-06,0.307,0.746,142.057,spotify:track:6rUcS9i07F6okIe8wujs5J,246013
+Shiny Toy Guns,Major Tom,21516,0.637,0.79,10,-6.776,0,0.0383,0.0458,0.0041,0.249,0.607,164.822,spotify:track:6MQdIVpcXuaa9QpuCd33ei,262333
+Artists For Haiti,We Are The World 25: For Haiti,21517,0.348,0.717,4,-5.634,1,0.0882,0.311,0.0,0.0786,0.28,66.21,spotify:track:07rhyW77lp2bGv8EQoZy6k,416778
+Iyaz,Solo,21518,0.73,0.728,11,-3.113,1,0.0291,0.197,0.0,0.197,0.68,130.061,spotify:track:3fV2ZnSsxgvXUHshkGCBdR,194267
+General Larry Platt,Pants On The Ground,21519,0.836,0.768,6,-5.47,0,0.0969,0.0295,0.0,0.513,0.613,95.025,spotify:track:2aYguRih2pKaKXiW7UFrbA,210547
+Rihanna,Rude Boy,21520,0.563,0.75,11,-4.496,1,0.127,0.113,0.0,0.0788,0.812,173.906,spotify:track:60jzFy6Nn4M0iD1d94oteF,222920
+Monica,Everything To Me,21522,0.308,0.529,7,-5.319,0,0.0874,0.479,0.0,0.441,0.485,80.794,spotify:track:4ZOkuIDN8wRczzu1XUYC4y,196960
+Waka Flocka Flame,O Let's Do It,21523,0.682,0.513,1,-6.312,0,0.396,0.0128,0.0,0.212,0.338,130.085,spotify:track:0wCC06ziWEkYOif44iFggw,248533
+Christopher Wilde,Hero,21525,0.333,0.902,3,-4.65,1,0.123,0.0279,0.0,0.115,0.601,185.539,spotify:track:3q3pZHncNkvIWJebMeuQqQ,196893
+k.d. lang,Hallelujah (Vancouver Winter 2010 Version),21526,0.256,0.219,1,-9.617,0,0.0354,0.869,5.09e-05,0.108,0.098,172.686,spotify:track:0eMBT8pajtxCOmQYSVpcxE,337600
+Usher,There Goes My Baby,21528,0.626,0.52,9,-8.077,0,0.0892,0.175,0.0,0.13,0.257,77.468,spotify:track:6IUiqtI8tE49sqGbmtrNd8,281293
+Christopher Wilde,StarStruck,21529,0.555,0.8,0,-4.835,1,0.0776,0.0353,0.0,0.0783,0.801,174.007,spotify:track:03teNQu8rWlFnNzF1ULXIq,175027
+Trey Songz,Neighbors Know My Name,21536,0.663,0.693,7,-5.776,0,0.0635,0.0379,0.0,0.162,0.391,120.026,spotify:track:6jvvpPJQJy5rMOEkLlADl6,186307
+Matisyahu,One Day,21537,0.346,0.61,0,-5.818,1,0.15,0.198,0.0,0.117,0.235,68.552,spotify:track:0nCZDQrlWA149QdGTdlsFU,207573
+Joe Nichols,Gimmie That Girl,21539,0.5,0.9,2,-3.577,1,0.117,0.205,0.000251,0.694,0.675,162.249,spotify:track:7xoBJ4hih949Jeu5ZfzBai,185453
+Justin Moore,Backwoods,21540,0.497,0.932,8,-5.029,1,0.0527,0.0678,2.5e-06,0.116,0.774,157.884,spotify:track:3mSAhPW73pyeKoquI7E8B3,155893
+Justin Bieber,Never Let You Go,21541,0.66,0.811,0,-4.852,1,0.0357,0.00141,1.17e-06,0.251,0.675,103.191,spotify:track:01BlGnXpLuC0BjgUxVYZFb,264400
+Jason Derulo,Ridin' Solo,21542,0.442,0.83,9,-4.02,1,0.146,0.128,0.0,0.129,0.578,89.338,spotify:track:6BaxqcoEM9r3LXisTyJjST,215747
+Avril Lavigne,Alice,21544,0.536,0.824,0,-4.403,1,0.0767,0.0458,0.000199,0.174,0.172,119.004,spotify:track:4gLVsEaNMpzkCAM0hXgDoi,300987
+Godsmack,Cryin' Like A Bitch!,21546,0.543,0.808,10,-5.484,1,0.0407,7.19e-05,0.00336,0.114,0.472,95.19,spotify:track:4a9i7rCLfPjbS1sNamZeQN,201667
+Danny Gokey,My Best Days Are Ahead Of Me,21547,0.615,0.822,11,-4.499,1,0.0399,0.109,0.0,0.127,0.398,119.997,spotify:track:5w7GCrY0J4oTI9jWlma82d,186133
+La Roux,Bulletproof,21548,0.674,0.882,3,-2.771,0,0.0477,0.000441,6.47e-05,0.068,0.682,123.016,spotify:track:3kMrazSvILsgcwtidZd1Qd,205733
+Chris Young,The Man I Want To Be,21549,0.489,0.498,7,-5.055,1,0.0259,0.635,1.91e-06,0.0915,0.248,141.883,spotify:track:5zMRkxgFscsPItPsMy4ItS,207213
+Steel Magnolia,Keep On Lovin' You,21550,0.511,0.781,9,-4.681,1,0.0479,0.0719,0.0,0.265,0.512,159.953,spotify:track:5mrpWeULubsdBHpQVcXLqB,182587
+Eric Church,Hell On The Heart,21551,0.637,0.89,0,-3.877,1,0.0312,0.0832,1.9e-06,0.0892,0.928,123.002,spotify:track:6wo9obXjAhA8Yc90sswR56,164733
+Drake,Over,21552,0.35,0.845,7,-5.614,1,0.2,0.0107,0.0,0.123,0.45,99.643,spotify:track:6BdgtqiV3oXNqBikezwdvC,233560
+Sam Adams,Driving Me Crazy,21553,0.79,0.718,8,-4.053,1,0.0357,0.00365,0.0,0.1,0.849,120.98,spotify:track:2KQGs6oyLQwfqSZ5Zs0eje,243603
+Mario,Ooh Baby,21554,0.622,0.593,8,-6.779,0,0.0363,0.00611,2.17e-05,0.263,0.374,75.025,spotify:track:0IneDe6NkMtTOb5q2SPXfq,220400
+Justin Bieber,U Smile,21555,0.705,0.59,1,-5.308,1,0.0284,0.504,0.0,0.116,0.421,112.565,spotify:track:6Xw2FLih8m5ItDbyP992HH,196907
+Spose,I'm Awesome,21557,0.478,0.933,0,-5.814,1,0.353,0.54,0.0,0.923,0.442,98.949,spotify:track:2y5SlUCjaItQI5lmakJ6ib,179774
+Usher,More,21558,0.551,0.893,7,-2.628,1,0.0543,0.00166,0.0,0.348,0.794,125.083,spotify:track:0aBKFfdyOD1Ttvgv0cfjjJ,219987
+The-Dream,Love King,21560,0.628,0.678,10,-4.417,1,0.0297,0.026,0.0,0.123,0.36,83.995,spotify:track:2AGgputZd6NC15fPhZdhcN,251827
+Maxwell,Fistful Of Tears,21561,0.744,0.62,0,-6.995,1,0.0558,0.176,0.0,0.101,0.701,123.032,spotify:track:3uMigZrW9l9De8roOy6CAn,219267
+Young Money,Roger That,21565,0.482,0.627,2,-7.561,1,0.116,0.00827,0.0,0.701,0.293,157.58,spotify:track:4UXpJDvdsfneLvT09oJocg,209827
+Jaron And The Long Road To Love,Pray For You,21566,0.506,0.632,10,-5.983,1,0.0392,0.596,0.0,0.141,0.483,139.957,spotify:track:68wTP3pPT5uAQsrwVX4DSS,192784
+Luke Bryan,Rain Is A Good Thing,21567,0.622,0.932,11,-4.66,0,0.0498,0.105,2.37e-06,0.328,0.519,108.051,spotify:track:1YhFtqwcN138S6ng3MT1nN,176160
+Justin Bieber,That Should Be Me,21568,0.552,0.603,8,-5.71,1,0.0334,0.199,0.0,0.151,0.231,139.908,spotify:track:0aPZbnkMoWJaJ5CNVLCj8S,232720
+Martina McBride,Wrong Baby Wrong,21569,0.572,0.673,6,-5.565,1,0.042,0.0596,0.0,0.0887,0.573,106.024,spotify:track:0F9BbXn7zjDkM6SRJvkBOd,221667
+Miranda Lambert,The House That Built Me,21570,0.525,0.3,5,-8.005,1,0.0286,0.578,8.3e-06,0.116,0.206,80.993,spotify:track:02eD9ymfJOJOhM97HYp5R9,236627
+Colbie Caillat,I Never Told You,21571,0.506,0.639,3,-5.222,1,0.0285,0.171,0.0,0.315,0.385,144.073,spotify:track:2rJWnAqSuLMls0KOv416Io,233200
+Lady Gaga,Alejandro,21574,0.683,0.888,11,-5.297,0,0.0741,0.00214,0.00112,0.337,0.683,127.061,spotify:track:4N1O1VfcfFDK2ItsLQJMsG,348853
+Erykah Badu,Window Seat,21576,0.643,0.535,0,-6.795,0,0.0941,0.648,0.00213,0.0766,0.564,82.193,spotify:track:74HYrIbnpc2xKCTenv5qKM,289720
+Clay Walker,She Won't Be Lonely Long,21577,0.635,0.758,7,-5.772,1,0.0243,0.00643,0.0,0.229,0.322,113.002,spotify:track:0158TMiGmHyibaDeaUKayX,209253
+Jack Johnson,You And Your Heart,21578,0.78,0.572,2,-5.999,1,0.0316,0.363,0.000457,0.0787,0.863,107.067,spotify:track:3daDd8yhWLgeWyCeZp9eIj,192853
+Nickelback,This Afternoon,21580,0.507,0.875,7,-7.697,1,0.0389,0.00257,0.0,0.346,0.647,160.079,spotify:track:1RG8MABX0VciDk6WYb8pBv,273493
+Miranda Cosgrove,Kissin U,21581,0.624,0.86,0,-3.129,0,0.043,0.0119,0.0,0.0598,0.521,110.018,spotify:track:3pt4BDnaMo2vznoVSv7b2y,199693
+Alicia Keys,Un-Thinkable (I'm Ready),21582,0.596,0.505,7,-7.892,1,0.0619,0.732,1.97e-05,0.106,0.335,86.097,spotify:track:4JOP8ELK6AaeySe7sKe996,249240
+Kelly Clarkson,All I Ever Wanted,21584,0.633,0.866,11,-3.633,1,0.0443,0.0103,0.0,0.227,0.696,100.007,spotify:track:31wPF6zccO0cINHfUS7wWb,239107
+Christina Aguilera,Not Myself Tonight,21586,0.757,0.812,7,-5.178,1,0.0395,0.00137,0.018,0.563,0.542,120.015,spotify:track:29CFPJaBW3ZfVeCI8EDnQa,186493
+Glee Cast,Gives You Hell,21587,0.752,0.605,6,-5.569,0,0.032,0.0807,0.0,0.112,0.789,100.007,spotify:track:7oN2q9L9YShc6weFVvnnxA,206667
+Glee Cast,Hello Goodbye,21589,0.464,0.757,0,-5.455,1,0.0326,0.081,0.0,0.102,0.227,101.067,spotify:track:66MibHybwVbdo65IOZIj97,209387
+Glee Cast,"Hello, I Love You",21590,0.375,0.856,11,-6.113,0,0.078,5.31e-05,0.000682,0.238,0.672,117.112,spotify:track:41RxdTltq3TM5AbOLHVR28,139760
+Jason Aldean,Crazy Town,21591,0.43,0.841,6,-2.99,1,0.037,0.13,0.0,0.0517,0.489,180.977,spotify:track:5eH1ktZDHgegpkYJOY7tme,183440
+Brad Paisley,Water,21592,0.562,0.825,5,-5.794,1,0.0269,0.00493,0.000629,0.57,0.694,97.54,spotify:track:5z1T8M153gyxX6IKJemYX7,261920
+Glee Cast,Borderline / Open Your Heart,21595,0.618,0.75,2,-4.528,1,0.0382,0.0675,0.0,0.104,0.228,118.031,spotify:track:1ojdrbpUqSQ8ItXs4tZQwd,135800
+Glee Cast,Like A Virgin,21596,0.678,0.845,4,-3.05,0,0.0475,0.0651,0.0,0.0841,0.763,119.999,spotify:track:7FUNGlYkniRH0qhSHWU5HK,195093
+Shontelle,Impossible,21597,0.599,0.624,8,-3.631,1,0.0343,0.385,0.0,0.125,0.539,90.034,spotify:track:45EDI3rk0f4cAMt9f8b56R,226533
+Glee Cast,4 Minutes,21598,0.675,0.942,7,-3.096,0,0.0518,0.0052,0.000167,0.0764,0.414,112.938,spotify:track:5aWlISJTMKHHThgoXIYUw8,189400
+Reba,I Keep On Loving You,21599,0.538,0.461,10,-5.676,1,0.0279,0.353,0.0,0.118,0.299,127.107,spotify:track:3e4ZaMM2t6Pv25W05KfZTP,193893
+Tim McGraw,Still,21600,0.413,0.612,1,-6.625,1,0.0276,0.261,0.000875,0.132,0.23,173.412,spotify:track:6xZ3fQFc5MtlUofBqtsUgA,224147
+Glee Cast,Beautiful,21603,0.253,0.42,5,-6.241,0,0.0335,0.63,0.0,0.11,0.102,64.967,spotify:track:2b1f2Z5rpQUYKOyrOd770k,239467
+The Black Eyed Peas,Rock That Body,21604,0.771,0.692,7,-8.365,1,0.0555,0.0255,0.0,0.584,0.798,125.006,spotify:track:4e9AWHy3ULi2poxShu3Bn7,269035
+Shakira,Gypsy,21606,0.764,0.763,6,-5.109,1,0.0576,0.641,0.0,0.0706,0.511,92.727,spotify:track:3FESsHW8mAuiIsYpK6aJ6u,198827
+Glee Cast,A House Is Not A Home,21607,0.266,0.354,5,-6.133,0,0.0318,0.728,0.0,0.123,0.134,106.3,spotify:track:3aiKybRCTBazAplseCewQc,282920
+Mike Posner,Cooler Than Me,21609,0.768,0.82,7,-4.63,0,0.0474,0.179,0.0,0.689,0.625,129.965,spotify:track:2V4bv1fNWfTcyRJKmej6Sj,213293
+Jerrod Niemann,"Lover, Lover",21610,0.879,0.567,7,-6.509,1,0.0588,0.186,0.0,0.622,0.948,112.473,spotify:track:5UzU0qw21okODBNUnxptVo,193733
+Big Time Rush,Halfway There,21612,0.541,0.91,8,-4.725,1,0.052,0.000927,0.0,0.146,0.351,143.022,spotify:track:6L4PjBaEjTxI0sOBGq8OQg,212813
+Alpha Rev,New Morning,21614,0.191,0.682,5,-7.188,1,0.0413,0.05,5.49e-06,0.156,0.407,178.071,spotify:track:7aOH8ShpP7P64x9fyTHxyc,224827
+Eminem,Not Afraid,21615,0.855,0.954,0,-1.19,0,0.264,0.529,0.0,0.205,0.668,114.635,spotify:track:7Ie9W94M7OjPoZVV216Xus,248133
+Drake,Find Your Love,21618,0.627,0.614,6,-6.006,0,0.17,0.0211,0.0,0.0286,0.758,96.038,spotify:track:4BycRneKmOs6MhYG9THsuX,208947
+Glee Cast,Ice Ice Baby,21621,0.98,0.816,7,-8.087,1,0.0831,0.0192,0.00298,0.0554,0.787,120.019,spotify:track:222xITHDi1QPjFC1I83dPm,205120
+Glee Cast,U Can't Touch This,21623,0.801,0.947,7,-4.515,1,0.0954,0.00866,8.87e-06,0.122,0.92,133.381,spotify:track:5E10OlQFbgG8FjNw0bBHw3,247160
+Lee Brice,Love Like Crazy,21624,0.535,0.725,10,-5.108,1,0.0275,0.0203,1.45e-05,0.176,0.292,78.489,spotify:track:6Ozp6ac86CSHMik8lbvJuM,217387
+Theory Of A Deadman,All Or Nothing,21625,0.419,0.785,10,-4.483,0,0.0313,0.0289,0.0,0.0799,0.332,152.053,spotify:track:2ejt6exJRE2bXPfp37Xi8w,210560
+Glee Cast,Jessie's Girl,21627,0.736,0.843,1,-5.654,1,0.0511,0.0144,0.0,0.0952,0.693,131.049,spotify:track:3aKNGl01j8n9RZY7XHWPMz,194467
+Glee Cast,One,21629,0.732,0.9,0,-4.957,1,0.0626,0.0753,3.68e-05,0.128,0.694,106.998,spotify:track:22k97IzqwfJvz1Fk0C5nW1,167293
+Glee Cast,The Boy Is Mine,21630,0.648,0.729,1,-5.234,0,0.042,0.181,0.0,0.179,0.499,93.151,spotify:track:6XsvT9BGwhOHCXXBzkahnu,293680
+Glee Cast,Lady Is A Tramp,21631,0.326,0.687,10,-3.785,0,0.0531,0.159,0.0,0.341,0.554,200.035,spotify:track:05U9c8s9N8YUXNzGv3k4c7,166200
+Glee Cast,Rose's Turn,21634,0.545,0.399,10,-6.908,0,0.0529,0.717,0.0,0.117,0.501,103.266,spotify:track:5IEjk9xrbtTlnoRznXTIMz,120160
+3OH!3,Touchin On My,21639,0.538,0.876,1,-3.559,1,0.139,0.03,0.0,0.251,0.527,83.949,spotify:track:1LjHre9uHSLMuUrKsl6ppX,183107
+Avenged Sevenfold,Nightmare,21640,0.554,0.949,2,-4.928,1,0.0787,0.000318,9.98e-05,0.2,0.233,129.984,spotify:track:4UEo1b0wWrtHMC8bVqPiH8,374453
+Muse,Neutron Star Collision (Love Is Forever),21641,0.287,0.9,1,-5.852,1,0.0932,0.00379,1.48e-05,0.0876,0.132,127.997,spotify:track:4AIazttPmHpd7p7pwJw692,230256
+Glee Cast,Safety Dance,21643,0.637,0.902,6,-5.547,1,0.0371,0.00532,0.00142,0.106,0.701,105.012,spotify:track:3PYRn2lgbjuVB4w3BPQ8gs,199413
+Glee Cast,Bad Romance,21644,0.628,0.922,9,-4.638,0,0.0759,0.0055,3.69e-06,0.181,0.532,119.005,spotify:track:0LpE5tfNe15QLvQL4YDi7T,294227
+Zac Brown Band,Free,21645,0.453,0.412,1,-7.539,1,0.0276,0.24,0.00021,0.101,0.282,75.752,spotify:track:5moWmr7qWnYH7LIUrYMk32,228653
+Gyptian,Hold You (Hold Yuh),21646,0.69,0.621,8,-3.583,1,0.06,0.321,2.81e-05,0.0884,0.497,66.858,spotify:track:0j55p8YRAPG8yajtNyjt6A,233253
+Glee Cast,Poker Face,21647,0.467,0.195,4,-9.281,1,0.0656,0.924,0.0,0.138,0.288,75.896,spotify:track:1rc7RzuBYQ9KZIntUyEAVb,219613
+Lee DeWyze,Beautiful Day,21648,0.483,0.79,0,-4.872,1,0.0517,0.0198,3.14e-05,0.143,0.29,135.121,spotify:track:2uLNwZvdN7lOvlqT9ebjkB,237520
+Crystal Bowersox,Up To The Mountain,21650,0.351,0.362,0,-6.573,1,0.0275,0.701,4.52e-06,0.122,0.151,115.135,spotify:track:47Dey0jXZv5PdGmCGR1jYa,233200
+Glee Cast,Beth,21651,0.514,0.267,0,-9.822,1,0.0319,0.771,1.41e-06,0.137,0.297,119.775,spotify:track:2Ya2rGB2Bl4dJqJznK1XfD,157613
+Will Young,Leave Right Now,21652,0.641,0.445,6,-8.674,1,0.0368,0.145,0.0,0.108,0.383,81.931,spotify:track:4mZsyuthp695XQWwb2g3qe,214733
+Paramore,The Only Exception,21653,0.452,0.563,4,-6.607,1,0.0272,0.144,0.0,0.143,0.209,137.715,spotify:track:7JIuqL4ZqkpfGKQhYlrirs,267653
+Cali Swag District,Teach Me How To Dougie,21654,0.846,0.438,11,-4.981,1,0.141,0.2,9.43e-05,0.0939,0.512,85.013,spotify:track:61LtVmmkGr8P9I2tSPvdpf,237480
+Taio Cruz,Dynamite,21659,0.754,0.804,4,-3.177,1,0.0853,0.00332,0.0,0.0329,0.818,119.968,spotify:track:1DqdF42leyFIzqNDv9CjId,203867
+T.I.,Yeah Ya Know (Takers),21661,0.457,0.895,1,-5.987,1,0.0722,0.00112,0.0,0.523,0.236,139.923,spotify:track:4JGypFKEHrlufSjF8DPl9X,249800
+Nicki Minaj,Your Love,21662,0.422,0.52,11,-10.231,1,0.343,0.00204,0.00413,0.411,0.184,189.63,spotify:track:1w6kG4Rc29m5EherbvpkF5,245253
+Glee Cast,Good Vibrations,21663,0.753,0.975,7,-4.621,1,0.104,0.00223,0.001,0.0229,0.585,122.001,spotify:track:2lleIGI5aBkn3oMCvDnAHs,253333
+3OH!3,Deja Vu,21664,0.654,0.817,11,-4.908,0,0.266,0.0816,0.0,0.41,0.794,127.991,spotify:track:70sK7T5SzRs6QFHA1LLfrw,184667
+Glee Cast,Another One Bites The Dust,21665,0.95,0.432,9,-5.457,1,0.109,0.0249,1.43e-05,0.155,0.769,109.99,spotify:track:7cyCKchU5G6x2kHzMkhnED,180760
+Billy Currington,Pretty Good At Drinkin' Beer,21666,0.769,0.678,5,-3.725,1,0.0315,0.427,8.04e-06,0.0939,0.581,106.951,spotify:track:6a7wXoZOARI8IqEXObjhDz,179907
+Glee Cast,Tell Me Something Good,21667,0.693,0.759,9,-4.544,1,0.0566,0.364,0.0,0.207,0.881,81.031,spotify:track:2FxMd2hPJh44L0N9VhjX6n,194867
+Glee Cast,Loser,21668,0.701,0.864,3,-4.351,1,0.0631,0.00331,0.0,0.0421,0.811,106.034,spotify:track:3iAvTn62s7rvE6hm6fFodt,199000
+Little Big Town,Little White Church,21669,0.667,0.878,10,-4.797,1,0.0445,0.13,0.0,0.16,0.816,107.024,spotify:track:0f73zOCdBx6ZPdiBjwN1AP,186224
+Glee Cast,"It's A Man's, Man's Man's World",21670,0.645,0.375,3,-6.138,0,0.0279,0.729,2.16e-05,0.102,0.534,81.027,spotify:track:79MUzUStA60r6XweR9T4iP,176413
+V V Brown,Shark In The Water,21672,0.554,0.805,4,-3.128,1,0.0597,0.0279,0.0,0.359,0.697,98.981,spotify:track:0BLPuaA32HDg6AJTUT4WMl,184293
+Neon Trees,Animal,21673,0.482,0.833,5,-5.611,1,0.0449,0.000346,0.0,0.365,0.74,148.039,spotify:track:1fBl642IhJOE5U319Gy2Go,212293
+Glee Cast,Faithfully,21675,0.411,0.54,4,-5.788,1,0.0289,0.143,0.0,0.111,0.0997,129.876,spotify:track:7Fn84f1WeWabP3aFXW5TA8,273867
+Glee Cast,Over The Rainbow,21677,0.498,0.352,0,-9.495,1,0.0297,0.842,0.0,0.122,0.472,166.028,spotify:track:4ScByt6H4vaiTlXS8dNQOc,151920
+Glee Cast,Any Way You Want It/Lovin' Touchin' Squeezin',21678,0.463,0.839,9,-3.084,1,0.0361,0.00416,0.0,0.442,0.614,145.935,spotify:track:7cHROTw8JRjEaO3hDf1GZN,187413
+Christina Aguilera,Bionic,21679,0.422,0.933,2,-2.439,1,0.196,0.0654,0.0,0.382,0.854,175.99,spotify:track:3Vf1gIyoOSHPQTycGpVKju,201267
+Ne-Yo,Beautiful Monster,21680,0.708,0.771,5,-6.99,0,0.131,0.209,5.32e-06,0.277,0.494,128.013,spotify:track:2Q99zPXVqCPN5RaZawvJWZ,251573
+Glee Cast,To Sir With Love,21682,0.29,0.524,4,-6.667,1,0.0286,0.225,0.0,0.176,0.433,199.459,spotify:track:6T5C1e56lt5bpLPGFszX0l,161560
+Train,If It's Love,21684,0.628,0.917,6,-3.489,1,0.144,0.0108,2.25e-06,0.306,0.638,94.988,spotify:track:3g4GTF5OZrLrmk7hGZFkH8,239040
+OneRepublic,Secrets,21685,0.516,0.764,2,-6.223,1,0.0366,0.0717,0.0,0.115,0.376,148.021,spotify:track:1NhPKVLsHhFUHIOZ32QnS2,224693
+Disturbed,Another Way To Die,21689,0.621,0.967,6,-2.35,1,0.0692,8.46e-05,0.00612,0.12,0.315,112.017,spotify:track:3EZAnO8lnPCBCcJcwAZbEB,253387
+3OH!3,Double Vision,21690,0.613,0.874,0,-3.545,1,0.0746,0.052,0.0,0.0824,0.74,125.96,spotify:track:1vItowrlA5m3folFrHlGKc,210441
+Soulja Boy Tell'em,Pretty Boy Swag,21691,0.837,0.42,8,-5.158,1,0.0629,0.177,0.0,0.356,0.143,123.157,spotify:track:2zOWuWdyuMqOoboNRKlJO0,236093
+Jaheim,Finding My Way Back,21694,0.605,0.622,0,-5.133,1,0.0425,0.114,0.0,0.15,0.177,136.012,spotify:track:1wCJ3JIsNaJK0MYct4Kmrv,226693
+Rodney Atkins,Farmer's Daughter,21695,0.612,0.791,6,-3.519,1,0.0291,0.224,0.0,0.112,0.786,133.977,spotify:track:5zGqTc1WQUe8XqqdnrpKTV,207040
+Craig Morgan,This Ain't Nothin',21696,0.353,0.532,6,-5.318,1,0.0306,0.153,0.0,0.124,0.282,149.71,spotify:track:3GfFnxBuDNay7D1srwrqZU,242227
+Blake Shelton,All About Tonight,21697,0.674,0.943,0,-3.413,1,0.0408,0.0159,0.0,0.504,0.856,118.06,spotify:track:5cQIrML7iJEUsOCNsHqWlB,205613
+Selena Gomez & The Scene,Round & Round,21701,0.545,0.686,10,-4.081,1,0.0665,0.00265,0.0,0.477,0.486,127.996,spotify:track:5RhxBpoCwX2vLBcSJzYa5j,186493
+Maroon 5,Misery,21702,0.696,0.816,4,-4.902,0,0.0407,0.000264,0.0,0.0867,0.72,102.984,spotify:track:7Ef5f1FRF2y1zIs7xYhzue,216640
+Sara Bareilles,King Of Anything,21703,0.676,0.762,1,-4.172,1,0.0351,0.461,0.0,0.0574,0.81,119.003,spotify:track:3VA8T3rNy5V24AXxNK5u9E,207493
+Eminem,Cold Wind Blows,21705,0.619,0.972,11,-0.517,1,0.416,0.13,0.0,0.782,0.584,169.04,spotify:track:3Tj1luJyKPQt7WbrqpJ2Az,303733
+Miley Cyrus,Stay,21706,0.583,0.698,0,-4.836,1,0.0363,0.255,0.0,0.118,0.34,129.985,spotify:track:0Ohi2pjBS1yak2BSgJRaIs,261907
+Eminem,25 To Life,21708,0.701,0.931,8,-0.945,0,0.243,0.239,0.0,0.194,0.362,79.996,spotify:track:0dyWQoMOU9oERL6c9vxtRp,241587
+Adam Lambert,If I Had You,21709,0.648,0.908,4,-4.251,0,0.108,0.0113,0.0,0.374,0.793,131.147,spotify:track:0H1OyEooZ5SzBYYdJEzxoy,228240
+Kanye West,POWER,21710,0.542,0.914,0,-4.747,0,0.113,0.0161,0.0,0.744,0.576,153.993,spotify:track:2gZUPNdnz5Y45eiGxpHGSc,292093
+Christina Perri,Jar Of Hearts,21711,0.349,0.348,3,-6.142,1,0.0316,0.726,0.0,0.12,0.0886,74.541,spotify:track:0HZhYMZOcUzZKSFwPOti6m,246587
+Josh Turner,All Over Me,21716,0.546,0.776,1,-7.359,1,0.0352,0.403,0.00633,0.193,0.888,169.847,spotify:track:1s8DkdE3uOWrGU7vonKrbK,199493
+3OH!3,I Can Do Anything,21718,0.54,0.906,5,-4.652,0,0.236,0.00247,0.0,0.368,0.438,169.94,spotify:track:5jyDUXlAVUh4XJEJIJgapB,190880
+The Band Perry,If I Die Young,21719,0.606,0.497,4,-6.611,1,0.0277,0.348,0.0,0.275,0.362,130.739,spotify:track:4u26EevCNXMhlvE1xFBJwX,222773
+Fantasia,Bittersweet,21720,0.74,0.81,8,-5.231,1,0.0755,0.0266,2.4e-05,0.0433,0.436,129.972,spotify:track:7lDO0HIPCt63UJj5b20Dft,236640
+Dierks Bentley,Up On The Ridge,21722,0.628,0.823,8,-6.531,0,0.028,0.495,2.8e-05,0.0768,0.41,111.609,spotify:track:6jHKCWp15grCREpx7arDix,214867
+Usher Featuring Pitbull,DJ Got Us Fallin' In Love,21723,0.639,0.907,7,-4.749,0,0.189,0.0444,0.0,0.114,0.699,120.954,spotify:track:5qxULZVAM943gPjtMaH5NX,214280
+Darius Rucker,Come Back Song,21724,0.516,0.745,9,-5.674,1,0.0381,0.138,0.0,0.114,0.77,177.781,spotify:track:4sHOAALFZiNa4wukjPSBpq,235147
+Chiddy Bang,Opposite Of Adults,21727,0.674,0.899,9,-5.115,1,0.193,0.011,0.0,0.327,0.604,95.999,spotify:track:01oPNCtTniFT3YM4K3ksTf,191600
+Hannah Montana,Ordinary Girl,21728,0.411,0.847,7,-3.705,1,0.219,0.0265,0.0,0.222,0.398,182.496,spotify:track:2kIq7Oq6YNfdUuTrmPC4w1,177507
+Monica,Love All Over Me,21729,0.514,0.628,4,-5.661,0,0.0451,0.546,0.0,0.161,0.422,129.539,spotify:track:3jmrIQTRL9ea0Xv4yCvJEJ,229947
+Easton Corbin,Roll With It,21730,0.709,0.654,5,-7.753,1,0.0267,0.106,0.0,0.277,0.488,119.989,spotify:track:7bNX2Fgb4MjPrYbkHaCNwV,207587
+Rob Thomas,Mockingbird,21731,0.571,0.77,0,-5.498,1,0.0314,0.0534,1.02e-06,0.129,0.613,141.996,spotify:track:4L9J2or96xvWhQwWw09fHO,240320
+Katy Perry,Teenage Dream,21732,0.719,0.798,10,-4.582,1,0.0361,0.0162,2.34e-06,0.134,0.591,120.011,spotify:track:5jzKL4BDMClWqRguW5qZvh,227741
+Bruno Mars,Just The Way You Are,21733,0.637,0.843,5,-5.413,1,0.0432,0.0151,0.0,0.0876,0.434,109.012,spotify:track:7BqBn9nzAq8spo5e7cZ0dJ,220733
+Ne-Yo,Champagne Life,21734,0.616,0.741,7,-4.155,1,0.131,0.143,0.0,0.347,0.593,193.069,spotify:track:7p8l7HiPoz90dg423iURKW,323933
+Sugarland,Stuck Like Glue,21736,0.702,0.795,1,-4.764,1,0.0568,0.329,0.0,0.0505,0.836,83.961,spotify:track:0JcKdUGNR7zI4jJDLyYXbi,247587
+Asher Roth,G.R.I.N.D. (Get Ready It's A New Day),21737,0.673,0.84,0,-4.81,1,0.0535,0.0214,0.00259,0.321,0.398,123.077,spotify:track:0R2yQJOFsKqS0SsgPdWqtP,218880
+Kenny Chesney,The Boys of Fall,21738,0.503,0.648,7,-6.243,1,0.027,0.227,0.00124,0.378,0.39,147.942,spotify:track:2Y48Q7HryWdPJZypJotjlJ,391853
+Shinedown,The Crow & The Butterfly,21739,0.319,0.781,5,-3.496,1,0.0329,0.0013,0.0,0.0944,0.238,149.002,spotify:track:1LkMC92Zc21awBWSHWZeGp,253600
+Taylor Swift,Mine,21741,0.624,0.757,7,-2.94,1,0.0296,0.00265,1.87e-06,0.189,0.658,121.07,spotify:track:0dBW6ZsW8skfvoRfgeerBF,230707
+Linkin Park,The Catalyst,21742,0.56,0.925,0,-5.48,1,0.0362,0.0372,0.0,0.104,0.178,135.009,spotify:track:4tXBsD5sEzxlJjWCOz6qzs,339853
+Sean Kingston Featuring Nicki Minaj,Letting Go (Dutty Love),21743,0.792,0.808,5,-4.156,1,0.0963,0.335,0.0,0.269,0.709,92.064,spotify:track:0wDbYIl4fN2mccHczCJqEf,230600
+Katy Perry,Not Like The Movies,21745,0.402,0.479,8,-7.75,1,0.0916,0.881,2.75e-06,0.111,0.257,183.013,spotify:track:1EFNEJyZUsctm6yVzGqLl6,241320
+Daughtry,September,21746,0.459,0.718,10,-5.596,1,0.0319,0.0505,0.0,0.0951,0.34,149.791,spotify:track:2ikUwLex9wXpIOEgY45Wk7,243773
+The Script,The Man Who Can't Be Moved,21747,0.605,0.629,10,-5.051,1,0.0279,0.437,0.0,0.097,0.308,99.894,spotify:track:3nqqDo8CcCLke3ZoTgiOKf,241373
+Katy Perry,Circle The Drain,21749,0.7,0.775,1,-3.94,1,0.0809,0.00735,0.0,0.082,0.751,134.932,spotify:track:7s0YfJE6hNNYq9BV26iCw6,272920
+Plain White T's,Rhythm of Love,21753,0.531,0.542,8,-7.721,1,0.0432,0.356,0.0,0.119,0.726,171.878,spotify:track:6MDTpYxPFL0wtFd0pjfKws,200200
+The Ready Set,Love Like Woe,21754,0.697,0.775,10,-4.106,1,0.0636,0.139,0.0,0.0737,0.822,90.015,spotify:track:4XRZbiVdsA5qv6f6qP70lS,200453
+Mumford & Sons,Little Lion Man,21755,0.517,0.481,5,-8.273,1,0.0272,0.0293,1.79e-05,0.0903,0.461,138.51,spotify:track:6JnufVNLIO5F5Lk4sEVLeI,246973
+Nelly,Just A Dream,21758,0.531,0.752,1,-6.161,1,0.0305,0.0421,0.0,0.12,0.103,89.917,spotify:track:3ZdJffjzJWFimSQyxgGIxN,237800
+Rascal Flatts,Why Wait,21760,0.612,0.765,2,-4.915,1,0.0404,0.122,0.0,0.103,0.553,122.021,spotify:track:3uSeT5T2pOEx5fTdYFJasm,224840
+Maroon 5,Give A Little More,21761,0.753,0.824,0,-4.301,1,0.0385,0.000937,0.00018,0.141,0.937,117.95,spotify:track:2TRuBFYZYw0Q7qIVBhqR1T,180293
+Soundgarden,Black Rain,21762,0.2,0.882,7,-7.177,1,0.072,0.00129,0.607,0.204,0.275,171.02,spotify:track:0JETYuePsiRyCZoQdgxZG2,325813
+Jason Aldean,My Kinda Party,21764,0.41,0.9,0,-4.249,0,0.0656,0.0167,1.09e-05,0.339,0.558,176.962,spotify:track:215FCyLSBcXeX0NASXEjyn,284960
+Katy Perry,Last Friday Night (T.G.I.F.),21765,0.652,0.812,3,-3.797,0,0.0409,0.00125,3.01e-05,0.667,0.72,126.023,spotify:track:3avYqdwHKEq8beXbeWCKqJ,230733
+YG,Toot It And Boot It,21766,0.8,0.536,7,-9.533,1,0.0893,0.127,0.0,0.106,0.247,95.03,spotify:track:3AqcBOSlJF7xMgvLpQoa3c,243747
+Toby Keith,Trailerhood,21768,0.663,0.83,7,-4.584,1,0.039,0.246,1.41e-06,0.285,0.866,98.022,spotify:track:2CdGhu82tkVWkXDPyJCiwU,173693
+Jazmine Sullivan,Holding You Down (Goin In Circles),21769,0.724,0.872,8,-2.706,0,0.14,0.082,0.0,0.316,0.783,95.09,spotify:track:5UdicZrmNt418AmwNixCJP,216960
+Josh Thompson,Way Out Here,21770,0.653,0.826,2,-5.352,1,0.0315,0.0353,0.0,0.193,0.669,122.055,spotify:track:7M68YTelBnT9P1eO1idOOs,212648
+George Strait,The Breath You Take,21771,0.492,0.383,11,-7.735,0,0.0277,0.752,0.000413,0.119,0.248,132.1,spotify:track:0zKsfGlBHj6mzZRhmACl8M,215880
+Miranda Lambert,Only Prettier,21772,0.388,0.695,8,-2.4,1,0.0348,0.0818,0.0,0.0698,0.778,167.966,spotify:track:05Rdg52eBYVUy5A55rnz39,189440
+Brad Paisley,Anything Like Me,21773,0.545,0.522,2,-9.241,1,0.0341,0.422,0.0,0.119,0.446,164.869,spotify:track:74mZKvZcZzzvbOnt8NfWda,268187
+Selena Gomez & The Scene,A Year Without Rain,21774,0.629,0.806,2,-5.264,0,0.0442,0.0102,1.72e-05,0.112,0.409,119.966,spotify:track:1r0XfrhdG6bsiS4oe1QM96,234333
+Michael Buble,Hollywood,21776,0.589,0.913,0,-4.454,1,0.0458,0.0133,0.0,0.109,0.805,131.979,spotify:track:6X5DnbDW9n8mbvKoKTEuAt,253813
+Rihanna,Only Girl (In The World),21777,0.789,0.706,11,-4.233,0,0.0429,0.112,1.71e-05,0.0586,0.638,125.911,spotify:track:2ENexcMEMsYk0rVJigVD3i,235493
+Sean Kingston,Dumb Love,21779,0.758,0.646,0,-3.662,1,0.0721,0.356,0.0,0.473,0.877,128.03,spotify:track:7BGkpHiIqGGA8B9rRPf5VL,186773
+Nick Jonas,Introducing Me,21780,0.513,0.496,11,-6.049,1,0.0511,0.46,0.0,0.106,0.676,113.072,spotify:track:74tQaH4CxM5Rs9BzerEbHr,186893
+Florence + The Machine,Dog Days Are Over,21781,0.492,0.81,7,-5.315,1,0.0847,0.0416,0.00379,0.117,0.245,149.954,spotify:track:1YLJVmuzeM2YSUkCCaTNUB,251840
+Kings Of Leon,Radioactive,21782,0.408,0.925,5,-4.88,1,0.0533,0.00877,0.000454,0.12,0.361,126.405,spotify:track:60CirPlTOEWOUBus7HxV3B,206187
+Keith Urban,Put You In A Song,21784,0.621,0.78,2,-8.502,1,0.0333,0.0174,0.0,0.0681,0.822,134.022,spotify:track:7bkgRHkiyRO1vWzG1hTicD,220387
+Yolanda Be Cool & Dcup,We No Speak Americano,21785,0.733,0.926,6,-7.704,1,0.0457,0.0222,0.608,0.497,0.532,124.004,spotify:track:7zLV30iLRt2GsEQgUEY2OL,201291
+Reba,Turn On The Radio,21787,0.603,0.859,11,-3.772,1,0.0416,0.026,0.0,0.224,0.702,123.072,spotify:track:6A2hvKTF2FShj0Yma7CP8N,215387
+Linkin Park,Waiting For The End,21788,0.487,0.961,4,-4.139,1,0.132,0.0415,1.15e-06,0.553,0.323,170.005,spotify:track:1V4Bq9kYHMk9yILUp5z3o3,231680
+Eric Church,Smoke A Little Smoke,21789,0.77,0.641,10,-6.077,0,0.035,0.0206,0.00023,0.106,0.639,96.98,spotify:track:1ESipSqVefdknPg5IBKFND,191333
+Wiz Khalifa,Black And Yellow,21790,0.684,0.834,2,-4.524,0,0.0675,0.0646,0.0,0.271,0.538,164.02,spotify:track:5A6OHHy73AR5tLxgTc98zz,217667
+Glee Cast,Empire State Of Mind,21791,0.507,0.884,6,-4.566,1,0.33,0.0617,0.0,0.158,0.719,173.575,spotify:track:7pYVIpuFrH2cDMseplG8Jn,277347
+Glee Cast,Telephone,21792,0.729,0.805,5,-5.183,0,0.0329,0.00363,3.08e-06,0.11,0.749,122.021,spotify:track:1oqIgJpPpW9wwXcitli8EF,222960
+Glee Cast,Billionaire,21793,0.791,0.721,6,-5.588,0,0.0939,0.259,0.0,0.104,0.66,87.034,spotify:track:6d5CfH0P84foEd1fkmp7po,211440
+Glee Cast,Listen,21794,0.517,0.644,11,-5.366,1,0.0491,0.174,0.0,0.111,0.195,122.694,spotify:track:2CtYpnf7UBAyjtqyHIn3qf,219253
+Glee Cast,What I Did For Love,21795,0.336,0.404,8,-7.52,1,0.0321,0.462,3.93e-06,0.304,0.0872,75.8,spotify:track:38fCEBQkO14rx8YEbjpRHg,222373
+Akon,Angel,21796,0.565,0.867,2,-2.503,1,0.0318,0.0571,0.0,0.177,0.325,125.867,spotify:track:6LBcHFbzmKSgGjZapRE2B5,215227
+Maroon 5,Stutter,21797,0.711,0.882,1,-2.772,0,0.0333,0.0171,0.0,0.111,0.813,119.991,spotify:track:7zmJyZL3DfYBBYbY8Rve6W,196920
+Jesse McCartney,Shake,21798,0.769,0.824,6,-2.778,1,0.0621,0.0928,0.0,0.0275,0.938,150.02,spotify:track:56LMxFFL4FacadvviKDAh9,188560
+Mike Posner,Please Don't Go,21800,0.699,0.882,4,-3.896,0,0.0311,0.00296,0.0544,0.13,0.657,120.016,spotify:track:6jg5SRvdGxvJ0DzNV0UqEK,196813
+Glee Cast,Toxic,21801,0.607,0.74,8,-5.401,1,0.0561,0.131,0.0,0.0797,0.486,132.586,spotify:track:5oxioZhKHdASa1PZM65kYT,204413
+Glee Cast,The Only Exception,21803,0.282,0.512,4,-6.135,1,0.0304,0.285,4.16e-06,0.138,0.195,138.397,spotify:track:3YmHNOqtLsyg2nTlrapWcd,266707
+Glee Cast,Stronger,21807,0.618,0.752,0,-4.828,1,0.0302,0.00863,0.000175,0.127,0.679,115.957,spotify:track:7iMyX6FTRrY4fO8dHQhAUs,221027
+Glee Cast,Baby One More Time,21808,0.717,0.735,5,-4.322,0,0.0269,0.278,0.0,0.692,0.923,92.964,spotify:track:3uheBt1aGsKcZztD4eGzdP,210867
+Glee Cast,Me Against The Music,21809,0.829,0.909,11,-5.836,0,0.0686,0.0878,0.0,0.193,0.791,120.011,spotify:track:07DXC9tg5mySIQfRoVHYmI,225440
+Lil Wayne,I Am Not A Human Being,21810,0.376,0.841,3,-4.348,0,0.356,0.0435,0.0,0.578,0.463,76.052,spotify:track:1kMuU3TNQvHbqvXCWBodmP,271947
+Nicki Minaj,Right Thru Me,21811,0.381,0.683,1,-4.724,1,0.162,0.0869,0.00164,0.168,0.168,162.246,spotify:track:4dPP7GEqsI5yRy8w8CqWVi,235773
+Lil Wayne,Bill Gates,21812,0.564,0.798,7,-5.392,1,0.227,0.274,3.44e-05,0.129,0.669,90.67,spotify:track:610FzmkhFSsORpECZbjT4X,258787
+My Chemical Romance,Na Na Na (Na Na Na Na Na Na Na Na Na),21813,0.411,0.986,8,-2.522,0,0.0583,0.000264,0.00148,0.371,0.649,165.981,spotify:track:5BB0Jzw60KyfSTyjJqtely,205960
+Bruno Mars,Grenade,21814,0.706,0.558,2,-7.237,0,0.0596,0.146,0.0,0.118,0.228,110.444,spotify:track:16thwsJHghd8kePMZl25c3,223253
+Marsha Ambrosius,Hope She Cheats On You (With A Basketball Player),21815,0.501,0.666,6,-7.312,0,0.414,0.0596,0.0,0.123,0.392,163.925,spotify:track:0ocQiHwHrvLUcon6p3lJNa,243653
+Taylor Swift,Speak Now,21816,0.709,0.599,7,-3.734,1,0.0304,0.095,0.0,0.0973,0.735,118.975,spotify:track:24DefNCFiWTP8OjYWiXuYe,240760
+Glee Cast,I Want To Hold Your Hand,21818,0.484,0.261,7,-10.951,1,0.0267,0.664,1.09e-05,0.17,0.215,78.015,spotify:track:5FeMd5rQHvn9oQQoD8j0Z9,156347
+Glee Cast,One Of Us,21819,0.278,0.572,11,-6.292,1,0.0323,0.19,0.0,0.0981,0.466,177.664,spotify:track:1wNpAmuWqFdFIKc2STISa6,241147
+Glee Cast,Only The Good Die Young,21820,0.572,0.885,0,-5.6,1,0.0866,0.288,0.0,0.0936,0.535,150.072,spotify:track:5FwMr2Grj9SjbUYp04dk5k,225267
+P!nk,Raise Your Glass,21821,0.7,0.709,7,-5.006,1,0.0838,0.0048,0.0,0.029,0.624,122.019,spotify:track:1gv4xPanImH17bKZ9rOveR,202960
+Glee Cast,Losing My Religion,21822,0.565,0.725,10,-6.442,0,0.0302,0.000393,0.0,0.289,0.625,125.407,spotify:track:4VXoOYmknI2CqzkmXdLc8k,214040
+Glee Cast,Papa Can You Hear Me?,21823,0.345,0.127,10,-14.331,0,0.04,0.952,1.55e-05,0.0921,0.174,72.73,spotify:track:4IibBPekuv2Ynz4PnUuNdw,211000
+Glee Cast,Bridge Over Troubled Water,21824,0.445,0.675,10,-7.764,1,0.106,0.156,2.48e-05,0.659,0.448,153.906,spotify:track:31Fkk6lPQuCIlAeRJo6xTq,254120
+Glee Cast,I Look To You,21825,0.465,0.423,6,-7.032,1,0.0291,0.761,3.86e-05,0.0663,0.0872,101.617,spotify:track:4eqBd8RBPIxtiL9joLZowj,264947
+Bruno Mars,The Lazy Song,21826,0.738,0.804,11,-3.851,1,0.0621,0.332,0.0,0.279,0.949,174.943,spotify:track:1ExfPZEiahqhLyajhybFeS,190213
+A Rocket To The Moon,Like We Used To,21827,0.363,0.71,2,-3.08,1,0.0308,0.216,0.0,0.121,0.383,170.113,spotify:track:1fkYmLPG2Oi2AkUmcspWKl,203733
+Edward Maya & Vika Jigulina,Stereo Love,21828,0.773,0.736,9,-5.589,1,0.0383,0.0335,0.0184,0.104,0.212,127.056,spotify:track:5RfBhOGNbbXT5LiIvbHLhN,184000
+Taylor Swift,Back To December,21830,0.529,0.67,2,-4.663,1,0.0303,0.117,0.0,0.334,0.286,141.893,spotify:track:3DrjZArsPsoqbLzUZZV1Id,293027
+Glee Cast,Lucky,21831,0.632,0.468,0,-8.089,1,0.0412,0.541,0.0,0.165,0.669,130.052,spotify:track:4BaEOfLHGeP9gw5ToeiY7a,187560
+Glee Cast,"River Deep, Mountain High",21832,0.325,0.855,8,-4.603,1,0.0755,0.0563,0.000299,0.298,0.497,167.538,spotify:track:6w8tGzTSdZKkKG4IWh1n6h,212627
+Glee Cast,Happy Days Are Here Again / Get Happy,21833,0.36,0.362,8,-6.624,1,0.0303,0.845,0.0,0.0701,0.219,68.789,spotify:track:00HWHVerv16snyQSRrfVWT,135747
+Sugarland,Little Miss,21836,0.351,0.797,11,-4.286,1,0.0379,0.0959,4.12e-05,0.157,0.243,129.14,spotify:track:1hiIyiFaVmFvYKDnEWGzvb,271267
+Darius Rucker,This,21837,0.584,0.524,4,-6.001,1,0.0287,0.335,0.0,0.11,0.389,143.863,spotify:track:4gzeYkzuzxuzAUTsGcdjqA,219000
+Glee Cast,Sing!,21838,0.596,0.74,0,-5.552,1,0.0486,0.00724,0.0,0.357,0.527,88.938,spotify:track:1v3RJ3mtHllca29JVi12OB,183293
+Glee Cast,Le Jazz Hot,21839,0.467,0.505,10,-7.27,1,0.0803,0.401,0.0,0.188,0.271,92.355,spotify:track:7hrWWPJZaKuldiXhfzjoMv,262813
+Trace Adkins,This Ain't No Love Song,21840,0.502,0.87,4,-5.06,1,0.0546,0.0688,0.000386,0.126,0.545,160.006,spotify:track:07A3gDZJo7rKavXtgEXZY9,200680
+Taylor Swift,Mean,21841,0.568,0.761,4,-3.987,1,0.0459,0.452,0.0,0.217,0.789,163.974,spotify:track:5yEPktRqvIhko5QFF3aBhQ,237733
+Katy Perry,Firework,21842,0.637,0.867,8,-3.686,1,0.05,0.143,0.0,0.11,0.652,124.069,spotify:track:5cVBh6UsfqEOIZ18e266Q3,227973
+WILLOW,Whip My Hair,21844,0.552,0.98,9,-4.676,0,0.254,0.00159,0.00552,0.438,0.668,162.961,spotify:track:4Dio1t8RHzLv1nfPJTSZyP,195440
+Kings Of Leon,The End,21846,0.332,0.586,3,-6.307,0,0.0362,0.0014,0.0108,0.063,0.228,79.787,spotify:track:1T76pppCs1bFBcVpRCWzxS,264013
+Lloyd,Lay It Down,21850,0.527,0.796,1,-5.111,0,0.062,0.017,0.0,0.0798,0.534,155.99,spotify:track:0npGoOENjn7vVvIMmvWekQ,240107
+The Black Keys,Tighten Up,21851,0.504,0.705,6,-6.179,0,0.0665,0.00121,4.12e-06,0.453,0.567,108.965,spotify:track:2MVwrvjmcdt4MsYYLCYMt8,211080
+Natasha Bedingfield,Strip Me,21852,0.568,0.78,7,-5.365,1,0.0854,0.222,0.0,0.426,0.529,159.947,spotify:track:4vj4okOxlFrGPaXd5nytPl,209400
+Ke$ha,We R Who We R,21853,0.744,0.474,8,-12.81,1,0.112,0.214,0.0,0.231,0.745,119.999,spotify:track:1p4mnh4jOsO14XtD5zAjaB,199054
+Taylor Swift,Sparks Fly,21854,0.605,0.787,5,-3.002,1,0.0308,0.0396,1.42e-06,0.163,0.374,114.987,spotify:track:6d9IiDcFxtFVIvt9pCqyGH,260933
+Taylor Swift,Innocent,21855,0.552,0.608,1,-5.29,0,0.0259,0.186,0.0,0.125,0.17,134.05,spotify:track:3kfgJql90tzgoxByioAMXR,302253
+Chris Brown,Yeah 3X,21856,0.705,0.882,11,-3.201,0,0.0445,0.000369,1.16e-06,0.0934,0.7,130.0,spotify:track:2QtxlzvSBONjs1bDC34ixs,241667
+Taylor Swift,The Story Of Us,21857,0.543,0.818,4,-3.611,1,0.0398,0.00478,0.000368,0.0357,0.683,139.898,spotify:track:3RBluWmSoG2pGA1OePzGJI,265667
+Taylor Swift,Dear John,21858,0.589,0.47,4,-5.32,1,0.028,0.166,1.45e-06,0.112,0.102,119.386,spotify:track:1ubvV5ECkm6nSI6g1HmbBK,403920
+Taylor Swift,Better Than Revenge,21859,0.516,0.917,11,-3.186,0,0.0827,0.0139,6.37e-06,0.36,0.635,145.821,spotify:track:1By2VQkUN0Frd8mKNV5NYC,217160
+Taylor Swift,Haunted,21860,0.436,0.95,5,-2.627,1,0.057,0.0826,1.08e-06,0.149,0.352,162.088,spotify:track:11UaQaEp2LvdspTyyuE3ur,242080
+Taylor Swift,Last Kiss,21861,0.371,0.341,10,-9.475,1,0.0319,0.57,3.09e-05,0.101,0.196,89.038,spotify:track:1D27z8xNzjW0Mwwt1NCWhJ,367133
+Rascal Flatts,I Won't Let Go,21862,0.557,0.406,4,-7.083,1,0.0278,0.742,0.0,0.113,0.222,131.96,spotify:track:1T1C9VVQ1lb60WxWZx7KoG,227760
+Taylor Swift,Enchanted,21863,0.455,0.623,8,-3.878,1,0.0288,0.0739,0.000424,0.146,0.208,163.893,spotify:track:10eBRyImhfqVvkiVEGf0N0,352187
+Kid Cudi,Mr. Rager,21864,0.671,0.726,7,-8.689,1,0.0272,0.389,0.882,0.14,0.581,102.002,spotify:track:393MDhe62s8hbH8ETrlxe5,294227
+Taylor Swift,Never Grow Up,21865,0.714,0.305,2,-8.837,1,0.0305,0.819,0.0,0.174,0.554,124.91,spotify:track:74WBGgUnpKrJXt6TETfR6Z,290467
+Taylor Swift,Long Live,21866,0.418,0.68,7,-4.3,1,0.0347,0.036,7.59e-05,0.114,0.142,204.12,spotify:track:7DjCRhhFo9PPzca1BjMLcf,317453
+Glee Cast,Time Warp,21867,0.395,0.817,11,-5.757,0,0.125,0.0442,7.23e-05,0.243,0.635,176.196,spotify:track:1onMcvjW2nZ2dHtbJn2cN7,193560
+Ne-Yo,One In A Million,21868,0.763,0.794,11,-6.078,1,0.0364,0.122,2.86e-06,0.327,0.65,99.999,spotify:track:03ZtlmARAMWhAgZSIs6Fes,243227
+Luke Bryan,Someone Else Calling You Baby,21869,0.498,0.916,8,-3.728,1,0.0662,0.052,1.31e-06,0.0734,0.352,115.045,spotify:track:7DkzLcSXS4KhSvbvIJja3M,229253
+Tim McGraw,Felt Good On My Lips,21870,0.56,0.869,3,-3.804,1,0.0387,0.024,2.94e-06,0.136,0.519,136.001,spotify:track:2D2tn77f5ZrADmf8h4zR3t,277400
+Pitbull,"Bon, Bon",21873,0.798,0.895,5,-7.811,1,0.216,0.177,0.0,0.358,0.784,127.967,spotify:track:2sFU5bR4Nsk0SWtZZIc36r,215880
+Kenny Chesney,Somewhere With You,21874,0.68,0.849,1,-6.475,0,0.0376,0.0862,0.00013,0.174,0.536,111.969,spotify:track:3pkzJjJXfdDjhpXx639MIH,243520
+Chris Young,Voices,21877,0.552,0.788,0,-4.112,1,0.0525,0.38,0.0,0.15,0.641,76.528,spotify:track:5pemEFax3jfocz4FGHa3UC,186107
+Toby Keith,Bullets In The Gun,21879,0.61,0.761,9,-6.022,1,0.0627,0.339,1.88e-05,0.0839,0.433,120.017,spotify:track:26bRcXA9qmivWYTPocMlfT,256613
+Blake Shelton,Who Are You When I'm Not Looking,21881,0.412,0.457,4,-9.142,1,0.0288,0.409,0.0187,0.0978,0.202,74.824,spotify:track:15fZHvjZXoAILTvmt4EXIk,187733
+Glee Cast,Teenage Dream,21882,0.493,0.362,2,-9.56,1,0.0384,0.74,0.0,0.0966,0.65,129.739,spotify:track:2Igc5kWSzeztCCZInea9Mf,225347
+The Black Eyed Peas,The Time (Dirty Bit),21883,0.799,0.676,9,-12.642,1,0.0523,0.0339,0.00212,0.0892,0.679,128.009,spotify:track:3TyIWEX7dDQI5tsKLEJtKA,294191
+Glee Cast,Start Me Up / Livin' On A Prayer,21884,0.558,0.886,6,-4.114,0,0.0367,0.129,0.0,0.337,0.571,123.005,spotify:track:2b93fpnWgsXmmnCBKZ86nu,170707
+Glee Cast,Stop! In The Name Of Love / Free Your Mind,21885,0.648,0.767,5,-5.105,0,0.0359,0.0282,0.0,0.0357,0.646,119.987,spotify:track:3s3GGkQwwQZq1HOsAjLkK1,209787
+Glee Cast,One Love (People Get Ready),21886,0.719,0.521,10,-5.661,1,0.0696,0.275,0.0,0.11,0.828,80.534,spotify:track:1M5Mb38gVMh39zcAPSAC7A,154307
+Kid Cudi,Marijuana,21887,0.673,0.403,8,-9.809,0,0.0273,0.829,0.829,0.272,0.54,140.986,spotify:track:2GtaNlidzvK3hY78kCdsHa,260200
+Lupe Fiasco,The Show Goes On,21888,0.591,0.889,7,-3.839,1,0.115,0.0189,0.0,0.155,0.65,143.067,spotify:track:4NTWZqvfQTlOMitlVn6tew,239613
+Lady Antebellum,Hello World,21890,0.427,0.531,8,-6.985,1,0.0297,0.0555,0.00106,0.0835,0.145,111.079,spotify:track:2zdltIgwTAWGXHHJGTPKqv,326107
+Jason Derulo,What If,21891,0.429,0.757,1,-2.912,1,0.0306,0.14,0.0,0.144,0.538,82.517,spotify:track:4IBuAtdsM6psUgfhHgoy4e,203240
+Train,Marry Me,21901,0.461,0.267,0,-8.514,1,0.0278,0.834,2.03e-05,0.107,0.481,87.918,spotify:track:2MWOqewf5j0qf2b6S5J6cS,205453
+Ke$ha,Blow,21902,0.4,0.657,3,-11.336,1,0.0321,0.0826,2.71e-06,0.104,0.415,185.188,spotify:track:1hJy5aMqVeGz6FWocLp4ct,214680
+Flo Rida,Turn Around (5 4 3 2 1),21903,0.697,0.835,6,-5.843,1,0.0912,0.00578,0.0,0.314,0.832,128.018,spotify:track:6Uj8ru7TNLDIelbuQ8eBd6,201387
+Glee Cast,Marry You,21905,0.637,0.768,5,-6.888,1,0.0318,0.0335,7.77e-06,0.161,0.459,144.914,spotify:track:3IFo5x0HWlvRu0QIAtefor,225133
+Glee Cast,Just The Way You Are,21906,0.606,0.719,8,-6.77,1,0.039,0.00864,0.0,0.0765,0.366,108.985,spotify:track:3LRcDiWeIFSXmBZtyv7sJ4,216093
+Christina Aguilera,Show Me How You Burlesque,21908,0.753,0.708,7,-5.389,1,0.265,0.0081,0.0,0.188,0.323,105.521,spotify:track:3my8nYpb74vfIPyRPo0zVq,179373
+Keri Hilson,Pretty Girl Rock,21909,0.666,0.87,11,-5.004,0,0.246,0.203,0.0,0.0851,0.9,160.014,spotify:track:2Adn2LNgkHMH5TelQVAu4n,243920
+Bruno Mars,Marry You,21912,0.62,0.832,10,-4.848,1,0.036,0.332,0.0,0.104,0.481,144.926,spotify:track:22PMfvdz35fFKYnJyMn077,230120
+Kanye West,All Of The Lights,21913,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71e-05,0.176,0.221,142.113,spotify:track:22L7bfCiAkJo5xGSQgmiIO,299613
+Billy Currington,Let Me Down Easy,21915,0.606,0.497,1,-5.005,1,0.0278,0.361,0.0,0.106,0.18,125.059,spotify:track:1tZ5C8zI326sIB4kBErdmC,228493
+Sick Puppies,Maybe,21916,0.437,0.913,7,-4.315,1,0.0972,0.0171,0.0,0.284,0.537,167.861,spotify:track:3K3qKMsD5P9PRCbBV4lvgd,206120
+Glee Cast,Dog Days Are Over,21917,0.539,0.717,7,-7.189,1,0.0844,0.0145,2.6e-06,0.132,0.336,149.898,spotify:track:5fGIpWOFzbv8x3Rk1xuZN6,252800
+Coldplay,Christmas Lights,21918,0.295,0.496,7,-9.478,1,0.0327,0.207,0.000396,0.858,0.224,132.062,spotify:track:4QVdnpSO5JGMFOEl6ys4RQ,268521
+Glee Cast,"Hey, Soul Sister",21919,0.665,0.533,2,-6.112,1,0.0279,0.589,0.0,0.225,0.629,97.035,spotify:track:4kRROniJRDFFhgzGv2pnD1,220547
+Glee Cast,Valerie,21921,0.651,0.889,5,-5.236,1,0.0694,0.00308,0.0,0.417,0.813,107.009,spotify:track:4hBW3h6FnQNh7NRmyxLLG7,213413
+The Killers,Boots,21924,0.569,0.554,6,-6.657,1,0.0281,0.459,8.88e-05,0.0748,0.171,98.987,spotify:track:7DTOferrmz2Fatq48y4goQ,328600
+Glee Cast,"Baby, It's Cold Outside",21929,0.52,0.27,8,-9.806,1,0.0299,0.616,0.0,0.109,0.509,110.789,spotify:track:7irY7Ldcf6BFpycGl62vum,166547
+Glee Cast,Welcome Christmas,21930,0.419,0.254,11,-9.302,1,0.0297,0.911,0.0,0.275,0.0819,110.822,spotify:track:6AAmQM86SXxAq28rST7yjG,133667
+Adele,Rolling In The Deep,21931,0.73,0.769,8,-5.114,1,0.0298,0.138,0.0,0.0473,0.507,104.948,spotify:track:1c8gk2PeTE04A1pIDH9YMk,228093
+Chris Brown,No BS,21932,0.426,0.612,1,-6.359,0,0.0567,0.12,0.0,0.119,0.106,172.171,spotify:track:6P3cUSAoT4EeMxVgWVdBra,247933
+Jamie Foxx Featuring Drake,Fall For Your Type,21934,0.596,0.395,1,-11.833,1,0.0897,0.404,5.73e-06,0.111,0.172,136.852,spotify:track:7eck9XwORW9cWwnrMKt0dw,269493
